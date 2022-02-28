@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Computer System Architecture Lab</title>
+    <link>https://ku-csarch.github.io/publication/</link>
+      <atom:link href="https://ku-csarch.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 16 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ku-csarch.github.io/media/icon_hufc4ea502f7977d2b250399d95297f953_357528_512x512_fill_lanczos_center_3.png</url>
+      <title>Publications</title>
+      <link>https://ku-csarch.github.io/publication/</link>
+    </image>
+    
+    <item>
+      <title>CacheRewinder: Revoking Speculative Cache Updates Exploiting Write-Back Buffer</title>
+      <link>https://ku-csarch.github.io/publication/sec_victim_date22/</link>
+      <pubDate>Wed, 16 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/sec_victim_date22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stealth ECC: A Data-Width Aware Adaptive ECC Scheme for DRAM Error Resilience</title>
+      <link>https://ku-csarch.github.io/publication/dram_ecc_date22/</link>
+      <pubDate>Wed, 16 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/dram_ecc_date22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Restore Buffer Overflow Attacks: Breaking Undo-Based Defense Schemes</title>
+      <link>https://ku-csarch.github.io/publication/sec_attack_icoin22/</link>
+      <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/sec_attack_icoin22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analyzing Characteristics of Memory Timing Side-Channels in GPU</title>
+      <link>https://ku-csarch.github.io/publication/gpu_side_ksc21/</link>
+      <pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/gpu_side_ksc21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analyzing Data Cache Performance of Modern GPU Architecture</title>
+      <link>https://ku-csarch.github.io/publication/gpu_cache_ksc21/</link>
+      <pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/gpu_cache_ksc21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analyzing the Performance of GCN Inferences with respect to Sparsity of Graph Features</title>
+      <link>https://ku-csarch.github.io/publication/gnn_profile_ksc21/</link>
+      <pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/gnn_profile_ksc21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Processor and Operation Thereof to Revoke Cache Memory States Utilizing Write-Back Buffer</title>
+      <link>https://ku-csarch.github.io/publication/sec_victim_patent21/</link>
+      <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/sec_victim_patent21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RT-Sniper: A Low-Overhead Defense Mechanism Pinpointing Cache Side-Channel Attacks</title>
+      <link>https://ku-csarch.github.io/publication/sec_cache_mdpi21/</link>
+      <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/sec_cache_mdpi21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Revealing Characteristics of GCN Inference Models Using a GPU Profiler</title>
+      <link>https://ku-csarch.github.io/publication/gnn_profile_kcc21/</link>
+      <pubDate>Fri, 25 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/gnn_profile_kcc21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic Near-Data Processing Control Mechanism Based on Computer Resource Availability on Solid-State Disk Platforms</title>
+      <link>https://ku-csarch.github.io/publication/ssd_proc_patent20/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/ssd_proc_patent20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Audio Compression Accelerator Design for Improving the Response Time of AI Speakers</title>
+      <link>https://ku-csarch.github.io/publication/accel_speaker_ieie20/</link>
+      <pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/accel_speaker_ieie20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hi-End: Hierarchical, Endurance-Aware STT-MRAM-Based Register File for Energy-Efficient GPUs</title>
+      <link>https://ku-csarch.github.io/publication/gpu_nvrf_access20/</link>
+      <pubDate>Mon, 13 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/gpu_nvrf_access20/</guid>
+      <description>&lt;p&gt;#&lt;div class=&#34;alert alert-note&#34;&gt;&lt;/p&gt;
+  &lt;div&gt;
+    &lt;p&gt;#Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/p&gt;
+&lt;h1 id=&#34;heading&#34;&gt;&lt;/h1&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h1 id=&#34;heading&#34;&gt;&lt;/h1&gt;
+&lt;p&gt;#Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>GraphSSD: Graph Semantics Aware SSD</title>
+      <link>https://ku-csarch.github.io/publication/ssd_graph_isca19/</link>
+      <pubDate>Wed, 26 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/ssd_graph_isca19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linebacker: Preserving Victim Cache Lines in Idle Register Files of GPUs</title>
+      <link>https://ku-csarch.github.io/publication/gpu_lb_isca19/</link>
+      <pubDate>Wed, 26 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/gpu_lb_isca19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Increasing Read Pending Queue Capacity to Increase Memory Bandwidth</title>
+      <link>https://ku-csarch.github.io/publication/dram_ctrl_patent18/</link>
+      <pubDate>Thu, 05 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/dram_ctrl_patent18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CTA-Aware Prefetching and Scheduling for GPU</title>
+      <link>https://ku-csarch.github.io/publication/gpu_caps_ipdps18/</link>
+      <pubDate>Fri, 25 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/gpu_caps_ipdps18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Summarizer: Trading Communication with Computing near Storage</title>
+      <link>https://ku-csarch.github.io/publication/ssd_proc_micro17/</link>
+      <pubDate>Sat, 14 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/ssd_proc_micro17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Access Pattern-Aware Cache Management for Improving Data Utilization in GPU</title>
+      <link>https://ku-csarch.github.io/publication/gpu_apcm_isca17/</link>
+      <pubDate>Sat, 24 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/gpu_apcm_isca17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving Energy Efficiency of GPUs through Data Compression and Compressed Execution</title>
+      <link>https://ku-csarch.github.io/publication/gpu_rfcomp_tc17/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/gpu_rfcomp_tc17/</guid>
+      <description>&lt;p&gt;#&lt;div class=&#34;alert alert-note&#34;&gt;&lt;/p&gt;
+  &lt;div&gt;
+    &lt;p&gt;#Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/p&gt;
+&lt;h1 id=&#34;heading&#34;&gt;&lt;/h1&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h1 id=&#34;heading&#34;&gt;&lt;/h1&gt;
+&lt;p&gt;#Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Warped-Preexecution: A GPU Pre-Execution Approach for Improving Latency Hiding</title>
+      <link>https://ku-csarch.github.io/publication/gpu_pwarp_hpca16/</link>
+      <pubDate>Wed, 16 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/gpu_pwarp_hpca16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Revealing Critical Loads and Hidden Data Locality in GPGPU Applications</title>
+      <link>https://ku-csarch.github.io/publication/gpu_load_iiswc15/</link>
+      <pubDate>Tue, 06 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/gpu_load_iiswc15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Warped-Compression: Enabling Power Efficient GPUs through Register Compression</title>
+      <link>https://ku-csarch.github.io/publication/gpu_rfcomp_isca15/</link>
+      <pubDate>Sat, 13 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/gpu_rfcomp_isca15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Complementary Block-Based Motion Estimation for Frame Rate Up-Conversion</title>
+      <link>https://ku-csarch.github.io/publication/frc_icce11/</link>
+      <pubDate>Wed, 12 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/frc_icce11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Robust PRML Read Channel with Digital Timing Recovery for Multi-Format Optical Disc</title>
+      <link>https://ku-csarch.github.io/publication/prml_iscas06/</link>
+      <pubDate>Wed, 24 May 2006 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/prml_iscas06/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

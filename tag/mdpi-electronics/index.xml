@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MDPI Electronics | Computer System Architecture Lab</title>
+    <link>https://ku-csarch.github.io/tag/mdpi-electronics/</link>
+      <atom:link href="https://ku-csarch.github.io/tag/mdpi-electronics/index.xml" rel="self" type="application/rss+xml" />
+    <description>MDPI Electronics</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 06 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ku-csarch.github.io/media/icon_hufc4ea502f7977d2b250399d95297f953_357528_512x512_fill_lanczos_center_3.png</url>
+      <title>MDPI Electronics</title>
+      <link>https://ku-csarch.github.io/tag/mdpi-electronics/</link>
+    </image>
+    
+    <item>
+      <title>One paper accepted to MDPI Electronics (Journal, SCIE)</title>
+      <link>https://ku-csarch.github.io/post/accepted-mdpi21/</link>
+      <pubDate>Sat, 06 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/accepted-mdpi21/</guid>
+      <description>&lt;p&gt;One paper was accepted to &lt;em&gt;MDPI Electronics&lt;/em&gt;. Our paper proposes &lt;em&gt;RT-Sniper&lt;/em&gt;, a software-based lightweight defense solution against cache side-channel attacks. &lt;em&gt;RT-Sniper&lt;/em&gt; pinpoints attack processes efficiently using a two-phased monitoring mechanism: core-level and process-level profiling. Hence, &lt;em&gt;RT-Sniper&lt;/em&gt; can effectively detect malicious processes with negligible performance overhead.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

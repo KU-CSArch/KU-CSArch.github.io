@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Christopher B. Wilkerson | Computer System Architecture Lab</title>
+    <link>https://ku-csarch.github.io/authors/christopher-b.-wilkerson/</link>
+      <atom:link href="https://ku-csarch.github.io/authors/christopher-b.-wilkerson/index.xml" rel="self" type="application/rss+xml" />
+    <description>Christopher B. Wilkerson</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 05 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ku-csarch.github.io/media/icon_hufc4ea502f7977d2b250399d95297f953_357528_512x512_fill_lanczos_center_3.png</url>
+      <title>Christopher B. Wilkerson</title>
+      <link>https://ku-csarch.github.io/authors/christopher-b.-wilkerson/</link>
+    </image>
+    
+    <item>
+      <title>Increasing Read Pending Queue Capacity to Increase Memory Bandwidth</title>
+      <link>https://ku-csarch.github.io/publication/dram_ctrl_patent18/</link>
+      <pubDate>Thu, 05 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/dram_ctrl_patent18/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

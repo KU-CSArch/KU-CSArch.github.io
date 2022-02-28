@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Workshop | Computer System Architecture Lab</title>
+    <link>https://ku-csarch.github.io/tag/workshop/</link>
+      <atom:link href="https://ku-csarch.github.io/tag/workshop/index.xml" rel="self" type="application/rss+xml" />
+    <description>Workshop</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 20 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ku-csarch.github.io/media/icon_hufc4ea502f7977d2b250399d95297f953_357528_512x512_fill_lanczos_center_3.png</url>
+      <title>Workshop</title>
+      <link>https://ku-csarch.github.io/tag/workshop/</link>
+    </image>
+    
+    <item>
+      <title>Prof. Gunjae Koo will be serving on the program committee for GPGPU 2022</title>
+      <link>https://ku-csarch.github.io/post/committee-gpgpu22/</link>
+      <pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/committee-gpgpu22/</guid>
+      <description>&lt;p&gt;Prof. Gunjae Koo will be serving on the program committee for the 14th Workshop on the General Purpose Processing Using GPU (&lt;a href=&#34;https://sarchlab.github.io/gpgpu2022/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GPGPU 2022&lt;/a&gt;). GPGPU 2022 will be held in conjunction with &lt;a href=&#34;https://hpca-conf.org/2022/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HPCA 2022&lt;/a&gt; in Seoul, South Korea. Please submit your best work!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>One paper accepted to ICOIN 2022</title>
+      <link>https://ku-csarch.github.io/post/accepted-icoin22/</link>
+      <pubDate>Tue, 07 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/accepted-icoin22/</guid>
+      <description>&lt;p&gt;One paper was accepted to &lt;em&gt;Workshop on Information System Security (WISS)&lt;/em&gt; which will be held in conjunction with &lt;em&gt;International Conference on Information Networking (ICOIN) 2022&lt;/em&gt;. Our work reveals the undo-based protection schemes are still vulnerable to the modified Prime+Probe type attack that makes the restore buffer overflowed. Using the proposed restore buffer overflow attack approach, we reveal the attack can leak part of secret data successfully even though the processor is protected by the undo-based defense scheme.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

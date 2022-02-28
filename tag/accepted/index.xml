@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Accepted | Computer System Architecture Lab</title>
+    <link>https://ku-csarch.github.io/tag/accepted/</link>
+      <atom:link href="https://ku-csarch.github.io/tag/accepted/index.xml" rel="self" type="application/rss+xml" />
+    <description>Accepted</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 13 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ku-csarch.github.io/media/icon_hufc4ea502f7977d2b250399d95297f953_357528_512x512_fill_lanczos_center_3.png</url>
+      <title>Accepted</title>
+      <link>https://ku-csarch.github.io/tag/accepted/</link>
+    </image>
+    
+    <item>
+      <title>One paper accepted to IEEE Transactions on Computers (Journal, SCIE)</title>
+      <link>https://ku-csarch.github.io/post/accepted-tc22/</link>
+      <pubDate>Sun, 13 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/accepted-tc22/</guid>
+      <description>&lt;p&gt;One paper was accepted to &lt;em&gt;IEEE Transactions on Computers&lt;/em&gt;. Our paper proposes &lt;em&gt;FLIXR&lt;/em&gt;, an efficient in-storage indexing mechanism in SSDs. &lt;em&gt;FLIXR&lt;/em&gt; builds and maintains the page-level indexes exploiting the SSD&amp;rsquo;s native page translation structures. &lt;em&gt;FLIXR&lt;/em&gt; automatically creates and updates new per-page indexes while new data is written to flash memory pages. FLIXR&amp;rsquo;s in-storage indexes are efficiently maintained in SSD&amp;rsquo;s flash translation layer alongside with page translation structures. Hence FLIXR can effectively reduce host processor&amp;rsquo;s heavy burdens for creating and maintaining index structures of large database structures.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>One paper accepted to ICOIN 2022</title>
+      <link>https://ku-csarch.github.io/post/accepted-icoin22/</link>
+      <pubDate>Tue, 07 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/accepted-icoin22/</guid>
+      <description>&lt;p&gt;One paper was accepted to &lt;em&gt;Workshop on Information System Security (WISS)&lt;/em&gt; which will be held in conjunction with &lt;em&gt;International Conference on Information Networking (ICOIN) 2022&lt;/em&gt;. Our work reveals the undo-based protection schemes are still vulnerable to the modified Prime+Probe type attack that makes the restore buffer overflowed. Using the proposed restore buffer overflow attack approach, we reveal the attack can leak part of secret data successfully even though the processor is protected by the undo-based defense scheme.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Two papers accepted to DATE 2022</title>
+      <link>https://ku-csarch.github.io/post/accepted-date22/</link>
+      <pubDate>Thu, 11 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/accepted-date22/</guid>
+      <description>&lt;p&gt;Two papers were accepted to &lt;em&gt;Design, Automation and Test in Europe Conference (DATE) 2022&lt;/em&gt;. One paper proposes &lt;em&gt;CacheRewinder&lt;/em&gt;, an efficient architectural defense mechanism against transient execution attacks. &lt;em&gt;CacheRewinder&lt;/em&gt; exploits the underutilized write-back buffer entries to revoke cache updates done by speculative executions. Another paper presents &lt;em&gt;Stealth ECC&lt;/em&gt;, a cost-effective and strong memory protection scheme. &lt;em&gt;Stealth ECC&lt;/em&gt; exploits not-meaningful data fields to provide stronger error correction capability.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>One paper accepted to MDPI Electronics (Journal, SCIE)</title>
+      <link>https://ku-csarch.github.io/post/accepted-mdpi21/</link>
+      <pubDate>Sat, 06 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/accepted-mdpi21/</guid>
+      <description>&lt;p&gt;One paper was accepted to &lt;em&gt;MDPI Electronics&lt;/em&gt;. Our paper proposes &lt;em&gt;RT-Sniper&lt;/em&gt;, a software-based lightweight defense solution against cache side-channel attacks. &lt;em&gt;RT-Sniper&lt;/em&gt; pinpoints attack processes efficiently using a two-phased monitoring mechanism: core-level and process-level profiling. Hence, &lt;em&gt;RT-Sniper&lt;/em&gt; can effectively detect malicious processes with negligible performance overhead.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

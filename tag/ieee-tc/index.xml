@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IEEE TC | Computer System Architecture Lab</title>
+    <link>https://ku-csarch.github.io/tag/ieee-tc/</link>
+      <atom:link href="https://ku-csarch.github.io/tag/ieee-tc/index.xml" rel="self" type="application/rss+xml" />
+    <description>IEEE TC</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 13 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ku-csarch.github.io/media/icon_hufc4ea502f7977d2b250399d95297f953_357528_512x512_fill_lanczos_center_3.png</url>
+      <title>IEEE TC</title>
+      <link>https://ku-csarch.github.io/tag/ieee-tc/</link>
+    </image>
+    
+    <item>
+      <title>One paper accepted to IEEE Transactions on Computers (Journal, SCIE)</title>
+      <link>https://ku-csarch.github.io/post/accepted-tc22/</link>
+      <pubDate>Sun, 13 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/accepted-tc22/</guid>
+      <description>&lt;p&gt;One paper was accepted to &lt;em&gt;IEEE Transactions on Computers&lt;/em&gt;. Our paper proposes &lt;em&gt;FLIXR&lt;/em&gt;, an efficient in-storage indexing mechanism in SSDs. &lt;em&gt;FLIXR&lt;/em&gt; builds and maintains the page-level indexes exploiting the SSD&amp;rsquo;s native page translation structures. &lt;em&gt;FLIXR&lt;/em&gt; automatically creates and updates new per-page indexes while new data is written to flash memory pages. FLIXR&amp;rsquo;s in-storage indexes are efficiently maintained in SSD&amp;rsquo;s flash translation layer alongside with page translation structures. Hence FLIXR can effectively reduce host processor&amp;rsquo;s heavy burdens for creating and maintaining index structures of large database structures.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

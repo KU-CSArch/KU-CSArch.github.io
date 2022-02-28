@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hyunwoo Moon | Computer System Architecture Lab</title>
+    <link>https://ku-csarch.github.io/authors/hyunwoo-moon/</link>
+      <atom:link href="https://ku-csarch.github.io/authors/hyunwoo-moon/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hyunwoo Moon</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://ku-csarch.github.io/authors/hyunwoo-moon/avatar_huc1fcd4aeba5f9db4880fc7156bd3cdb5_1226572_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Hyunwoo Moon</title>
+      <link>https://ku-csarch.github.io/authors/hyunwoo-moon/</link>
+    </image>
+    
+  </channel>
+</rss>

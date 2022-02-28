@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Myung Kuk Yoon | Computer System Architecture Lab</title>
+    <link>https://ku-csarch.github.io/authors/myung-kuk-yoon/</link>
+      <atom:link href="https://ku-csarch.github.io/authors/myung-kuk-yoon/index.xml" rel="self" type="application/rss+xml" />
+    <description>Myung Kuk Yoon</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 20 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ku-csarch.github.io/media/icon_hufc4ea502f7977d2b250399d95297f953_357528_512x512_fill_lanczos_center_3.png</url>
+      <title>Myung Kuk Yoon</title>
+      <link>https://ku-csarch.github.io/authors/myung-kuk-yoon/</link>
+    </image>
+    
+    <item>
+      <title>Analyzing Characteristics of Memory Timing Side-Channels in GPU</title>
+      <link>https://ku-csarch.github.io/publication/gpu_side_ksc21/</link>
+      <pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/gpu_side_ksc21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Warped-Preexecution: A GPU Pre-Execution Approach for Improving Latency Hiding</title>
+      <link>https://ku-csarch.github.io/publication/gpu_pwarp_hpca16/</link>
+      <pubDate>Wed, 16 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/gpu_pwarp_hpca16/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

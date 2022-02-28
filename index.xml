@@ -1,0 +1,509 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Computer System Architecture Lab</title>
+    <link>https://ku-csarch.github.io/</link>
+      <atom:link href="https://ku-csarch.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Computer System Architecture Lab</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ku-csarch.github.io/media/icon_hufc4ea502f7977d2b250399d95297f953_357528_512x512_fill_lanczos_center_3.png</url>
+      <title>Computer System Architecture Lab</title>
+      <link>https://ku-csarch.github.io/</link>
+    </image>
+    
+    <item>
+      <title>Example Talk</title>
+      <link>https://ku-csarch.github.io/talk/example-talk/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/talk/example-talk/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further event details, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CacheRewinder: Revoking Speculative Cache Updates Exploiting Write-Back Buffer</title>
+      <link>https://ku-csarch.github.io/publication/sec_victim_date22/</link>
+      <pubDate>Wed, 16 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/sec_victim_date22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stealth ECC: A Data-Width Aware Adaptive ECC Scheme for DRAM Error Resilience</title>
+      <link>https://ku-csarch.github.io/publication/dram_ecc_date22/</link>
+      <pubDate>Wed, 16 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/dram_ecc_date22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>One paper accepted to IEEE Transactions on Computers (Journal, SCIE)</title>
+      <link>https://ku-csarch.github.io/post/accepted-tc22/</link>
+      <pubDate>Sun, 13 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/accepted-tc22/</guid>
+      <description>&lt;p&gt;One paper was accepted to &lt;em&gt;IEEE Transactions on Computers&lt;/em&gt;. Our paper proposes &lt;em&gt;FLIXR&lt;/em&gt;, an efficient in-storage indexing mechanism in SSDs. &lt;em&gt;FLIXR&lt;/em&gt; builds and maintains the page-level indexes exploiting the SSD&amp;rsquo;s native page translation structures. &lt;em&gt;FLIXR&lt;/em&gt; automatically creates and updates new per-page indexes while new data is written to flash memory pages. FLIXR&amp;rsquo;s in-storage indexes are efficiently maintained in SSD&amp;rsquo;s flash translation layer alongside with page translation structures. Hence FLIXR can effectively reduce host processor&amp;rsquo;s heavy burdens for creating and maintaining index structures of large database structures.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Jongmin presented at ICOIN 2022</title>
+      <link>https://ku-csarch.github.io/post/present-icoin22/</link>
+      <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/present-icoin22/</guid>
+      <description>&lt;p&gt;Jongmin presented his research work regarding the new cache side-channel attack mechanism that exploits the vulnerabilities in the undo-based archtiectural defense solutions at the 36th International Conference on Information Networking (&lt;a href=&#34;http://icoin.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ICOIN 2022&lt;/a&gt;) held in Jeju-si, Jeju-do, South Kroea. Good job, Jongmin!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Restore Buffer Overflow Attacks: Breaking Undo-Based Defense Schemes</title>
+      <link>https://ku-csarch.github.io/publication/sec_attack_icoin22/</link>
+      <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/sec_attack_icoin22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analyzing Characteristics of Memory Timing Side-Channels in GPU</title>
+      <link>https://ku-csarch.github.io/publication/gpu_side_ksc21/</link>
+      <pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/gpu_side_ksc21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analyzing Data Cache Performance of Modern GPU Architecture</title>
+      <link>https://ku-csarch.github.io/publication/gpu_cache_ksc21/</link>
+      <pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/gpu_cache_ksc21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analyzing the Performance of GCN Inferences with respect to Sparsity of Graph Features</title>
+      <link>https://ku-csarch.github.io/publication/gnn_profile_ksc21/</link>
+      <pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/gnn_profile_ksc21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inje, Jonghyun, and Seungho presented at KSC 2021</title>
+      <link>https://ku-csarch.github.io/post/present-ksc21/</link>
+      <pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/present-ksc21/</guid>
+      <description>&lt;p&gt;Inje, Jonghyun, and Seungho presented their research work at Korea Software Congress 2021 (&lt;a href=&#34;http://ksc2021.kiise.or.kr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;KSC 2021&lt;/a&gt;) held in Pyeongchang-gun, Gangwon-do. Inje presented his research on GCN inference performance with respect to graph features. Jonghyun presented his research on data cache of modern GPU architecture. Seungho presented his research on characteristics of GPU memory side-channels. Our lab members also attended the conference to have a great time. Good job, guys!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Prof. Gunjae Koo will be serving on the program committee for GPGPU 2022</title>
+      <link>https://ku-csarch.github.io/post/committee-gpgpu22/</link>
+      <pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/committee-gpgpu22/</guid>
+      <description>&lt;p&gt;Prof. Gunjae Koo will be serving on the program committee for the 14th Workshop on the General Purpose Processing Using GPU (&lt;a href=&#34;https://sarchlab.github.io/gpgpu2022/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GPGPU 2022&lt;/a&gt;). GPGPU 2022 will be held in conjunction with &lt;a href=&#34;https://hpca-conf.org/2022/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HPCA 2022&lt;/a&gt; in Seoul, South Korea. Please submit your best work!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Processor and Operation Thereof to Revoke Cache Memory States Utilizing Write-Back Buffer</title>
+      <link>https://ku-csarch.github.io/publication/sec_victim_patent21/</link>
+      <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/sec_victim_patent21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>One paper accepted to ICOIN 2022</title>
+      <link>https://ku-csarch.github.io/post/accepted-icoin22/</link>
+      <pubDate>Tue, 07 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/accepted-icoin22/</guid>
+      <description>&lt;p&gt;One paper was accepted to &lt;em&gt;Workshop on Information System Security (WISS)&lt;/em&gt; which will be held in conjunction with &lt;em&gt;International Conference on Information Networking (ICOIN) 2022&lt;/em&gt;. Our work reveals the undo-based protection schemes are still vulnerable to the modified Prime+Probe type attack that makes the restore buffer overflowed. Using the proposed restore buffer overflow attack approach, we reveal the attack can leak part of secret data successfully even though the processor is protected by the undo-based defense scheme.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Received the Korea University Insung Research Grant</title>
+      <link>https://ku-csarch.github.io/post/grant-insung21/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/grant-insung21/</guid>
+      <description>&lt;p&gt;Computer System Architecture (CSArch) Lab received the Korea University Insung Research Grant to support the research on near data processing for genome analytics. We want to express our sincere gratitude to generous supporters who have contributed to Korea University.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Two papers accepted to DATE 2022</title>
+      <link>https://ku-csarch.github.io/post/accepted-date22/</link>
+      <pubDate>Thu, 11 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/accepted-date22/</guid>
+      <description>&lt;p&gt;Two papers were accepted to &lt;em&gt;Design, Automation and Test in Europe Conference (DATE) 2022&lt;/em&gt;. One paper proposes &lt;em&gt;CacheRewinder&lt;/em&gt;, an efficient architectural defense mechanism against transient execution attacks. &lt;em&gt;CacheRewinder&lt;/em&gt; exploits the underutilized write-back buffer entries to revoke cache updates done by speculative executions. Another paper presents &lt;em&gt;Stealth ECC&lt;/em&gt;, a cost-effective and strong memory protection scheme. &lt;em&gt;Stealth ECC&lt;/em&gt; exploits not-meaningful data fields to provide stronger error correction capability.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>RT-Sniper: A Low-Overhead Defense Mechanism Pinpointing Cache Side-Channel Attacks</title>
+      <link>https://ku-csarch.github.io/publication/sec_cache_mdpi21/</link>
+      <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/sec_cache_mdpi21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>One paper accepted to MDPI Electronics (Journal, SCIE)</title>
+      <link>https://ku-csarch.github.io/post/accepted-mdpi21/</link>
+      <pubDate>Sat, 06 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/accepted-mdpi21/</guid>
+      <description>&lt;p&gt;One paper was accepted to &lt;em&gt;MDPI Electronics&lt;/em&gt;. Our paper proposes &lt;em&gt;RT-Sniper&lt;/em&gt;, a software-based lightweight defense solution against cache side-channel attacks. &lt;em&gt;RT-Sniper&lt;/em&gt; pinpoints attack processes efficiently using a two-phased monitoring mechanism: core-level and process-level profiling. Hence, &lt;em&gt;RT-Sniper&lt;/em&gt; can effectively detect malicious processes with negligible performance overhead.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Awarded the innovative research lab initiation grant (최초혁신실험실) from NRF</title>
+      <link>https://ku-csarch.github.io/post/award-nrf21/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/award-nrf21/</guid>
+      <description>&lt;p&gt;Computer System Architecture (CSArch) Lab was awarded the innovative research lab initiation grant (최초혁신실험실) from National Research Foundation (NRF). The grant will allow us to set up fundamental research equipments for research on processor and memory system architecture. The amount of the grant is approximately $100,000. Thanks NRF!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Inje presented at KCC 2021</title>
+      <link>https://ku-csarch.github.io/post/present-kcc21/</link>
+      <pubDate>Fri, 25 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/present-kcc21/</guid>
+      <description>&lt;p&gt;Inje presented his research on the characteristics of GCN inference models at Korea Computer Congress 2021 (&lt;a href=&#34;http://kcc2021.kiise.or.kr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;KCC 2021&lt;/a&gt;) held in Seoguipo-si, Jeju-do. Our lab members also attended the conference to have a great time. Good job, Inje!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Revealing Characteristics of GCN Inference Models Using a GPU Profiler</title>
+      <link>https://ku-csarch.github.io/publication/gnn_profile_kcc21/</link>
+      <pubDate>Fri, 25 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/gnn_profile_kcc21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Received the outstanding young scientist grant (우수신진연구) from NRF</title>
+      <link>https://ku-csarch.github.io/post/grant-nrf21/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/grant-nrf21/</guid>
+      <description>&lt;p&gt;Computer System Architecture (CSArch) Lab received funding from National Research Foundation (NRF) to support the research on the processor and memory architecture for neural networks using large graph structures. Prof. Gunjae Koo was awarded the outstanding young scientist grant (우수신진연구) which is a part of Basic Research Projects funded by Korean government. Thanks NRF!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dynamic Near-Data Processing Control Mechanism Based on Computer Resource Availability on Solid-State Disk Platforms</title>
+      <link>https://ku-csarch.github.io/publication/ssd_proc_patent20/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/ssd_proc_patent20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Audio Compression Accelerator Design for Improving the Response Time of AI Speakers</title>
+      <link>https://ku-csarch.github.io/publication/accel_speaker_ieie20/</link>
+      <pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/accel_speaker_ieie20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hi-End: Hierarchical, Endurance-Aware STT-MRAM-Based Register File for Energy-Efficient GPUs</title>
+      <link>https://ku-csarch.github.io/publication/gpu_nvrf_access20/</link>
+      <pubDate>Mon, 13 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/gpu_nvrf_access20/</guid>
+      <description>&lt;p&gt;#&lt;div class=&#34;alert alert-note&#34;&gt;&lt;/p&gt;
+  &lt;div&gt;
+    &lt;p&gt;#Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/p&gt;
+&lt;h1 id=&#34;heading&#34;&gt;&lt;/h1&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h1 id=&#34;heading&#34;&gt;&lt;/h1&gt;
+&lt;p&gt;#Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>GraphSSD: Graph Semantics Aware SSD</title>
+      <link>https://ku-csarch.github.io/publication/ssd_graph_isca19/</link>
+      <pubDate>Wed, 26 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/ssd_graph_isca19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linebacker: Preserving Victim Cache Lines in Idle Register Files of GPUs</title>
+      <link>https://ku-csarch.github.io/publication/gpu_lb_isca19/</link>
+      <pubDate>Wed, 26 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/gpu_lb_isca19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>https://ku-csarch.github.io/slides/example/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/slides/example/</guid>
+      <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://owchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
+&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
+&lt;li&gt;Supports speaker notes&lt;/li&gt;
+&lt;li&gt;Mobile friendly slides&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/hakimel/reveal.js#pdf-export&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF Export&lt;/a&gt;: &lt;code&gt;E&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
+&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Code block:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;porridge = &amp;quot;blueberry&amp;quot;
+if porridge == &amp;quot;blueberry&amp;quot;:
+    print(&amp;quot;Eating...&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
+&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
+&lt;p&gt;Block math:&lt;/p&gt;
+&lt;p&gt;$$
+f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
+&lt;p&gt;Make content appear incrementally&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
+{{% fragment %}} **Two** {{% /fragment %}}
+{{% fragment %}} Three {{% /fragment %}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  One
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  &lt;strong&gt;Two&lt;/strong&gt;
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  Three
+&lt;/span&gt;
+&lt;hr&gt;
+&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
+&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{% speaker_note %}}
+- Only the speaker can read these notes
+- Press `S` key to view
+{{% /speaker_note %}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
+&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
+&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
+&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
+&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
+&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
+&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;/media/boards.jpg&#34;
+  &gt;
+
+&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
+&lt;p&gt;Customize the slide style and background&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{&amp;lt; slide background-image=&amp;quot;/media/boards.jpg&amp;quot; &amp;gt;}}
+{{&amp;lt; slide background-color=&amp;quot;#0000FF&amp;quot; &amp;gt;}}
+{{&amp;lt; slide class=&amp;quot;my-style&amp;quot; &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
+&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
+&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-css&#34;&gt;.reveal section h1,
+.reveal section h2,
+.reveal section h3 {
+  color: navy;
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/discussions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Increasing Read Pending Queue Capacity to Increase Memory Bandwidth</title>
+      <link>https://ku-csarch.github.io/publication/dram_ctrl_patent18/</link>
+      <pubDate>Thu, 05 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/dram_ctrl_patent18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CTA-Aware Prefetching and Scheduling for GPU</title>
+      <link>https://ku-csarch.github.io/publication/gpu_caps_ipdps18/</link>
+      <pubDate>Fri, 25 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/gpu_caps_ipdps18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Summarizer: Trading Communication with Computing near Storage</title>
+      <link>https://ku-csarch.github.io/publication/ssd_proc_micro17/</link>
+      <pubDate>Sat, 14 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/ssd_proc_micro17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Access Pattern-Aware Cache Management for Improving Data Utilization in GPU</title>
+      <link>https://ku-csarch.github.io/publication/gpu_apcm_isca17/</link>
+      <pubDate>Sat, 24 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/gpu_apcm_isca17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving Energy Efficiency of GPUs through Data Compression and Compressed Execution</title>
+      <link>https://ku-csarch.github.io/publication/gpu_rfcomp_tc17/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/gpu_rfcomp_tc17/</guid>
+      <description>&lt;p&gt;#&lt;div class=&#34;alert alert-note&#34;&gt;&lt;/p&gt;
+  &lt;div&gt;
+    &lt;p&gt;#Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/p&gt;
+&lt;h1 id=&#34;heading&#34;&gt;&lt;/h1&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h1 id=&#34;heading&#34;&gt;&lt;/h1&gt;
+&lt;p&gt;#Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Example Project</title>
+      <link>https://ku-csarch.github.io/project/example/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/project/example/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Warped-Preexecution: A GPU Pre-Execution Approach for Improving Latency Hiding</title>
+      <link>https://ku-csarch.github.io/publication/gpu_pwarp_hpca16/</link>
+      <pubDate>Wed, 16 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/gpu_pwarp_hpca16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Revealing Critical Loads and Hidden Data Locality in GPGPU Applications</title>
+      <link>https://ku-csarch.github.io/publication/gpu_load_iiswc15/</link>
+      <pubDate>Tue, 06 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/gpu_load_iiswc15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Warped-Compression: Enabling Power Efficient GPUs through Register Compression</title>
+      <link>https://ku-csarch.github.io/publication/gpu_rfcomp_isca15/</link>
+      <pubDate>Sat, 13 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/gpu_rfcomp_isca15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Complementary Block-Based Motion Estimation for Frame Rate Up-Conversion</title>
+      <link>https://ku-csarch.github.io/publication/frc_icce11/</link>
+      <pubDate>Wed, 12 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/frc_icce11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Robust PRML Read Channel with Digital Timing Recovery for Multi-Format Optical Disc</title>
+      <link>https://ku-csarch.github.io/publication/prml_iscas06/</link>
+      <pubDate>Wed, 24 May 2006 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/prml_iscas06/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ku-csarch.github.io/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ku-csarch.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ku-csarch.github.io/people/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/people/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

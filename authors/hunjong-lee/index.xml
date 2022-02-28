@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hunjong Lee | Computer System Architecture Lab</title>
+    <link>https://ku-csarch.github.io/authors/hunjong-lee/</link>
+      <atom:link href="https://ku-csarch.github.io/authors/hunjong-lee/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hunjong Lee</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 21 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ku-csarch.github.io/authors/hunjong-lee/avatar_hu5469b9eb1c2b2fe9b1acd1ca4eb66ba9_142439_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Hunjong Lee</title>
+      <link>https://ku-csarch.github.io/authors/hunjong-lee/</link>
+    </image>
+    
+    <item>
+      <title>Audio Compression Accelerator Design for Improving the Response Time of AI Speakers</title>
+      <link>https://ku-csarch.github.io/publication/accel_speaker_ieie20/</link>
+      <pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/accel_speaker_ieie20/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

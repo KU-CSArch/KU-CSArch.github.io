@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Heesub Lee | Computer System Architecture Lab</title>
+    <link>https://ku-csarch.github.io/authors/heesub-lee/</link>
+      <atom:link href="https://ku-csarch.github.io/authors/heesub-lee/index.xml" rel="self" type="application/rss+xml" />
+    <description>Heesub Lee</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 24 May 2006 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ku-csarch.github.io/media/icon_hufc4ea502f7977d2b250399d95297f953_357528_512x512_fill_lanczos_center_3.png</url>
+      <title>Heesub Lee</title>
+      <link>https://ku-csarch.github.io/authors/heesub-lee/</link>
+    </image>
+    
+    <item>
+      <title>A Robust PRML Read Channel with Digital Timing Recovery for Multi-Format Optical Disc</title>
+      <link>https://ku-csarch.github.io/publication/prml_iscas06/</link>
+      <pubDate>Wed, 24 May 2006 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/prml_iscas06/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

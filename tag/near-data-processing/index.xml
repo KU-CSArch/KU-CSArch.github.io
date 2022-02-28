@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Near Data Processing | Computer System Architecture Lab</title>
+    <link>https://ku-csarch.github.io/tag/near-data-processing/</link>
+      <atom:link href="https://ku-csarch.github.io/tag/near-data-processing/index.xml" rel="self" type="application/rss+xml" />
+    <description>Near Data Processing</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ku-csarch.github.io/media/icon_hufc4ea502f7977d2b250399d95297f953_357528_512x512_fill_lanczos_center_3.png</url>
+      <title>Near Data Processing</title>
+      <link>https://ku-csarch.github.io/tag/near-data-processing/</link>
+    </image>
+    
+    <item>
+      <title>Dynamic Near-Data Processing Control Mechanism Based on Computer Resource Availability on Solid-State Disk Platforms</title>
+      <link>https://ku-csarch.github.io/publication/ssd_proc_patent20/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/ssd_proc_patent20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Summarizer: Trading Communication with Computing near Storage</title>
+      <link>https://ku-csarch.github.io/publication/ssd_proc_micro17/</link>
+      <pubDate>Sat, 14 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/ssd_proc_micro17/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

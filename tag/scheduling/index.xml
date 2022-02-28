@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Scheduling | Computer System Architecture Lab</title>
+    <link>https://ku-csarch.github.io/tag/scheduling/</link>
+      <atom:link href="https://ku-csarch.github.io/tag/scheduling/index.xml" rel="self" type="application/rss+xml" />
+    <description>Scheduling</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 26 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ku-csarch.github.io/media/icon_hufc4ea502f7977d2b250399d95297f953_357528_512x512_fill_lanczos_center_3.png</url>
+      <title>Scheduling</title>
+      <link>https://ku-csarch.github.io/tag/scheduling/</link>
+    </image>
+    
+    <item>
+      <title>Linebacker: Preserving Victim Cache Lines in Idle Register Files of GPUs</title>
+      <link>https://ku-csarch.github.io/publication/gpu_lb_isca19/</link>
+      <pubDate>Wed, 26 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/gpu_lb_isca19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CTA-Aware Prefetching and Scheduling for GPU</title>
+      <link>https://ku-csarch.github.io/publication/gpu_caps_ipdps18/</link>
+      <pubDate>Fri, 25 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/gpu_caps_ipdps18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Warped-Preexecution: A GPU Pre-Execution Approach for Improving Latency Hiding</title>
+      <link>https://ku-csarch.github.io/publication/gpu_pwarp_hpca16/</link>
+      <pubDate>Wed, 16 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/gpu_pwarp_hpca16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Revealing Critical Loads and Hidden Data Locality in GPGPU Applications</title>
+      <link>https://ku-csarch.github.io/publication/gpu_load_iiswc15/</link>
+      <pubDate>Tue, 06 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/gpu_load_iiswc15/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

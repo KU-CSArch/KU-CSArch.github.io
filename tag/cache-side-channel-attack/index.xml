@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cache Side-Channel Attack | Computer System Architecture Lab</title>
+    <link>https://ku-csarch.github.io/tag/cache-side-channel-attack/</link>
+      <atom:link href="https://ku-csarch.github.io/tag/cache-side-channel-attack/index.xml" rel="self" type="application/rss+xml" />
+    <description>Cache Side-Channel Attack</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 10 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ku-csarch.github.io/media/icon_hufc4ea502f7977d2b250399d95297f953_357528_512x512_fill_lanczos_center_3.png</url>
+      <title>Cache Side-Channel Attack</title>
+      <link>https://ku-csarch.github.io/tag/cache-side-channel-attack/</link>
+    </image>
+    
+    <item>
+      <title>RT-Sniper: A Low-Overhead Defense Mechanism Pinpointing Cache Side-Channel Attacks</title>
+      <link>https://ku-csarch.github.io/publication/sec_cache_mdpi21/</link>
+      <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/sec_cache_mdpi21/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

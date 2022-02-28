@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Grant | Computer System Architecture Lab</title>
+    <link>https://ku-csarch.github.io/tag/grant/</link>
+      <atom:link href="https://ku-csarch.github.io/tag/grant/index.xml" rel="self" type="application/rss+xml" />
+    <description>Grant</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ku-csarch.github.io/media/icon_hufc4ea502f7977d2b250399d95297f953_357528_512x512_fill_lanczos_center_3.png</url>
+      <title>Grant</title>
+      <link>https://ku-csarch.github.io/tag/grant/</link>
+    </image>
+    
+    <item>
+      <title>Received the Korea University Insung Research Grant</title>
+      <link>https://ku-csarch.github.io/post/grant-insung21/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/grant-insung21/</guid>
+      <description>&lt;p&gt;Computer System Architecture (CSArch) Lab received the Korea University Insung Research Grant to support the research on near data processing for genome analytics. We want to express our sincere gratitude to generous supporters who have contributed to Korea University.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Received the outstanding young scientist grant (우수신진연구) from NRF</title>
+      <link>https://ku-csarch.github.io/post/grant-nrf21/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/grant-nrf21/</guid>
+      <description>&lt;p&gt;Computer System Architecture (CSArch) Lab received funding from National Research Foundation (NRF) to support the research on the processor and memory architecture for neural networks using large graph structures. Prof. Gunjae Koo was awarded the outstanding young scientist grant (우수신진연구) which is a part of Basic Research Projects funded by Korean government. Thanks NRF!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Seung Jong Choi | Computer System Architecture Lab</title>
+    <link>https://ku-csarch.github.io/authors/seung-jong-choi/</link>
+      <atom:link href="https://ku-csarch.github.io/authors/seung-jong-choi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Seung Jong Choi</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 12 Jan 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ku-csarch.github.io/media/icon_hufc4ea502f7977d2b250399d95297f953_357528_512x512_fill_lanczos_center_3.png</url>
+      <title>Seung Jong Choi</title>
+      <link>https://ku-csarch.github.io/authors/seung-jong-choi/</link>
+    </image>
+    
+    <item>
+      <title>Complementary Block-Based Motion Estimation for Frame Rate Up-Conversion</title>
+      <link>https://ku-csarch.github.io/publication/frc_icce11/</link>
+      <pubDate>Wed, 12 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/frc_icce11/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

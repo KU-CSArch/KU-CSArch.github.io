@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Boyoung Park | Computer System Architecture Lab</title>
+    <link>https://ku-csarch.github.io/authors/boyoung-park/</link>
+      <atom:link href="https://ku-csarch.github.io/authors/boyoung-park/index.xml" rel="self" type="application/rss+xml" />
+    <description>Boyoung Park</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://ku-csarch.github.io/authors/boyoung-park/avatar_hu6eb1cb314727d5c6ece1dcc24b28f427_675592_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Boyoung Park</title>
+      <link>https://ku-csarch.github.io/authors/boyoung-park/</link>
+    </image>
+    
+  </channel>
+</rss>

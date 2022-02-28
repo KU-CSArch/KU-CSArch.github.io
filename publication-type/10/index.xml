@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>10 | Computer System Architecture Lab</title>
+    <link>https://ku-csarch.github.io/publication-type/10/</link>
+      <atom:link href="https://ku-csarch.github.io/publication-type/10/index.xml" rel="self" type="application/rss+xml" />
+    <description>10</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 20 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ku-csarch.github.io/media/icon_hufc4ea502f7977d2b250399d95297f953_357528_512x512_fill_lanczos_center_3.png</url>
+      <title>10</title>
+      <link>https://ku-csarch.github.io/publication-type/10/</link>
+    </image>
+    
+    <item>
+      <title>Analyzing Characteristics of Memory Timing Side-Channels in GPU</title>
+      <link>https://ku-csarch.github.io/publication/gpu_side_ksc21/</link>
+      <pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/gpu_side_ksc21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analyzing Data Cache Performance of Modern GPU Architecture</title>
+      <link>https://ku-csarch.github.io/publication/gpu_cache_ksc21/</link>
+      <pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/gpu_cache_ksc21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analyzing the Performance of GCN Inferences with respect to Sparsity of Graph Features</title>
+      <link>https://ku-csarch.github.io/publication/gnn_profile_ksc21/</link>
+      <pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/gnn_profile_ksc21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Revealing Characteristics of GCN Inference Models Using a GPU Profiler</title>
+      <link>https://ku-csarch.github.io/publication/gnn_profile_kcc21/</link>
+      <pubDate>Fri, 25 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/gnn_profile_kcc21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Audio Compression Accelerator Design for Improving the Response Time of AI Speakers</title>
+      <link>https://ku-csarch.github.io/publication/accel_speaker_ieie20/</link>
+      <pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/accel_speaker_ieie20/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Conference (Korea) | Computer System Architecture Lab</title>
+    <link>https://ku-csarch.github.io/category/conference-korea/</link>
+      <atom:link href="https://ku-csarch.github.io/category/conference-korea/index.xml" rel="self" type="application/rss+xml" />
+    <description>Conference (Korea)</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 20 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ku-csarch.github.io/media/icon_hufc4ea502f7977d2b250399d95297f953_357528_512x512_fill_lanczos_center_3.png</url>
+      <title>Conference (Korea)</title>
+      <link>https://ku-csarch.github.io/category/conference-korea/</link>
+    </image>
+    
+    <item>
+      <title>Inje, Jonghyun, and Seungho presented at KSC 2021</title>
+      <link>https://ku-csarch.github.io/post/present-ksc21/</link>
+      <pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/present-ksc21/</guid>
+      <description>&lt;p&gt;Inje, Jonghyun, and Seungho presented their research work at Korea Software Congress 2021 (&lt;a href=&#34;http://ksc2021.kiise.or.kr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;KSC 2021&lt;/a&gt;) held in Pyeongchang-gun, Gangwon-do. Inje presented his research on GCN inference performance with respect to graph features. Jonghyun presented his research on data cache of modern GPU architecture. Seungho presented his research on characteristics of GPU memory side-channels. Our lab members also attended the conference to have a great time. Good job, guys!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Inje presented at KCC 2021</title>
+      <link>https://ku-csarch.github.io/post/present-kcc21/</link>
+      <pubDate>Fri, 25 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/present-kcc21/</guid>
+      <description>&lt;p&gt;Inje presented his research on the characteristics of GCN inference models at Korea Computer Congress 2021 (&lt;a href=&#34;http://kcc2021.kiise.or.kr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;KCC 2021&lt;/a&gt;) held in Seoguipo-si, Jeju-do. Our lab members also attended the conference to have a great time. Good job, Inje!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
