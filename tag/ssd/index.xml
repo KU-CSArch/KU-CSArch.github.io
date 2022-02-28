@@ -5,12 +5,20 @@
     <link>https://ku-csarch.github.io/tag/ssd/</link>
       <atom:link href="https://ku-csarch.github.io/tag/ssd/index.xml" rel="self" type="application/rss+xml" />
     <description>SSD</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 25 Feb 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ku-csarch.github.io/media/icon_hufc4ea502f7977d2b250399d95297f953_357528_512x512_fill_lanczos_center_3.png</url>
       <title>SSD</title>
       <link>https://ku-csarch.github.io/tag/ssd/</link>
     </image>
+    
+    <item>
+      <title>FLIXR: Embedding Index into Flash Translation Layer in SSDs</title>
+      <link>https://ku-csarch.github.io/publication/ssd_index_tc22/</link>
+      <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/ssd_index_tc22/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Dynamic Near-Data Processing Control Mechanism Based on Computer Resource Availability on Solid-State Disk Platforms</title>
