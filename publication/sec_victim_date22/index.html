@@ -64,7 +64,7 @@
   
     
   
-  <meta name="description" content="" />
+  <meta name="description" content="Transient execution attacks are critical security threats since those attacks exploit speculative execution which is an essential architectural solution that can improve the performance of out-of-order processors significantly. Such attacks change cache state by accessing secret data during speculative executions, then the attackers leak the secret information exploiting cache timing side-channels. Even though software patches against transient execution attacks have been proposed, the software solutions significantly slow down the performance of a system. In this paper, we propose CacheRewinder, an efficient hardware-based defense mechanism against transient execution attacks. CacheRewinder prevents leakage of secret information by revoking the cache updates done by speculative executions. To restore the cache state efficiently, CacheRewinder exploits the underutilized write-back buffer space as the temporary storage for victimized cache blocks that are evicted during speculative executions. Hence when speculation fails CacheRewinder can quickly restore the cache state using the evicted cache blocks held in the write-back buffer. Our evaluation exhibits that CacheRewinder can effectively defend the transient execution attacks. The performance overhead by CacheRewinder is only 0.6%, which is negligible compared to the unprotected baseline processor. CacheRewinder also requires minimal storage cost since it exploits unused write-back buffer entries as storage for evicted cache blocks." />
 
   
   <link rel="alternate" hreflang="en-us" href="https://ku-csarch.github.io/publication/sec_victim_date22/" />
@@ -293,7 +293,6 @@
   
   
     
-    
   
   
 
@@ -302,21 +301,21 @@
     
     
   
-  <meta property="twitter:card" content="summary" />
+  <meta property="twitter:card" content="summary_large_image" />
   
   <meta property="og:site_name" content="Computer System Architecture Lab" />
   <meta property="og:url" content="https://ku-csarch.github.io/publication/sec_victim_date22/" />
   <meta property="og:title" content="CacheRewinder: Revoking Speculative Cache Updates Exploiting Write-Back Buffer | Computer System Architecture Lab" />
-  <meta property="og:description" content="" /><meta property="og:image" content="https://ku-csarch.github.io/media/icon_hufc4ea502f7977d2b250399d95297f953_357528_512x512_fill_lanczos_center_3.png" />
-    <meta property="twitter:image" content="https://ku-csarch.github.io/media/icon_hufc4ea502f7977d2b250399d95297f953_357528_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
+  <meta property="og:description" content="Transient execution attacks are critical security threats since those attacks exploit speculative execution which is an essential architectural solution that can improve the performance of out-of-order processors significantly. Such attacks change cache state by accessing secret data during speculative executions, then the attackers leak the secret information exploiting cache timing side-channels. Even though software patches against transient execution attacks have been proposed, the software solutions significantly slow down the performance of a system. In this paper, we propose CacheRewinder, an efficient hardware-based defense mechanism against transient execution attacks. CacheRewinder prevents leakage of secret information by revoking the cache updates done by speculative executions. To restore the cache state efficiently, CacheRewinder exploits the underutilized write-back buffer space as the temporary storage for victimized cache blocks that are evicted during speculative executions. Hence when speculation fails CacheRewinder can quickly restore the cache state using the evicted cache blocks held in the write-back buffer. Our evaluation exhibits that CacheRewinder can effectively defend the transient execution attacks. The performance overhead by CacheRewinder is only 0.6%, which is negligible compared to the unprotected baseline processor. CacheRewinder also requires minimal storage cost since it exploits unused write-back buffer entries as storage for evicted cache blocks." /><meta property="og:image" content="https://ku-csarch.github.io/publication/sec_victim_date22/featured.png" />
+    <meta property="twitter:image" content="https://ku-csarch.github.io/publication/sec_victim_date22/featured.png" /><meta property="og:locale" content="en-us" />
   
     
       <meta
         property="article:published_time"
-        content="2021-11-25T00:00:00&#43;00:00"
+        content="2022-03-18T00:00:00&#43;00:00"
       />
     
-    <meta property="article:modified_time" content="2022-03-16T00:00:00&#43;00:00">
+    <meta property="article:modified_time" content="2022-03-18T00:00:00&#43;00:00">
   
 
   
@@ -342,8 +341,12 @@
   },
   "headline": "CacheRewinder: Revoking Speculative Cache Updates Exploiting Write-Back Buffer",
   
-  "datePublished": "2021-11-25T00:00:00Z",
-  "dateModified": "2022-03-16T00:00:00Z",
+  "image": [
+    "https://ku-csarch.github.io/publication/sec_victim_date22/featured.png"
+  ],
+  
+  "datePublished": "2022-03-18T00:00:00Z",
+  "dateModified": "2022-03-18T00:00:00Z",
   
   "author": {
     "@type": "Person",
@@ -358,7 +361,7 @@
       "url": "https://ku-csarch.github.io/media/icon_hufc4ea502f7977d2b250399d95297f953_357528_192x192_fill_lanczos_center_3.png"
     }
   },
-  "description": ""
+  "description": "Transient execution attacks are critical security threats since those attacks exploit speculative execution which is an essential architectural solution that can improve the performance of out-of-order processors significantly. Such attacks change cache state by accessing secret data during speculative executions, then the attackers leak the secret information exploiting cache timing side-channels. Even though software patches against transient execution attacks have been proposed, the software solutions significantly slow down the performance of a system. In this paper, we propose CacheRewinder, an efficient hardware-based defense mechanism against transient execution attacks. CacheRewinder prevents leakage of secret information by revoking the cache updates done by speculative executions. To restore the cache state efficiently, CacheRewinder exploits the underutilized write-back buffer space as the temporary storage for victimized cache blocks that are evicted during speculative executions. Hence when speculation fails CacheRewinder can quickly restore the cache state using the evicted cache blocks held in the write-back buffer. Our evaluation exhibits that CacheRewinder can effectively defend the transient execution attacks. The performance overhead by CacheRewinder is only 0.6%, which is negligible compared to the unprotected baseline processor. CacheRewinder also requires minimal storage cost since it exploits unused write-back buffer entries as storage for evicted cache blocks."
 }
 </script>
 
@@ -752,18 +755,25 @@
 
 
 
-  
+
+
+
+
+
+
+
+
 
   
   
-  
+
+
 <div class="article-container pt-3">
   <h1>CacheRewinder: Revoking Speculative Cache Updates Exploiting Write-Back Buffer</h1>
 
   
 
   
-    
 
 
 <div class="article-metadata">
@@ -808,7 +818,7 @@
 
 </div>
 
-    
+  
 
 
 
@@ -854,6 +864,14 @@
 
 
 
+  
+  
+    
+  
+<a class="btn btn-outline-primary btn-page-header" href="https://filedn.com/luEeJVCCazShDlU4ibloXvu/publication/sec_victim_date22/sec_victim_date22_slides.mp4" target="_blank" rel="noopener">
+  Video
+</a>
+
 
 
 <a class="btn btn-outline-primary btn-page-header" href="https://doi.org/10.1109/IPDPS.2018.00024" target="_blank" rel="noopener">
@@ -879,13 +897,23 @@
 </div>
 
 
-  
+</div>
+
+
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 758px;">
+  <div style="position: relative">
+    <img src="/publication/sec_victim_date22/featured_hua7fb7fa6635b055694a2e28851008308_298547_720x2500_fit_q75_h2_lanczos_3.webp" width="720" height="758" alt="" class="featured-image">
+    <span class="article-header-caption">CacheRewinder architecture</span>
+  </div>
 </div>
 
 
 
   <div class="article-container">
 
+    
+    <h3>Abstract</h3>
+    <p class="pub-abstract">Transient execution attacks are critical security threats since those attacks exploit speculative execution which is an essential architectural solution that can improve the performance of out-of-order processors significantly. Such attacks change cache state by accessing secret data during speculative executions, then the attackers leak the secret information exploiting cache timing side-channels. Even though software patches against transient execution attacks have been proposed, the software solutions significantly slow down the performance of a system. In this paper, we propose CacheRewinder, an efficient hardware-based defense mechanism against transient execution attacks. CacheRewinder prevents leakage of secret information by revoking the cache updates done by speculative executions. To restore the cache state efficiently, CacheRewinder exploits the underutilized write-back buffer space as the temporary storage for victimized cache blocks that are evicted during speculative executions. Hence when speculation fails CacheRewinder can quickly restore the cache state using the evicted cache blocks held in the write-back buffer. Our evaluation exhibits that CacheRewinder can effectively defend the transient execution attacks. The performance overhead by CacheRewinder is only 0.6%, which is negligible compared to the unprotected baseline processor. CacheRewinder also requires minimal storage cost since it exploits unused write-back buffer entries as storage for evicted cache blocks.</p>
     
 
     

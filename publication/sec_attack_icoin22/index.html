@@ -64,7 +64,7 @@
   
     
   
-  <meta name="description" content="" />
+  <meta name="description" content="Transient execution attacks have been severe security threats since such attacks exploit architectural vulnerabilities in out-of-order processors. Researchers proposed several architectural solutions to defend against transient execution attacks. By restoring the victim blocks stored temporarily in a restore buffer, the undo-based approaches can revoke the cache state changed by speculative loads. Thus it is known that the undo-based defense mechanisms can protect processors from transient execution attacks.In this paper, we reveal the undo-based protection scheme is still vulnerable to the elaborated Prime&#43;Probe type attacks. Under the undo-based protection, the victim blocks by the speculative loads are stored in the restore buffer that has limited resources. Thus if the restore buffer is full, part of the victim blocks in the restore buffer can be evicted from the restore buffer. Then the cache state cannot be restored since the processor cannot find the victim blocks required for restoring the cache state. We design a restore buffer overflow attack that can leak secret data even if the processor is protected under the undo-based scheme. We evaluate the attack mechanism using the architectural simulator. Our evaluation exhibits that the attack can leak part of secret data successfully." />
 
   
   <link rel="alternate" hreflang="en-us" href="https://ku-csarch.github.io/publication/sec_attack_icoin22/" />
@@ -293,7 +293,6 @@
   
   
     
-    
   
   
 
@@ -302,18 +301,18 @@
     
     
   
-  <meta property="twitter:card" content="summary" />
+  <meta property="twitter:card" content="summary_large_image" />
   
   <meta property="og:site_name" content="Computer System Architecture Lab" />
   <meta property="og:url" content="https://ku-csarch.github.io/publication/sec_attack_icoin22/" />
   <meta property="og:title" content="Restore Buffer Overflow Attacks: Breaking Undo-Based Defense Schemes | Computer System Architecture Lab" />
-  <meta property="og:description" content="" /><meta property="og:image" content="https://ku-csarch.github.io/media/icon_hufc4ea502f7977d2b250399d95297f953_357528_512x512_fill_lanczos_center_3.png" />
-    <meta property="twitter:image" content="https://ku-csarch.github.io/media/icon_hufc4ea502f7977d2b250399d95297f953_357528_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
+  <meta property="og:description" content="Transient execution attacks have been severe security threats since such attacks exploit architectural vulnerabilities in out-of-order processors. Researchers proposed several architectural solutions to defend against transient execution attacks. By restoring the victim blocks stored temporarily in a restore buffer, the undo-based approaches can revoke the cache state changed by speculative loads. Thus it is known that the undo-based defense mechanisms can protect processors from transient execution attacks.In this paper, we reveal the undo-based protection scheme is still vulnerable to the elaborated Prime&#43;Probe type attacks. Under the undo-based protection, the victim blocks by the speculative loads are stored in the restore buffer that has limited resources. Thus if the restore buffer is full, part of the victim blocks in the restore buffer can be evicted from the restore buffer. Then the cache state cannot be restored since the processor cannot find the victim blocks required for restoring the cache state. We design a restore buffer overflow attack that can leak secret data even if the processor is protected under the undo-based scheme. We evaluate the attack mechanism using the architectural simulator. Our evaluation exhibits that the attack can leak part of secret data successfully." /><meta property="og:image" content="https://ku-csarch.github.io/publication/sec_attack_icoin22/featured.png" />
+    <meta property="twitter:image" content="https://ku-csarch.github.io/publication/sec_attack_icoin22/featured.png" /><meta property="og:locale" content="en-us" />
   
     
       <meta
         property="article:published_time"
-        content="2021-12-07T00:00:00&#43;00:00"
+        content="2021-01-12T00:00:00&#43;00:00"
       />
     
     <meta property="article:modified_time" content="2022-01-12T00:00:00&#43;00:00">
@@ -342,7 +341,11 @@
   },
   "headline": "Restore Buffer Overflow Attacks: Breaking Undo-Based Defense Schemes",
   
-  "datePublished": "2021-12-07T00:00:00Z",
+  "image": [
+    "https://ku-csarch.github.io/publication/sec_attack_icoin22/featured.png"
+  ],
+  
+  "datePublished": "2021-01-12T00:00:00Z",
   "dateModified": "2022-01-12T00:00:00Z",
   
   "author": {
@@ -358,7 +361,7 @@
       "url": "https://ku-csarch.github.io/media/icon_hufc4ea502f7977d2b250399d95297f953_357528_192x192_fill_lanczos_center_3.png"
     }
   },
-  "description": ""
+  "description": "Transient execution attacks have been severe security threats since such attacks exploit architectural vulnerabilities in out-of-order processors. Researchers proposed several architectural solutions to defend against transient execution attacks. By restoring the victim blocks stored temporarily in a restore buffer, the undo-based approaches can revoke the cache state changed by speculative loads. Thus it is known that the undo-based defense mechanisms can protect processors from transient execution attacks.In this paper, we reveal the undo-based protection scheme is still vulnerable to the elaborated Prime+Probe type attacks. Under the undo-based protection, the victim blocks by the speculative loads are stored in the restore buffer that has limited resources. Thus if the restore buffer is full, part of the victim blocks in the restore buffer can be evicted from the restore buffer. Then the cache state cannot be restored since the processor cannot find the victim blocks required for restoring the cache state. We design a restore buffer overflow attack that can leak secret data even if the processor is protected under the undo-based scheme. We evaluate the attack mechanism using the architectural simulator. Our evaluation exhibits that the attack can leak part of secret data successfully."
 }
 </script>
 
@@ -752,18 +755,25 @@
 
 
 
-  
+
+
+
+
+
+
+
+
 
   
   
-  
+
+
 <div class="article-container pt-3">
   <h1>Restore Buffer Overflow Attacks: Breaking Undo-Based Defense Schemes</h1>
 
   
 
   
-    
 
 
 <div class="article-metadata">
@@ -806,7 +816,7 @@
 
 </div>
 
-    
+  
 
 
 
@@ -828,11 +838,16 @@
 
 
 
-<a class="btn btn-outline-primary btn-page-header" href="https://filedn.com/luEeJVCCazShDlU4ibloXvu/publication/sec_victim_date22/sec_victim_date22.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header" href="https://filedn.com/luEeJVCCazShDlU4ibloXvu/publication/sec_attack_icoin22/sec_attack_icoin22.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
 
+
+<a href="#" class="btn btn-outline-primary btn-page-header js-cite-modal"
+        data-filename="/publication/sec_attack_icoin22/cite.bib">
+  Cite
+</a>
 
 
 
@@ -846,15 +861,23 @@
   
     
   
-<a class="btn btn-outline-primary btn-page-header" href="https://filedn.com/luEeJVCCazShDlU4ibloXvu/publication/sec_victim_date22/sec_victim_date22_slides.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header" href="https://filedn.com/luEeJVCCazShDlU4ibloXvu/publication/sec_attack_icoin22/sec_attack_icoin22_slides.pdf" target="_blank" rel="noopener">
   Slides
 </a>
 
 
 
+  
+  
+    
+  
+<a class="btn btn-outline-primary btn-page-header" href="https://filedn.com/luEeJVCCazShDlU4ibloXvu/publication/sec_attack_icoin22/sec_attack_icoin22_slides.mp4" target="_blank" rel="noopener">
+  Video
+</a>
 
 
-<a class="btn btn-outline-primary btn-page-header" href="https://doi.org/10.1109/IPDPS.2018.00024" target="_blank" rel="noopener">
+
+<a class="btn btn-outline-primary btn-page-header" href="https://doi.org/10.1109/ICOIN53446.2022.9687185" target="_blank" rel="noopener">
   DOI
 </a>
 
@@ -870,20 +893,30 @@
   
     
   
-  <a class="btn btn-outline-primary btn-page-header" href="https://filedn.com/luEeJVCCazShDlU4ibloXvu/publication/sec_victim_date22/sec_victim_date22_slides.ppsx" target="_blank" rel="noopener">
+  <a class="btn btn-outline-primary btn-page-header" href="https://filedn.com/luEeJVCCazShDlU4ibloXvu/publication/sec_attack_icoin22/sec_attack_icoin22_slides.ppsx" target="_blank" rel="noopener">
     Slide Show</a>
 
 
 </div>
 
 
-  
+</div>
+
+
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 382px;">
+  <div style="position: relative">
+    <img src="/publication/sec_attack_icoin22/featured_hu7fdae16e51bd5077ef53a7c9f2e2316b_476789_720x2500_fit_q75_h2_lanczos_3.webp" width="720" height="382" alt="" class="featured-image">
+    <span class="article-header-caption">Restore buffer overflow attack</span>
+  </div>
 </div>
 
 
 
   <div class="article-container">
 
+    
+    <h3>Abstract</h3>
+    <p class="pub-abstract">Transient execution attacks have been severe security threats since such attacks exploit architectural vulnerabilities in out-of-order processors. Researchers proposed several architectural solutions to defend against transient execution attacks. By restoring the victim blocks stored temporarily in a restore buffer, the undo-based approaches can revoke the cache state changed by speculative loads. Thus it is known that the undo-based defense mechanisms can protect processors from transient execution attacks.In this paper, we reveal the undo-based protection scheme is still vulnerable to the elaborated Prime+Probe type attacks. Under the undo-based protection, the victim blocks by the speculative loads are stored in the restore buffer that has limited resources. Thus if the restore buffer is full, part of the victim blocks in the restore buffer can be evicted from the restore buffer. Then the cache state cannot be restored since the processor cannot find the victim blocks required for restoring the cache state. We design a restore buffer overflow attack that can leak secret data even if the processor is protected under the undo-based scheme. We evaluate the attack mechanism using the architectural simulator. Our evaluation exhibits that the attack can leak part of secret data successfully.</p>
     
 
     
