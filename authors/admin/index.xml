@@ -5,12 +5,21 @@
     <link>https://ku-csarch.github.io/authors/admin/</link>
       <atom:link href="https://ku-csarch.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>Gunjae Koo</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 16 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 18 Mar 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ku-csarch.github.io/authors/admin/avatar_hu82dedd9a8cc969e0c17c0689e6c62001_573516_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Gunjae Koo</title>
       <link>https://ku-csarch.github.io/authors/admin/</link>
     </image>
+    
+    <item>
+      <title>Jongmin presented at DATE 2022</title>
+      <link>https://ku-csarch.github.io/post/present-date22/</link>
+      <pubDate>Fri, 18 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/present-date22/</guid>
+      <description>&lt;p&gt;Jongmin presented his research work regarding an efficient architectural defense mechanism against transient execution attacks at the Design, Automation and Test in Europe Conference 2022 (&lt;a href=&#34;http://www.date-conference.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DATE 2022&lt;/a&gt;). DATE is one of top-tier conferences on EDA and VLSI design. Good job, Jongmin!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>CacheRewinder: Revoking Speculative Cache Updates Exploiting Write-Back Buffer</title>
