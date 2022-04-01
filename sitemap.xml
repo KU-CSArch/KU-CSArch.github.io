@@ -224,6 +224,20 @@
   <url>
     <loc>https://ku-csarch.github.io/authors/yoonsoo-kim/</loc><lastmod>2020-07-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://ku-csarch.github.io/tag/deep-learning/</loc><lastmod>2020-03-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ku-csarch.github.io/project/dsa/</loc><lastmod>2020-03-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ku-csarch.github.io/project/</loc><lastmod>2020-03-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ku-csarch.github.io/project/parallel_processor/</loc><lastmod>2020-03-04T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ku-csarch.github.io/project/storage_systems/</loc><lastmod>2020-03-03T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ku-csarch.github.io/project/memory_systems/</loc><lastmod>2020-03-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ku-csarch.github.io/project/secure_processor/</loc><lastmod>2020-03-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://ku-csarch.github.io/tag/graphs/</loc><lastmod>2019-06-26T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ku-csarch.github.io/publication/ssd_graph_isca19/</loc><lastmod>2019-06-26T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
@@ -282,12 +296,6 @@
   <url>
     <loc>https://ku-csarch.github.io/authors/sangpil-lee/</loc><lastmod>2017-05-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ku-csarch.github.io/tag/deep-learning/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ku-csarch.github.io/project/example/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ku-csarch.github.io/project/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://ku-csarch.github.io/publication/gpu_pwarp_hpca16/</loc><lastmod>2016-03-16T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ku-csarch.github.io/tag/load/</loc><lastmod>2015-10-06T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
@@ -327,6 +335,8 @@
     <loc>https://ku-csarch.github.io/gallery/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ku-csarch.github.io/people/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ku-csarch.github.io/research/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ku-csarch.github.io/authors/boyoung-park/</loc><changefreq>weekly</changefreq></url>
   <url>
