@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yewon Hwang | Computer System Architecture Lab</title>
+    <link>https://ku-csarch.github.io/authors/yewon-hwang/</link>
+      <atom:link href="https://ku-csarch.github.io/authors/yewon-hwang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yewon Hwang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://ku-csarch.github.io/authors/yewon-hwang/avatar_huac5c29a2f502a8f294b961698110832b_238912_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Yewon Hwang</title>
+      <link>https://ku-csarch.github.io/authors/yewon-hwang/</link>
+    </image>
+    
+  </channel>
+</rss>
