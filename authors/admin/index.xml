@@ -5,12 +5,21 @@
     <link>https://ku-csarch.github.io/authors/admin/</link>
       <atom:link href="https://ku-csarch.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>Gunjae Koo</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 05 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 30 Jun 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ku-csarch.github.io/authors/admin/avatar_hu82dedd9a8cc969e0c17c0689e6c62001_573516_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Gunjae Koo</title>
       <link>https://ku-csarch.github.io/authors/admin/</link>
     </image>
+    
+    <item>
+      <title>Hunjong presented at KCC 2021</title>
+      <link>https://ku-csarch.github.io/post/present-kcc22/</link>
+      <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/present-kcc22/</guid>
+      <description>&lt;p&gt;Hunjong presented his research on the characteristics of GCN kernels on accelerator architectures at Korea Computer Congress 2022 (&lt;a href=&#34;http://kcc2022.kiise.or.kr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;KCC 2022&lt;/a&gt;) held in Seoguipo-si, Jeju-do. Our lab members also attended the conference. Good job, Hunjong!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Prof. Gunjae Koo will be serving on the program committee for NVMSA 2022</title>

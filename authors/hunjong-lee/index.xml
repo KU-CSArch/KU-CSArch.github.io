@@ -5,12 +5,21 @@
     <link>https://ku-csarch.github.io/authors/hunjong-lee/</link>
       <atom:link href="https://ku-csarch.github.io/authors/hunjong-lee/index.xml" rel="self" type="application/rss+xml" />
     <description>Hunjong Lee</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 07 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 30 Jun 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ku-csarch.github.io/authors/hunjong-lee/avatar_hu5469b9eb1c2b2fe9b1acd1ca4eb66ba9_142439_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Hunjong Lee</title>
       <link>https://ku-csarch.github.io/authors/hunjong-lee/</link>
     </image>
+    
+    <item>
+      <title>Hunjong presented at KCC 2021</title>
+      <link>https://ku-csarch.github.io/post/present-kcc22/</link>
+      <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/present-kcc22/</guid>
+      <description>&lt;p&gt;Hunjong presented his research on the characteristics of GCN kernels on accelerator architectures at Korea Computer Congress 2022 (&lt;a href=&#34;http://kcc2022.kiise.or.kr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;KCC 2022&lt;/a&gt;) held in Seoguipo-si, Jeju-do. Our lab members also attended the conference. Good job, Hunjong!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>CSArch Lab members attended CSC 2022</title>
