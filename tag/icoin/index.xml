@@ -17,7 +17,7 @@
       <link>https://ku-csarch.github.io/post/accepted-icoin22/</link>
       <pubDate>Tue, 07 Dec 2021 00:00:00 +0000</pubDate>
       <guid>https://ku-csarch.github.io/post/accepted-icoin22/</guid>
-      <description>&lt;p&gt;One paper was accepted to &lt;em&gt;Workshop on Information System Security (WISS)&lt;/em&gt; which will be held in conjunction with &lt;em&gt;International Conference on Information Networking (ICOIN) 2022&lt;/em&gt;. Our work reveals the undo-based protection schemes are still vulnerable to the modified Prime+Probe type attack that makes the restore buffer overflowed. Using the proposed restore buffer overflow attack approach, we reveal the attack can leak part of secret data successfully even though the processor is protected by the undo-based defense scheme.&lt;/p&gt;
+      <description>&lt;p&gt;One paper was accepted to the &lt;em&gt;Workshop on Information System Security (WISS)&lt;/em&gt; which will be held in conjunction with the &lt;em&gt;International Conference on Information Networking (ICOIN) 2022&lt;/em&gt;. Our work reveals the undo-based protection schemes are still vulnerable to the modified Prime+Probe type attack that makes the restore buffer overflowed. Using the proposed restore buffer overflow attack approach, we reveal the attack can leak part of secret data successfully even though the processor is protected by the undo-based defense scheme.&lt;/p&gt;
 </description>
     </item>
     

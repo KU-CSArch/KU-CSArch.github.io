@@ -5,12 +5,21 @@
     <link>https://ku-csarch.github.io/tag/training/</link>
       <atom:link href="https://ku-csarch.github.io/tag/training/index.xml" rel="self" type="application/rss+xml" />
     <description>Training</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 07 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ku-csarch.github.io/media/icon_hufc4ea502f7977d2b250399d95297f953_357528_512x512_fill_lanczos_center_3.png</url>
       <title>Training</title>
       <link>https://ku-csarch.github.io/tag/training/</link>
     </image>
+    
+    <item>
+      <title>Jongmin attended MICRO 2022</title>
+      <link>https://ku-csarch.github.io/post/attend-micro22/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/attend-micro22/</guid>
+      <description>&lt;p&gt;Jongmin attended the IEEE/ACM International Symposium on Microarchitecture 2022 (&lt;a href=&#34;http://www.microarch.org/micro55&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MICRO 2022&lt;/a&gt;) held in Chicago, Illinois, USA.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>CSArch Lab members attended CSC 2022</title>
