@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Graph Neural Networks | Computer System Architecture Lab</title>
+    <link>https://ku-csarch.github.io/tag/graph-neural-networks/</link>
+      <atom:link href="https://ku-csarch.github.io/tag/graph-neural-networks/index.xml" rel="self" type="application/rss+xml" />
+    <description>Graph Neural Networks</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 21 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ku-csarch.github.io/media/icon_hufc4ea502f7977d2b250399d95297f953_357528_512x512_fill_lanczos_center_3.png</url>
+      <title>Graph Neural Networks</title>
+      <link>https://ku-csarch.github.io/tag/graph-neural-networks/</link>
+    </image>
+    
+    <item>
+      <title>Analyzing GCN Aggregation on GPU</title>
+      <link>https://ku-csarch.github.io/publication/gnn_load_access22/</link>
+      <pubDate>Fri, 21 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/gnn_load_access22/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

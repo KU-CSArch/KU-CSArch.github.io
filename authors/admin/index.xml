@@ -5,12 +5,37 @@
     <link>https://ku-csarch.github.io/authors/admin/</link>
       <atom:link href="https://ku-csarch.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>Gunjae Koo</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 30 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 21 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ku-csarch.github.io/authors/admin/avatar_hu82dedd9a8cc969e0c17c0689e6c62001_573516_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Gunjae Koo</title>
       <link>https://ku-csarch.github.io/authors/admin/</link>
     </image>
+    
+    <item>
+      <title>Analyzing GCN Aggregation on GPU</title>
+      <link>https://ku-csarch.github.io/publication/gnn_load_access22/</link>
+      <pubDate>Fri, 21 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/gnn_load_access22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Two papers accepted to IEEE Access (Journal, SCIE)</title>
+      <link>https://ku-csarch.github.io/post/accepted-access22/</link>
+      <pubDate>Fri, 21 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/accepted-access22/</guid>
+      <description>&lt;p&gt;Two papers were accepted to &lt;em&gt;IEEE Access&lt;/em&gt;. One paper proposes &lt;em&gt;GhostLeg&lt;/em&gt;, a low-overhead architectural defense approach against correlation-based GPU security attacks. &lt;em&gt;GhostLeg&lt;/em&gt; selectively applies secure executions for load warps to minimize performance overhead induced by concealing memory coalescing. Another paper presents detailed characteristics of GCN aggregation kernels on GPU via an in-depth analysis using real GPU hardware and a cycle-accurate GPU simulator.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>GhostLeg: Selective Memory Coalescing for Secure GPU Architecture</title>
+      <link>https://ku-csarch.github.io/publication/gpu_sec_access22/</link>
+      <pubDate>Mon, 17 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/gpu_sec_access22/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Hunjong presented at KCC 2021</title>

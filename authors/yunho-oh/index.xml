@@ -5,12 +5,28 @@
     <link>https://ku-csarch.github.io/authors/yunho-oh/</link>
       <atom:link href="https://ku-csarch.github.io/authors/yunho-oh/index.xml" rel="self" type="application/rss+xml" />
     <description>Yunho Oh</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 25 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 21 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ku-csarch.github.io/media/icon_hufc4ea502f7977d2b250399d95297f953_357528_512x512_fill_lanczos_center_3.png</url>
       <title>Yunho Oh</title>
       <link>https://ku-csarch.github.io/authors/yunho-oh/</link>
     </image>
+    
+    <item>
+      <title>Analyzing GCN Aggregation on GPU</title>
+      <link>https://ku-csarch.github.io/publication/gnn_load_access22/</link>
+      <pubDate>Fri, 21 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/gnn_load_access22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GhostLeg: Selective Memory Coalescing for Secure GPU Architecture</title>
+      <link>https://ku-csarch.github.io/publication/gpu_sec_access22/</link>
+      <pubDate>Mon, 17 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/gpu_sec_access22/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>FLIXR: Embedding Index into Flash Translation Layer in SSDs</title>

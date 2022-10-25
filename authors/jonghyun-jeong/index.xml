@@ -5,12 +5,29 @@
     <link>https://ku-csarch.github.io/authors/jonghyun-jeong/</link>
       <atom:link href="https://ku-csarch.github.io/authors/jonghyun-jeong/index.xml" rel="self" type="application/rss+xml" />
     <description>Jonghyun Jeong</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 07 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 21 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ku-csarch.github.io/authors/jonghyun-jeong/avatar_hue75a30926df1e81e0e89ac6f538ed5e2_185058_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Jonghyun Jeong</title>
       <link>https://ku-csarch.github.io/authors/jonghyun-jeong/</link>
     </image>
+    
+    <item>
+      <title>Analyzing GCN Aggregation on GPU</title>
+      <link>https://ku-csarch.github.io/publication/gnn_load_access22/</link>
+      <pubDate>Fri, 21 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/gnn_load_access22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Two papers accepted to IEEE Access (Journal, SCIE)</title>
+      <link>https://ku-csarch.github.io/post/accepted-access22/</link>
+      <pubDate>Fri, 21 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/accepted-access22/</guid>
+      <description>&lt;p&gt;Two papers were accepted to &lt;em&gt;IEEE Access&lt;/em&gt;. One paper proposes &lt;em&gt;GhostLeg&lt;/em&gt;, a low-overhead architectural defense approach against correlation-based GPU security attacks. &lt;em&gt;GhostLeg&lt;/em&gt; selectively applies secure executions for load warps to minimize performance overhead induced by concealing memory coalescing. Another paper presents detailed characteristics of GCN aggregation kernels on GPU via an in-depth analysis using real GPU hardware and a cycle-accurate GPU simulator.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>CSArch Lab members attended CSC 2022</title>
