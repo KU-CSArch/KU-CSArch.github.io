@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Defense | Computer System Architecture Lab</title>
+    <link>https://ku-csarch.github.io/category/defense/</link>
+      <atom:link href="https://ku-csarch.github.io/category/defense/index.xml" rel="self" type="application/rss+xml" />
+    <description>Defense</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 02 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ku-csarch.github.io/media/icon_hufc4ea502f7977d2b250399d95297f953_357528_512x512_fill_lanczos_center_3.png</url>
+      <title>Defense</title>
+      <link>https://ku-csarch.github.io/category/defense/</link>
+    </image>
+    
+    <item>
+      <title>Dr. Lee, newly minted Ph.D.</title>
+      <link>https://ku-csarch.github.io/post/defense-jongmin/</link>
+      <pubDate>Fri, 02 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/defense-jongmin/</guid>
+      <description>&lt;p&gt;Jongmin successfully defended his thesis entitled &lt;em&gt;&amp;ldquo;Low-Overhead Architectural Defense Approaches against Security Attacks&amp;rdquo;&lt;/em&gt;. He is now the newest (and the first) member of CSArch&amp;rsquo;s PhD alumni. Big congratulations Dr. Lee!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

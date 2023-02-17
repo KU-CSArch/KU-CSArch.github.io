@@ -5,12 +5,57 @@
     <link>https://ku-csarch.github.io/post/</link>
       <atom:link href="https://ku-csarch.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>News</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 21 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 06 Feb 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ku-csarch.github.io/media/icon_hufc4ea502f7977d2b250399d95297f953_357528_512x512_fill_lanczos_center_3.png</url>
       <title>News</title>
       <link>https://ku-csarch.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>CSArch Lab members attended CSC 2023</title>
+      <link>https://ku-csarch.github.io/post/attend-csc23/</link>
+      <pubDate>Mon, 06 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/attend-csc23/</guid>
+      <description>&lt;p&gt;CSArch Lab members attended KIISE Computer System Society Conference 2023 (&lt;a href=&#34;http://css.or.kr/csc2023/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CSC 2023&lt;/a&gt;) held in Pyeongchang, Gangwon-do. Our lab members had a great time as the great researchers on computer system research fields presented keynotes and their research work during the conference. Jonghyun and Boyoung presented their research work during the Student Poster Session. Prof. Gunjae Koo served on the organizing committee for CSC 2023.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Boyoung and Jongmin presented at KSC 2022</title>
+      <link>https://ku-csarch.github.io/post/present-ksc22/</link>
+      <pubDate>Wed, 21 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/present-ksc22/</guid>
+      <description>&lt;p&gt;Boyoung and Jongmin presented their research work at Korea Software Congress 2022 (&lt;a href=&#34;http://ksc2022.kiise.or.kr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;KSC 2022&lt;/a&gt;) held in Jeju-si, Jeju-do. Boyoung presented her research on performance analysis of a genome alignment application. Jongmin presented his research on low-overhead secure architectures at a Ph.D. forum of KSC 2022. Our lab memebers also attended the conference to have a great time. Good job, guys!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Prof. Gunjae Koo will be serving on the program committee for GPGPU 2023</title>
+      <link>https://ku-csarch.github.io/post/committee-gpgpu23/</link>
+      <pubDate>Sun, 11 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/committee-gpgpu23/</guid>
+      <description>&lt;p&gt;Prof. Gunjae Koo will be serving on the program committee for the 15th Workshop on the General Purpose Processing Using GPU (&lt;a href=&#34;https://mocalabucm.github.io/gpgpu2023/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GPGPU 2023&lt;/a&gt;). GPGPU 2023 will be held in conjunction with &lt;a href=&#34;https://hpca-conf.org/2023/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HPCA 2023&lt;/a&gt; in Montreal, QC, Canada. Please submit your best work!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dr. Lee, newly minted Ph.D.</title>
+      <link>https://ku-csarch.github.io/post/defense-jongmin/</link>
+      <pubDate>Fri, 02 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/defense-jongmin/</guid>
+      <description>&lt;p&gt;Jongmin successfully defended his thesis entitled &lt;em&gt;&amp;ldquo;Low-Overhead Architectural Defense Approaches against Security Attacks&amp;rdquo;&lt;/em&gt;. He is now the newest (and the first) member of CSArch&amp;rsquo;s PhD alumni. Big congratulations Dr. Lee!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Jonghyun, Inje, and Jaewon attended a training program in Germany</title>
+      <link>https://ku-csarch.github.io/post/training-germany22/</link>
+      <pubDate>Thu, 03 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/training-germany22/</guid>
+      <description>&lt;p&gt;Jonghyun, Inje, and Jaewon attended an oversea training program supported by the Convergence Security Core Talent Training Program. They visited VDE and BOSCH Cybercompare to present internship proposals regarding computer security policies and solutions.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Two papers accepted to IEEE Access (Journal, SCIE)</title>
@@ -40,7 +85,16 @@
     </item>
     
     <item>
-      <title>Hunjong presented at KCC 2021</title>
+      <title>Jongmin received an excellent research paper award from Korea University</title>
+      <link>https://ku-csarch.github.io/post/award-ku22/</link>
+      <pubDate>Thu, 25 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/award-ku22/</guid>
+      <description>&lt;p&gt;Jongmin received an excellet research paper award from Korea University for the research paper entitled &amp;ldquo;CacheRewinder: Revoking Speculative Cache Updates Exploiting Write-Back Buffer&amp;rdquo; published in the proceedings of 2022 Design, Automation &amp;amp; Test in Europe Conference &amp;amp; Exhibition (DATE). Congrats Jongmin!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hunjong presented at KCC 2022</title>
       <link>https://ku-csarch.github.io/post/present-kcc22/</link>
       <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
       <guid>https://ku-csarch.github.io/post/present-kcc22/</guid>
@@ -198,6 +252,15 @@
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
       <guid>https://ku-csarch.github.io/post/grant-nrf21/</guid>
       <description>&lt;p&gt;Computer System Architecture (CSArch) Lab received funding from National Research Foundation (NRF) to support the research on the processor and memory architecture for neural networks using large graph structures. Prof. Gunjae Koo was awarded the outstanding young scientist grant (우수신진연구) which is a part of Basic Research Projects funded by Korean government. Thanks NRF!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Seungho and Jongmin have joined CSArch Lab.</title>
+      <link>https://ku-csarch.github.io/post/join_lab20fa/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/join_lab20fa/</guid>
+      <description>&lt;p&gt;Seungho and Jongmin have joined CSArch Lab since the Fall semester 2020. We hope they will enjoy adventures in computer architecture research. Welcome!!&lt;/p&gt;
 </description>
     </item>
     

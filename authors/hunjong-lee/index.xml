@@ -5,7 +5,7 @@
     <link>https://ku-csarch.github.io/authors/hunjong-lee/</link>
       <atom:link href="https://ku-csarch.github.io/authors/hunjong-lee/index.xml" rel="self" type="application/rss+xml" />
     <description>Hunjong Lee</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 30 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 06 Feb 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ku-csarch.github.io/authors/hunjong-lee/avatar_hu5469b9eb1c2b2fe9b1acd1ca4eb66ba9_142439_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Hunjong Lee</title>
@@ -13,7 +13,16 @@
     </image>
     
     <item>
-      <title>Hunjong presented at KCC 2021</title>
+      <title>CSArch Lab members attended CSC 2023</title>
+      <link>https://ku-csarch.github.io/post/attend-csc23/</link>
+      <pubDate>Mon, 06 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/attend-csc23/</guid>
+      <description>&lt;p&gt;CSArch Lab members attended KIISE Computer System Society Conference 2023 (&lt;a href=&#34;http://css.or.kr/csc2023/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CSC 2023&lt;/a&gt;) held in Pyeongchang, Gangwon-do. Our lab members had a great time as the great researchers on computer system research fields presented keynotes and their research work during the conference. Jonghyun and Boyoung presented their research work during the Student Poster Session. Prof. Gunjae Koo served on the organizing committee for CSC 2023.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hunjong presented at KCC 2022</title>
       <link>https://ku-csarch.github.io/post/present-kcc22/</link>
       <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
       <guid>https://ku-csarch.github.io/post/present-kcc22/</guid>

@@ -5,12 +5,30 @@
     <link>https://ku-csarch.github.io/category/service/</link>
       <atom:link href="https://ku-csarch.github.io/category/service/index.xml" rel="self" type="application/rss+xml" />
     <description>Service</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 05 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 06 Feb 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ku-csarch.github.io/media/icon_hufc4ea502f7977d2b250399d95297f953_357528_512x512_fill_lanczos_center_3.png</url>
       <title>Service</title>
       <link>https://ku-csarch.github.io/category/service/</link>
     </image>
+    
+    <item>
+      <title>CSArch Lab members attended CSC 2023</title>
+      <link>https://ku-csarch.github.io/post/attend-csc23/</link>
+      <pubDate>Mon, 06 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/attend-csc23/</guid>
+      <description>&lt;p&gt;CSArch Lab members attended KIISE Computer System Society Conference 2023 (&lt;a href=&#34;http://css.or.kr/csc2023/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CSC 2023&lt;/a&gt;) held in Pyeongchang, Gangwon-do. Our lab members had a great time as the great researchers on computer system research fields presented keynotes and their research work during the conference. Jonghyun and Boyoung presented their research work during the Student Poster Session. Prof. Gunjae Koo served on the organizing committee for CSC 2023.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Prof. Gunjae Koo will be serving on the program committee for GPGPU 2023</title>
+      <link>https://ku-csarch.github.io/post/committee-gpgpu23/</link>
+      <pubDate>Sun, 11 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/committee-gpgpu23/</guid>
+      <description>&lt;p&gt;Prof. Gunjae Koo will be serving on the program committee for the 15th Workshop on the General Purpose Processing Using GPU (&lt;a href=&#34;https://mocalabucm.github.io/gpgpu2023/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GPGPU 2023&lt;/a&gt;). GPGPU 2023 will be held in conjunction with &lt;a href=&#34;https://hpca-conf.org/2023/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HPCA 2023&lt;/a&gt; in Montreal, QC, Canada. Please submit your best work!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Prof. Gunjae Koo will be serving on the program committee for NVMSA 2022</title>

@@ -5,7 +5,7 @@
     <link>https://ku-csarch.github.io/tag/talk/</link>
       <atom:link href="https://ku-csarch.github.io/tag/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Talk</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 30 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 21 Dec 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ku-csarch.github.io/media/icon_hufc4ea502f7977d2b250399d95297f953_357528_512x512_fill_lanczos_center_3.png</url>
       <title>Talk</title>
@@ -13,7 +13,16 @@
     </image>
     
     <item>
-      <title>Hunjong presented at KCC 2021</title>
+      <title>Boyoung and Jongmin presented at KSC 2022</title>
+      <link>https://ku-csarch.github.io/post/present-ksc22/</link>
+      <pubDate>Wed, 21 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/present-ksc22/</guid>
+      <description>&lt;p&gt;Boyoung and Jongmin presented their research work at Korea Software Congress 2022 (&lt;a href=&#34;http://ksc2022.kiise.or.kr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;KSC 2022&lt;/a&gt;) held in Jeju-si, Jeju-do. Boyoung presented her research on performance analysis of a genome alignment application. Jongmin presented his research on low-overhead secure architectures at a Ph.D. forum of KSC 2022. Our lab memebers also attended the conference to have a great time. Good job, guys!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hunjong presented at KCC 2022</title>
       <link>https://ku-csarch.github.io/post/present-kcc22/</link>
       <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
       <guid>https://ku-csarch.github.io/post/present-kcc22/</guid>
