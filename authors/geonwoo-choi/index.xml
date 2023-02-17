@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Geonwoo Choi | Computer System Architecture Lab</title>
+    <link>https://ku-csarch.github.io/authors/geonwoo-choi/</link>
+      <atom:link href="https://ku-csarch.github.io/authors/geonwoo-choi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Geonwoo Choi</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://ku-csarch.github.io/authors/geonwoo-choi/avatar_hu992408b2759e6792b2b447c1cfdeead3_108375_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Geonwoo Choi</title>
+      <link>https://ku-csarch.github.io/authors/geonwoo-choi/</link>
+    </image>
+    
+  </channel>
+</rss>

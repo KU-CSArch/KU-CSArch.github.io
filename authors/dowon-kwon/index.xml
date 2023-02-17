@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dowon Kwon | Computer System Architecture Lab</title>
+    <link>https://ku-csarch.github.io/authors/dowon-kwon/</link>
+      <atom:link href="https://ku-csarch.github.io/authors/dowon-kwon/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dowon Kwon</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://ku-csarch.github.io/authors/dowon-kwon/avatar_hu79a76d4e9fb43799382afb2b19658f73_160667_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Dowon Kwon</title>
+      <link>https://ku-csarch.github.io/authors/dowon-kwon/</link>
+    </image>
+    
+  </channel>
+</rss>
