@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Graduate | Computer System Architecture Lab</title>
+    <link>https://ku-csarch.github.io/tag/graduate/</link>
+      <atom:link href="https://ku-csarch.github.io/tag/graduate/index.xml" rel="self" type="application/rss+xml" />
+    <description>Graduate</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 24 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ku-csarch.github.io/media/icon_hufc4ea502f7977d2b250399d95297f953_357528_512x512_fill_lanczos_center_3.png</url>
+      <title>Graduate</title>
+      <link>https://ku-csarch.github.io/tag/graduate/</link>
+    </image>
+    
+    <item>
+      <title>Jongmin, Seungho, Inje, Boyoung, and Jonghyun graduated.</title>
+      <link>https://ku-csarch.github.io/post/commence23sp/</link>
+      <pubDate>Fri, 24 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/commence23sp/</guid>
+      <description>&lt;p&gt;Jongmin, Seungho, Inje, Boyoung, and Jonghyun graduated from Korea University. Jongmin received the Ph.D. degree in computer science and engineering. Seungho, Inje, Boyoung, and Jonghyun received the M.S. degree in computer science and engineering. Boyoung and Jonghyun will be with CSArch Lab to pursue the Ph.D. degree. Congratulations!! Well deserved!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

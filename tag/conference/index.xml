@@ -5,12 +5,21 @@
     <link>https://ku-csarch.github.io/tag/conference/</link>
       <atom:link href="https://ku-csarch.github.io/tag/conference/index.xml" rel="self" type="application/rss+xml" />
     <description>Conference</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 16 Feb 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ku-csarch.github.io/media/icon_hufc4ea502f7977d2b250399d95297f953_357528_512x512_fill_lanczos_center_3.png</url>
       <title>Conference</title>
       <link>https://ku-csarch.github.io/tag/conference/</link>
     </image>
+    
+    <item>
+      <title>Prof. Gunjae Koo will be serving on the program committee for NVMSA 2023</title>
+      <link>https://ku-csarch.github.io/post/committee-nvmsa23/</link>
+      <pubDate>Thu, 16 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/committee-nvmsa23/</guid>
+      <description>&lt;p&gt;Prof. Gunjae Koo will be serving on the program committee for the 12th IEEE Non-Volatile Memory Systems and Applications Symposium (&lt;a href=&#34;https://nvmsa2023.github.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NVMSA 2023&lt;/a&gt;). NVMSA 2023 will be held on August 30&amp;ndash;Septermber 1 in Niigata, Japan. Please submit your best work!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Jongmin attended MICRO 2022</title>

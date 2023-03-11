@@ -5,12 +5,21 @@
     <link>https://ku-csarch.github.io/authors/taewoon-kang/</link>
       <atom:link href="https://ku-csarch.github.io/authors/taewoon-kang/index.xml" rel="self" type="application/rss+xml" />
     <description>Taewoon Kang</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Mar 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ku-csarch.github.io/authors/taewoon-kang/avatar_hu45a42337fb7c2d5c3adcc1a4a2a53f7d_146815_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Taewoon Kang</title>
       <link>https://ku-csarch.github.io/authors/taewoon-kang/</link>
     </image>
+    
+    <item>
+      <title>Taewoon, Yujin, Jiwon, Geonwoo, and Dowon have joined CSArch Lab.</title>
+      <link>https://ku-csarch.github.io/post/join-lab23sp/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/join-lab23sp/</guid>
+      <description>&lt;p&gt;Taewoon, Yujin, Jiwon, Geonwoo, and Dowon have joined CSArch Lab since the Spring semester 2023. We hope they will enjoy adventures in computer architecture research. Welcome!!&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

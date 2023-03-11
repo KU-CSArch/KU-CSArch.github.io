@@ -5,12 +5,21 @@
     <link>https://ku-csarch.github.io/authors/geonwoo-choi/</link>
       <atom:link href="https://ku-csarch.github.io/authors/geonwoo-choi/index.xml" rel="self" type="application/rss+xml" />
     <description>Geonwoo Choi</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Mar 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ku-csarch.github.io/authors/geonwoo-choi/avatar_hu992408b2759e6792b2b447c1cfdeead3_108375_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Geonwoo Choi</title>
       <link>https://ku-csarch.github.io/authors/geonwoo-choi/</link>
     </image>
+    
+    <item>
+      <title>Taewoon, Yujin, Jiwon, Geonwoo, and Dowon have joined CSArch Lab.</title>
+      <link>https://ku-csarch.github.io/post/join-lab23sp/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/join-lab23sp/</guid>
+      <description>&lt;p&gt;Taewoon, Yujin, Jiwon, Geonwoo, and Dowon have joined CSArch Lab since the Spring semester 2023. We hope they will enjoy adventures in computer architecture research. Welcome!!&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

@@ -5,12 +5,21 @@
     <link>https://ku-csarch.github.io/authors/jongmin-lee/</link>
       <atom:link href="https://ku-csarch.github.io/authors/jongmin-lee/index.xml" rel="self" type="application/rss+xml" />
     <description>Jongmin Lee</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 21 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 24 Feb 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ku-csarch.github.io/authors/jongmin-lee/avatar_hub402b39b5fbade147bd165691b504da8_30624_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Jongmin Lee</title>
       <link>https://ku-csarch.github.io/authors/jongmin-lee/</link>
     </image>
+    
+    <item>
+      <title>Jongmin, Seungho, Inje, Boyoung, and Jonghyun graduated.</title>
+      <link>https://ku-csarch.github.io/post/commence23sp/</link>
+      <pubDate>Fri, 24 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/commence23sp/</guid>
+      <description>&lt;p&gt;Jongmin, Seungho, Inje, Boyoung, and Jonghyun graduated from Korea University. Jongmin received the Ph.D. degree in computer science and engineering. Seungho, Inje, Boyoung, and Jonghyun received the M.S. degree in computer science and engineering. Boyoung and Jonghyun will be with CSArch Lab to pursue the Ph.D. degree. Congratulations!! Well deserved!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Boyoung and Jongmin presented at KSC 2022</title>
@@ -136,9 +145,9 @@
     
     <item>
       <title>Seungho and Jongmin have joined CSArch Lab.</title>
-      <link>https://ku-csarch.github.io/post/join_lab20fa/</link>
+      <link>https://ku-csarch.github.io/post/join-lab20fa/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://ku-csarch.github.io/post/join_lab20fa/</guid>
+      <guid>https://ku-csarch.github.io/post/join-lab20fa/</guid>
       <description>&lt;p&gt;Seungho and Jongmin have joined CSArch Lab since the Fall semester 2020. We hope they will enjoy adventures in computer architecture research. Welcome!!&lt;/p&gt;
 </description>
     </item>

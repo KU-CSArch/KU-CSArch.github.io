@@ -5,7 +5,7 @@
     <link>https://ku-csarch.github.io/tag/join/</link>
       <atom:link href="https://ku-csarch.github.io/tag/join/index.xml" rel="self" type="application/rss+xml" />
     <description>Join</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Mar 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ku-csarch.github.io/media/icon_hufc4ea502f7977d2b250399d95297f953_357528_512x512_fill_lanczos_center_3.png</url>
       <title>Join</title>
@@ -13,37 +13,46 @@
     </image>
     
     <item>
+      <title>Taewoon, Yujin, Jiwon, Geonwoo, and Dowon have joined CSArch Lab.</title>
+      <link>https://ku-csarch.github.io/post/join-lab23sp/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/join-lab23sp/</guid>
+      <description>&lt;p&gt;Taewoon, Yujin, Jiwon, Geonwoo, and Dowon have joined CSArch Lab since the Spring semester 2023. We hope they will enjoy adventures in computer architecture research. Welcome!!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Jaewon and Yewon have joined CSArch Lab.</title>
-      <link>https://ku-csarch.github.io/post/join_lab22fa/</link>
+      <link>https://ku-csarch.github.io/post/join-lab22fa/</link>
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://ku-csarch.github.io/post/join_lab22fa/</guid>
+      <guid>https://ku-csarch.github.io/post/join-lab22fa/</guid>
       <description>&lt;p&gt;Jaewon and Yewon have joined CSArch Lab since the Fall semester 2022. We hope they will enjoy adventures in computer architecture research. Welcome!!&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Hunjong and Hyunwoo have joined CSArch Lab.</title>
-      <link>https://ku-csarch.github.io/post/join_lab21fa/</link>
+      <link>https://ku-csarch.github.io/post/join-lab21fa/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://ku-csarch.github.io/post/join_lab21fa/</guid>
+      <guid>https://ku-csarch.github.io/post/join-lab21fa/</guid>
       <description>&lt;p&gt;Hunjong and Hyunwoo have joined CSArch Lab since the Fall semester 2021. We hope they will enjoy adventures in computer architecture research. Welcome!!&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Inje, Boyoung, and Jonghyun have joined CSArch Lab.</title>
-      <link>https://ku-csarch.github.io/post/join_lab21sp/</link>
+      <link>https://ku-csarch.github.io/post/join-lab21sp/</link>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://ku-csarch.github.io/post/join_lab21sp/</guid>
+      <guid>https://ku-csarch.github.io/post/join-lab21sp/</guid>
       <description>&lt;p&gt;Inje, Boyoung, and Jonghyun have joined CSArch Lab since the Fall semester 2021. We hope they will enjoy adventures in computer architecture research. Welcome!!&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Seungho and Jongmin have joined CSArch Lab.</title>
-      <link>https://ku-csarch.github.io/post/join_lab20fa/</link>
+      <link>https://ku-csarch.github.io/post/join-lab20fa/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://ku-csarch.github.io/post/join_lab20fa/</guid>
+      <guid>https://ku-csarch.github.io/post/join-lab20fa/</guid>
       <description>&lt;p&gt;Seungho and Jongmin have joined CSArch Lab since the Fall semester 2020. We hope they will enjoy adventures in computer architecture research. Welcome!!&lt;/p&gt;
 </description>
     </item>

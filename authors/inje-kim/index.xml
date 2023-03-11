@@ -5,12 +5,21 @@
     <link>https://ku-csarch.github.io/authors/inje-kim/</link>
       <atom:link href="https://ku-csarch.github.io/authors/inje-kim/index.xml" rel="self" type="application/rss+xml" />
     <description>Inje Kim</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 06 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 24 Feb 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ku-csarch.github.io/authors/inje-kim/avatar_hu31766d6f393c75a1474c015f0387e1ed_210024_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Inje Kim</title>
       <link>https://ku-csarch.github.io/authors/inje-kim/</link>
     </image>
+    
+    <item>
+      <title>Jongmin, Seungho, Inje, Boyoung, and Jonghyun graduated.</title>
+      <link>https://ku-csarch.github.io/post/commence23sp/</link>
+      <pubDate>Fri, 24 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/commence23sp/</guid>
+      <description>&lt;p&gt;Jongmin, Seungho, Inje, Boyoung, and Jonghyun graduated from Korea University. Jongmin received the Ph.D. degree in computer science and engineering. Seungho, Inje, Boyoung, and Jonghyun received the M.S. degree in computer science and engineering. Boyoung and Jonghyun will be with CSArch Lab to pursue the Ph.D. degree. Congratulations!! Well deserved!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>CSArch Lab members attended CSC 2023</title>
@@ -92,9 +101,9 @@
     
     <item>
       <title>Inje, Boyoung, and Jonghyun have joined CSArch Lab.</title>
-      <link>https://ku-csarch.github.io/post/join_lab21sp/</link>
+      <link>https://ku-csarch.github.io/post/join-lab21sp/</link>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://ku-csarch.github.io/post/join_lab21sp/</guid>
+      <guid>https://ku-csarch.github.io/post/join-lab21sp/</guid>
       <description>&lt;p&gt;Inje, Boyoung, and Jonghyun have joined CSArch Lab since the Fall semester 2021. We hope they will enjoy adventures in computer architecture research. Welcome!!&lt;/p&gt;
 </description>
     </item>
