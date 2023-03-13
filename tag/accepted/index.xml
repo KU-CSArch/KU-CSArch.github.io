@@ -5,12 +5,21 @@
     <link>https://ku-csarch.github.io/tag/accepted/</link>
       <atom:link href="https://ku-csarch.github.io/tag/accepted/index.xml" rel="self" type="application/rss+xml" />
     <description>Accepted</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 21 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 13 Mar 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ku-csarch.github.io/media/icon_hufc4ea502f7977d2b250399d95297f953_357528_512x512_fill_lanczos_center_3.png</url>
       <title>Accepted</title>
       <link>https://ku-csarch.github.io/tag/accepted/</link>
     </image>
+    
+    <item>
+      <title>One paper accepted to IEEE Access (Journal, SCIE)</title>
+      <link>https://ku-csarch.github.io/post/accepted-access23/</link>
+      <pubDate>Mon, 13 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/accepted-access23/</guid>
+      <description>&lt;p&gt;One paper was accepted to &lt;em&gt;IEEE Access&lt;/em&gt;. Our paper presents an attack scenario, called &lt;em&gt;Vizard&lt;/em&gt;, that can bypass the existing profiling-based detectors. The Vizard attack manipulate cache performance behaviors within the allowed attack windows to hide the unique performance behaviors of cache side-channel attacks.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Two papers accepted to IEEE Access (Journal, SCIE)</title>

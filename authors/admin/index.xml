@@ -5,12 +5,21 @@
     <link>https://ku-csarch.github.io/authors/admin/</link>
       <atom:link href="https://ku-csarch.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>Gunjae Koo</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 16 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 13 Mar 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ku-csarch.github.io/authors/admin/avatar_hu82dedd9a8cc969e0c17c0689e6c62001_573516_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Gunjae Koo</title>
       <link>https://ku-csarch.github.io/authors/admin/</link>
     </image>
+    
+    <item>
+      <title>One paper accepted to IEEE Access (Journal, SCIE)</title>
+      <link>https://ku-csarch.github.io/post/accepted-access23/</link>
+      <pubDate>Mon, 13 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/accepted-access23/</guid>
+      <description>&lt;p&gt;One paper was accepted to &lt;em&gt;IEEE Access&lt;/em&gt;. Our paper presents an attack scenario, called &lt;em&gt;Vizard&lt;/em&gt;, that can bypass the existing profiling-based detectors. The Vizard attack manipulate cache performance behaviors within the allowed attack windows to hide the unique performance behaviors of cache side-channel attacks.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Prof. Gunjae Koo will be serving on the program committee for NVMSA 2023</title>
