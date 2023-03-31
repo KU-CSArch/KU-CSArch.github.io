@@ -5,12 +5,28 @@
     <link>https://ku-csarch.github.io/publication/</link>
       <atom:link href="https://ku-csarch.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 21 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 22 Mar 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ku-csarch.github.io/media/icon_hufc4ea502f7977d2b250399d95297f953_357528_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://ku-csarch.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Vizard: Passing over Profiling-Based Detection by Manipulating Performance Counters</title>
+      <link>https://ku-csarch.github.io/publication/sec_attack_access23/</link>
+      <pubDate>Wed, 22 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/sec_attack_access23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Performance Analysis of the Modern Genome Alignment Application</title>
+      <link>https://ku-csarch.github.io/publication/ssd_genome_ksc22/</link>
+      <pubDate>Thu, 22 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/ssd_genome_ksc22/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Analyzing GCN Aggregation on GPU</title>

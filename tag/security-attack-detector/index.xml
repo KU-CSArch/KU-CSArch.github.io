@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Security Attack Detector | Computer System Architecture Lab</title>
+    <link>https://ku-csarch.github.io/tag/security-attack-detector/</link>
+      <atom:link href="https://ku-csarch.github.io/tag/security-attack-detector/index.xml" rel="self" type="application/rss+xml" />
+    <description>Security Attack Detector</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 22 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ku-csarch.github.io/media/icon_hufc4ea502f7977d2b250399d95297f953_357528_512x512_fill_lanczos_center_3.png</url>
+      <title>Security Attack Detector</title>
+      <link>https://ku-csarch.github.io/tag/security-attack-detector/</link>
+    </image>
+    
+    <item>
+      <title>Vizard: Passing over Profiling-Based Detection by Manipulating Performance Counters</title>
+      <link>https://ku-csarch.github.io/publication/sec_attack_access23/</link>
+      <pubDate>Wed, 22 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/sec_attack_access23/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
