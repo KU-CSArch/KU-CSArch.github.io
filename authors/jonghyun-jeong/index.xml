@@ -5,12 +5,21 @@
     <link>https://ku-csarch.github.io/authors/jonghyun-jeong/</link>
       <atom:link href="https://ku-csarch.github.io/authors/jonghyun-jeong/index.xml" rel="self" type="application/rss+xml" />
     <description>Jonghyun Jeong</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 24 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 16 Jun 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ku-csarch.github.io/authors/jonghyun-jeong/avatar_hue75a30926df1e81e0e89ac6f538ed5e2_185058_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Jonghyun Jeong</title>
       <link>https://ku-csarch.github.io/authors/jonghyun-jeong/</link>
     </image>
+    
+    <item>
+      <title>One paper accepted to ICPP 2023</title>
+      <link>https://ku-csarch.github.io/post/accepted-icpp23/</link>
+      <pubDate>Fri, 16 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/accepted-icpp23/</guid>
+      <description>&lt;p&gt;One paper was accepted to the &lt;em&gt;52nd International Conference on Parallel Processing (ICPP 2023)&lt;/em&gt;. Our research paper proposed &lt;em&gt;Warped-MC&lt;/em&gt;, an efficient memory controller scheme for modern GPUs. &lt;em&gt;Warped-MC&lt;/em&gt; mitigates the latency divergence observed in a warp that create multiple outstanding memory requests. Hence, &lt;em&gt;Warped-MC&lt;/em&gt; can effectively reduce a long-tail of load warp execution time to improve the overall GPU performance.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Jongmin, Seungho, Inje, Boyoung, and Jonghyun graduated</title>
