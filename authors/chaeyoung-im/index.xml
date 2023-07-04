@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chaeyoung Im | Computer System Architecture Lab</title>
+    <link>https://ku-csarch.github.io/authors/chaeyoung-im/</link>
+      <atom:link href="https://ku-csarch.github.io/authors/chaeyoung-im/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chaeyoung Im</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://ku-csarch.github.io/authors/chaeyoung-im/avatar_huffafd0be8e6305065942e9443985e262_42327_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Chaeyoung Im</title>
+      <link>https://ku-csarch.github.io/authors/chaeyoung-im/</link>
+    </image>
+    
+  </channel>
+</rss>
