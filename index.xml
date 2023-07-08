@@ -33,11 +33,38 @@
     </item>
     
     <item>
+      <title>Hyunwoo presented at KCC 2022</title>
+      <link>https://ku-csarch.github.io/post/present-kcc23/</link>
+      <pubDate>Tue, 20 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/present-kcc23/</guid>
+      <description>&lt;p&gt;Hyunwoo presented his research regarding the analysis of embedding cache for recommendation systems at Korea Computer Congress 2023 (&lt;a href=&#34;https://www.kiise.or.kr/conference/kcc/2023&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;KCC 2023&lt;/a&gt;) held in Jeju-si, Jeju-do. Our lab members also attended the conference. Good job, Hyunwoo!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>One paper accepted to ICPP 2023</title>
       <link>https://ku-csarch.github.io/post/accepted-icpp23/</link>
       <pubDate>Fri, 16 Jun 2023 00:00:00 +0000</pubDate>
       <guid>https://ku-csarch.github.io/post/accepted-icpp23/</guid>
       <description>&lt;p&gt;One paper was accepted to the &lt;em&gt;52nd International Conference on Parallel Processing (ICPP 2023)&lt;/em&gt;. Our research paper proposed &lt;em&gt;Warped-MC&lt;/em&gt;, an efficient memory controller scheme for modern GPUs. &lt;em&gt;Warped-MC&lt;/em&gt; mitigates the latency divergence observed in a warp that create multiple outstanding memory requests. Hence, &lt;em&gt;Warped-MC&lt;/em&gt; can effectively reduce a long-tail of load warp execution time to improve the overall GPU performance.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hyunwoo and Hunjong defended</title>
+      <link>https://ku-csarch.github.io/post/defense-masters23/</link>
+      <pubDate>Thu, 08 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/defense-masters23/</guid>
+      <description>&lt;p&gt;Hyunwoo and Hunjong successfully defended their Master&amp;rsquo;s theses. Congratulations guys!!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Inje has got addmission to UCSC</title>
+      <link>https://ku-csarch.github.io/post/career-inje23/</link>
+      <pubDate>Sat, 15 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/career-inje23/</guid>
+      <description>&lt;p&gt;Inje has got admission to several universities for doctoral programs. He decided to pursue his Ph.D. degree in the &lt;a href=&#34;https://engineering.ucsc.edu/departments/computer-science-and-engineering&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Computer Science &amp;amp; Engineering Department&lt;/a&gt; at the &lt;a href=&#34;https://www.ucsc.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of California, Santa Cruz&lt;/a&gt;. Congratulations, Inje!&lt;/p&gt;
 </description>
     </item>
     

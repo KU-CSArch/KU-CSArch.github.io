@@ -5,12 +5,21 @@
     <link>https://ku-csarch.github.io/tag/talk/</link>
       <atom:link href="https://ku-csarch.github.io/tag/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Talk</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 21 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 20 Jun 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ku-csarch.github.io/media/icon_hufc4ea502f7977d2b250399d95297f953_357528_512x512_fill_lanczos_center_3.png</url>
       <title>Talk</title>
       <link>https://ku-csarch.github.io/tag/talk/</link>
     </image>
+    
+    <item>
+      <title>Hyunwoo presented at KCC 2022</title>
+      <link>https://ku-csarch.github.io/post/present-kcc23/</link>
+      <pubDate>Tue, 20 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/present-kcc23/</guid>
+      <description>&lt;p&gt;Hyunwoo presented his research regarding the analysis of embedding cache for recommendation systems at Korea Computer Congress 2023 (&lt;a href=&#34;https://www.kiise.or.kr/conference/kcc/2023&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;KCC 2023&lt;/a&gt;) held in Jeju-si, Jeju-do. Our lab members also attended the conference. Good job, Hyunwoo!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Boyoung and Jongmin presented at KSC 2022</title>
