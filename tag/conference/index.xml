@@ -5,12 +5,21 @@
     <link>https://ku-csarch.github.io/tag/conference/</link>
       <atom:link href="https://ku-csarch.github.io/tag/conference/index.xml" rel="self" type="application/rss+xml" />
     <description>Conference</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 16 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 28 Jul 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ku-csarch.github.io/media/icon_hufc4ea502f7977d2b250399d95297f953_357528_512x512_fill_lanczos_center_3.png</url>
       <title>Conference</title>
       <link>https://ku-csarch.github.io/tag/conference/</link>
     </image>
+    
+    <item>
+      <title>Prof. Gunjae Koo will be serving on the program committee for HPCA 2024</title>
+      <link>https://ku-csarch.github.io/post/committee-hpca24/</link>
+      <pubDate>Fri, 28 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/committee-hpca24/</guid>
+      <description>&lt;p&gt;Prof. Gunjae Koo will be serving as a regular member on the program committee for the 30th IEEE International Symposium on High-Performance Computer Architecture (&lt;a href=&#34;https://hpca-conf.org/2024/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HPCA 2024&lt;/a&gt;. HPCA 2024 will be held in in Edinburgh, Scotland, UK. Please submit your best work!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>One paper accepted to ICPP 2023</title>
