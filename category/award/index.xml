@@ -5,12 +5,21 @@
     <link>https://ku-csarch.github.io/category/award/</link>
       <atom:link href="https://ku-csarch.github.io/category/award/index.xml" rel="self" type="application/rss+xml" />
     <description>Award</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 25 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 08 Aug 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ku-csarch.github.io/media/icon_hufc4ea502f7977d2b250399d95297f953_357528_512x512_fill_lanczos_center_3.png</url>
       <title>Award</title>
       <link>https://ku-csarch.github.io/category/award/</link>
     </image>
+    
+    <item>
+      <title>Warped-MC awarded the Best Paper Award from ICPP 2023</title>
+      <link>https://ku-csarch.github.io/post/award-icpp23/</link>
+      <pubDate>Tue, 08 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/award-icpp23/</guid>
+      <description>&lt;p&gt;Our paper entitled &amp;ldquo;Warped-MC: An Efficient Memory Controller Scheme for Massively Parallel Processors&amp;rdquo; was awarded the &lt;strong&gt;Best Paper Award&lt;/strong&gt; from the 52nd International Conference on Parallel Processing (ICPP). Big congrats Jonghyun!!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Jongmin received an excellent research paper award from Korea University</title>
