@@ -5,12 +5,21 @@
     <link>https://ku-csarch.github.io/tag/talk/</link>
       <atom:link href="https://ku-csarch.github.io/tag/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Talk</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 09 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 24 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ku-csarch.github.io/media/icon_hufc4ea502f7977d2b250399d95297f953_357528_512x512_fill_lanczos_center_3.png</url>
       <title>Talk</title>
       <link>https://ku-csarch.github.io/tag/talk/</link>
     </image>
+    
+    <item>
+      <title>Prof. Gunjae Koo presented at ICCE-Asia 2023</title>
+      <link>https://ku-csarch.github.io/post/present-iccea23/</link>
+      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/present-iccea23/</guid>
+      <description>&lt;p&gt;Prof. Gunjae Koo was invited to present for one of the special sessions at the IEEE/IEIE International Conference on Consumer Electronics Asia 2023 (&lt;a href=&#34;https://icce-asia2023.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ICCE-Asis 2023&lt;/a&gt;). He made a talk regarding his research on GPU memory subsystem.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Jonghyun presented at ICPP 2023</title>
