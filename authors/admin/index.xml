@@ -5,12 +5,21 @@
     <link>https://ku-csarch.github.io/authors/admin/</link>
       <atom:link href="https://ku-csarch.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>Gunjae Koo</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 24 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 28 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ku-csarch.github.io/authors/admin/avatar_hu82dedd9a8cc969e0c17c0689e6c62001_573516_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Gunjae Koo</title>
       <link>https://ku-csarch.github.io/authors/admin/</link>
     </image>
+    
+    <item>
+      <title>Prof. Gunjae Koo will be serving on the external review committee for ISCA 2024</title>
+      <link>https://ku-csarch.github.io/post/committee-isca24/</link>
+      <pubDate>Sat, 28 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/committee-isca24/</guid>
+      <description>&lt;p&gt;Prof. Gunjae Koo will be serving as a member on the external review committee for the 51st International Symposium on Computer Architecture (&lt;a href=&#34;https://iscaconf.org/isca2024/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ISCA 2024&lt;/a&gt;. ISCA 2024 will be held in in Buenos Aires, Argentina. Please submit your best work!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Prof. Gunjae Koo presented at ICCE-Asia 2023</title>
