@@ -5,12 +5,21 @@
     <link>https://ku-csarch.github.io/authors/admin/</link>
       <atom:link href="https://ku-csarch.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>Gunjae Koo</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 28 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 19 Dec 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ku-csarch.github.io/authors/admin/avatar_hu82dedd9a8cc969e0c17c0689e6c62001_573516_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Gunjae Koo</title>
       <link>https://ku-csarch.github.io/authors/admin/</link>
     </image>
+    
+    <item>
+      <title>One paper accepted to IEEE Embedded Systems Letters (Journal, SCIE)</title>
+      <link>https://ku-csarch.github.io/post/accepted-esl24/</link>
+      <pubDate>Tue, 19 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/accepted-esl24/</guid>
+      <description>&lt;p&gt;One paper was accepted to &lt;em&gt;IEEE Embedded Systems Letters&lt;/em&gt;. Our paper presents a kernel merge and fusion technique for multiple inference tasks in embedded GPU systems. By applying the proposed kernel merge and fusion techniques, our proposed approach can reduce the number of concurrent kernels to improve the throughput of an embedded GPU system.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Prof. Gunjae Koo will be serving on the external review committee for ISCA 2024</title>
