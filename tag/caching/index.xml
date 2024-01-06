@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Caching | Computer System Architecture Lab</title>
+    <link>https://ku-csarch.github.io/tag/caching/</link>
+      <atom:link href="https://ku-csarch.github.io/tag/caching/index.xml" rel="self" type="application/rss+xml" />
+    <description>Caching</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 19 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ku-csarch.github.io/media/icon_hufc4ea502f7977d2b250399d95297f953_357528_512x512_fill_lanczos_center_3.png</url>
+      <title>Caching</title>
+      <link>https://ku-csarch.github.io/tag/caching/</link>
+    </image>
+    
+    <item>
+      <title>Performance Analysis of Embedding Cache Models for Optimizing Data Movement in Recommendation Systems</title>
+      <link>https://ku-csarch.github.io/publication/rec_data_kcc23/</link>
+      <pubDate>Mon, 19 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/rec_data_kcc23/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
