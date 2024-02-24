@@ -5,12 +5,21 @@
     <link>https://ku-csarch.github.io/authors/geonwoo-choi/</link>
       <atom:link href="https://ku-csarch.github.io/authors/geonwoo-choi/index.xml" rel="self" type="application/rss+xml" />
     <description>Geonwoo Choi</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 22 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ku-csarch.github.io/authors/geonwoo-choi/avatar_hu992408b2759e6792b2b447c1cfdeead3_108375_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Geonwoo Choi</title>
       <link>https://ku-csarch.github.io/authors/geonwoo-choi/</link>
     </image>
+    
+    <item>
+      <title>CSArch Lab members attended CSC 2024</title>
+      <link>https://ku-csarch.github.io/post/attend-csc24/</link>
+      <pubDate>Mon, 22 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/attend-csc24/</guid>
+      <description>&lt;p&gt;CSArch Lab members attended KIISE Computer System Society Conference 2024 (&lt;a href=&#34;http://css.or.kr/csc2024/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CSC 2024&lt;/a&gt;) held in Pyeongchang, Gangwon-do. Our lab members had a great time as the great researchers on computer system research fields presented keynotes and their research work during the conference. Prof. Gunjae Koo served on the organizing committee for CSC 2024.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Taewoon, Yujin, Jiwon, Geonwoo, and Dowon have joined CSArch Lab</title>

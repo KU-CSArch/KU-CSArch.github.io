@@ -5,12 +5,21 @@
     <link>https://ku-csarch.github.io/post/</link>
       <atom:link href="https://ku-csarch.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>News</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 19 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 22 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ku-csarch.github.io/media/icon_hufc4ea502f7977d2b250399d95297f953_357528_512x512_fill_lanczos_center_3.png</url>
       <title>News</title>
       <link>https://ku-csarch.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>CSArch Lab members attended CSC 2024</title>
+      <link>https://ku-csarch.github.io/post/attend-csc24/</link>
+      <pubDate>Mon, 22 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/attend-csc24/</guid>
+      <description>&lt;p&gt;CSArch Lab members attended KIISE Computer System Society Conference 2024 (&lt;a href=&#34;http://css.or.kr/csc2024/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CSC 2024&lt;/a&gt;) held in Pyeongchang, Gangwon-do. Our lab members had a great time as the great researchers on computer system research fields presented keynotes and their research work during the conference. Prof. Gunjae Koo served on the organizing committee for CSC 2024.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>One paper accepted to IEEE Embedded Systems Letters (Journal, SCIE)</title>

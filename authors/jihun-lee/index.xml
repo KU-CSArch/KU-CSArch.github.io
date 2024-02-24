@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jihun Lee | Computer System Architecture Lab</title>
+    <link>https://ku-csarch.github.io/authors/jihun-lee/</link>
+      <atom:link href="https://ku-csarch.github.io/authors/jihun-lee/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jihun Lee</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://ku-csarch.github.io/authors/jihun-lee/avatar_hu708c71e884d701a6fbf85aa5685aa8a9_161677_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Jihun Lee</title>
+      <link>https://ku-csarch.github.io/authors/jihun-lee/</link>
+    </image>
+    
+  </channel>
+</rss>
