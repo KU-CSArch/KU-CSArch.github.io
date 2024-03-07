@@ -5,12 +5,21 @@
     <link>https://ku-csarch.github.io/tag/accepted/</link>
       <atom:link href="https://ku-csarch.github.io/tag/accepted/index.xml" rel="self" type="application/rss+xml" />
     <description>Accepted</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 19 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 28 Feb 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ku-csarch.github.io/media/icon_hufc4ea502f7977d2b250399d95297f953_357528_512x512_fill_lanczos_center_3.png</url>
       <title>Accepted</title>
       <link>https://ku-csarch.github.io/tag/accepted/</link>
     </image>
+    
+    <item>
+      <title>One paper accepted to Journal of System Architecture (Journal, SCIE)</title>
+      <link>https://ku-csarch.github.io/post/accepted-jsa24/</link>
+      <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/accepted-jsa24/</guid>
+      <description>&lt;p&gt;One paper was accepted to &lt;em&gt;Journal of System Architecture&lt;/em&gt;. Our paper presents a conflict-aware compilation approach for hierarchical register file on GPUs. By optimizing register assignments based on approximated register write counts, our proposed approach can improve the peformance of GPUs equipped with non-volatile memory-based hierarchical register file.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>One paper accepted to IEEE Embedded Systems Letters (Journal, SCIE)</title>
