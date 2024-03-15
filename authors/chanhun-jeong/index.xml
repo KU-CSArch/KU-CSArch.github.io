@@ -5,12 +5,21 @@
     <link>https://ku-csarch.github.io/authors/chanhun-jeong/</link>
       <atom:link href="https://ku-csarch.github.io/authors/chanhun-jeong/index.xml" rel="self" type="application/rss+xml" />
     <description>Chanhun Jeong</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Mar 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ku-csarch.github.io/authors/chanhun-jeong/avatar_hu8a297bed4a72b5502d992a116c89c573_321755_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Chanhun Jeong</title>
       <link>https://ku-csarch.github.io/authors/chanhun-jeong/</link>
     </image>
+    
+    <item>
+      <title>Chanhun, Jihun, Sanghyeon, and Seongpil have joined CSArch Lab</title>
+      <link>https://ku-csarch.github.io/post/join-lab24sp/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/join-lab24sp/</guid>
+      <description>&lt;p&gt;Chanhun, Jihun, Sanghyeon, and Seongpil have joined CSArch Lab since the Spring semester 2024. We hope they will enjoy adventures in computer architecture research. Welcome!!&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

@@ -5,7 +5,7 @@
     <link>https://ku-csarch.github.io/tag/conference/</link>
       <atom:link href="https://ku-csarch.github.io/tag/conference/index.xml" rel="self" type="application/rss+xml" />
     <description>Conference</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 16 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 12 Mar 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ku-csarch.github.io/media/icon_hufc4ea502f7977d2b250399d95297f953_357528_512x512_fill_lanczos_center_3.png</url>
       <title>Conference</title>
@@ -13,11 +13,11 @@
     </image>
     
     <item>
-      <title>Prof. Gunjae Koo will be serving on the program committee for NVMSA 2024</title>
-      <link>https://ku-csarch.github.io/post/committee-nvmsa24/</link>
-      <pubDate>Fri, 16 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://ku-csarch.github.io/post/committee-nvmsa24/</guid>
-      <description>&lt;p&gt;Prof. Gunjae Koo will be serving on the program committee for the 13th IEEE Non-Volatile Memory Systems and Applications Symposium (&lt;a href=&#34;https://nvmsa2024.github.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NVMSA 2024&lt;/a&gt;). NVMSA 2024 will be held on August 21&amp;ndash;23 in Sokcho, South Korea. Please submit your best work!&lt;/p&gt;
+      <title>Prof. Gunjae Koo will be serving on the program committee for GLSVLSI 2024</title>
+      <link>https://ku-csarch.github.io/post/committee-glsvsli24/</link>
+      <pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/committee-glsvsli24/</guid>
+      <description>&lt;p&gt;Prof. Gunjae Koo will be serving as a member on the program committee for the 34th Great Lakes Symposium on VLSI (&lt;a href=&#34;https://www.glsvlsi.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GLSVLSI 2024&lt;/a&gt;. GLSVLSI 2024 will be held in Tempa Bay, FL, USA.&lt;/p&gt;
 </description>
     </item>
     
@@ -53,7 +53,7 @@
       <link>https://ku-csarch.github.io/post/committee-hpca24/</link>
       <pubDate>Fri, 28 Jul 2023 00:00:00 +0000</pubDate>
       <guid>https://ku-csarch.github.io/post/committee-hpca24/</guid>
-      <description>&lt;p&gt;Prof. Gunjae Koo will be serving as a regular member on the program committee for the 30th IEEE International Symposium on High-Performance Computer Architecture (&lt;a href=&#34;https://hpca-conf.org/2024/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HPCA 2024&lt;/a&gt;. HPCA 2024 will be held in in Edinburgh, Scotland, UK. Please submit your best work!&lt;/p&gt;
+      <description>&lt;p&gt;Prof. Gunjae Koo will be serving as a regular member on the program committee for the 30th IEEE International Symposium on High-Performance Computer Architecture (&lt;a href=&#34;https://hpca-conf.org/2024/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HPCA 2024&lt;/a&gt;. HPCA 2024 will be held in Edinburgh, Scotland, UK. Please submit your best work!&lt;/p&gt;
 </description>
     </item>
     

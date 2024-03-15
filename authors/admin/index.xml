@@ -5,7 +5,7 @@
     <link>https://ku-csarch.github.io/authors/admin/</link>
       <atom:link href="https://ku-csarch.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>Gunjae Koo</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 28 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 12 Mar 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ku-csarch.github.io/authors/admin/avatar_hu82dedd9a8cc969e0c17c0689e6c62001_573516_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Gunjae Koo</title>
@@ -13,20 +13,11 @@
     </image>
     
     <item>
-      <title>One paper accepted to Journal of System Architecture (Journal, SCIE)</title>
-      <link>https://ku-csarch.github.io/post/accepted-jsa24/</link>
-      <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://ku-csarch.github.io/post/accepted-jsa24/</guid>
-      <description>&lt;p&gt;One paper was accepted to &lt;em&gt;Journal of System Architecture&lt;/em&gt;. Our paper presents a conflict-aware compilation approach for hierarchical register file on GPUs. By optimizing register assignments based on approximated register write counts, our proposed approach can improve the peformance of GPUs equipped with non-volatile memory-based hierarchical register file.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Prof. Gunjae Koo will be serving on the program committee for NVMSA 2024</title>
-      <link>https://ku-csarch.github.io/post/committee-nvmsa24/</link>
-      <pubDate>Fri, 16 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://ku-csarch.github.io/post/committee-nvmsa24/</guid>
-      <description>&lt;p&gt;Prof. Gunjae Koo will be serving on the program committee for the 13th IEEE Non-Volatile Memory Systems and Applications Symposium (&lt;a href=&#34;https://nvmsa2024.github.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NVMSA 2024&lt;/a&gt;). NVMSA 2024 will be held on August 21&amp;ndash;23 in Sokcho, South Korea. Please submit your best work!&lt;/p&gt;
+      <title>Prof. Gunjae Koo will be serving on the program committee for GLSVLSI 2024</title>
+      <link>https://ku-csarch.github.io/post/committee-glsvsli24/</link>
+      <pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/committee-glsvsli24/</guid>
+      <description>&lt;p&gt;Prof. Gunjae Koo will be serving as a member on the program committee for the 34th Great Lakes Symposium on VLSI (&lt;a href=&#34;https://www.glsvlsi.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GLSVLSI 2024&lt;/a&gt;. GLSVLSI 2024 will be held in Tempa Bay, FL, USA.&lt;/p&gt;
 </description>
     </item>
     
@@ -88,7 +79,7 @@
       <link>https://ku-csarch.github.io/post/committee-hpca24/</link>
       <pubDate>Fri, 28 Jul 2023 00:00:00 +0000</pubDate>
       <guid>https://ku-csarch.github.io/post/committee-hpca24/</guid>
-      <description>&lt;p&gt;Prof. Gunjae Koo will be serving as a regular member on the program committee for the 30th IEEE International Symposium on High-Performance Computer Architecture (&lt;a href=&#34;https://hpca-conf.org/2024/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HPCA 2024&lt;/a&gt;. HPCA 2024 will be held in in Edinburgh, Scotland, UK. Please submit your best work!&lt;/p&gt;
+      <description>&lt;p&gt;Prof. Gunjae Koo will be serving as a regular member on the program committee for the 30th IEEE International Symposium on High-Performance Computer Architecture (&lt;a href=&#34;https://hpca-conf.org/2024/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HPCA 2024&lt;/a&gt;. HPCA 2024 will be held in Edinburgh, Scotland, UK. Please submit your best work!&lt;/p&gt;
 </description>
     </item>
     
