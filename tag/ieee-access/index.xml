@@ -5,12 +5,21 @@
     <link>https://ku-csarch.github.io/tag/ieee-access/</link>
       <atom:link href="https://ku-csarch.github.io/tag/ieee-access/index.xml" rel="self" type="application/rss+xml" />
     <description>IEEE Access</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 13 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 11 Mar 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ku-csarch.github.io/media/icon_hufc4ea502f7977d2b250399d95297f953_357528_512x512_fill_lanczos_center_3.png</url>
       <title>IEEE Access</title>
       <link>https://ku-csarch.github.io/tag/ieee-access/</link>
     </image>
+    
+    <item>
+      <title>One paper accepted to IEEE Access (Journal, SCIE)</title>
+      <link>https://ku-csarch.github.io/post/accepted-access24/</link>
+      <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/accepted-access24/</guid>
+      <description>&lt;p&gt;One paper was accepted to &lt;em&gt;IEEE Access&lt;/em&gt;. Our paper presents a scale-out DNN inference accelerator architecture, called &lt;em&gt;SAVector&lt;/em&gt;, that equips vectored systolic arrays and two-level on-chip beffer architecture.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>One paper accepted to IEEE Access (Journal, SCIE)</title>
