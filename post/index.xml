@@ -26,7 +26,7 @@
       <link>https://ku-csarch.github.io/post/accepted-access24/</link>
       <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
       <guid>https://ku-csarch.github.io/post/accepted-access24/</guid>
-      <description>&lt;p&gt;One paper was accepted to &lt;em&gt;IEEE Access&lt;/em&gt;. Our paper presents a scale-out DNN inference accelerator architecture, called &lt;em&gt;SAVector&lt;/em&gt;, that equips vectored systolic arrays and two-level on-chip beffer architecture.&lt;/p&gt;
+      <description>&lt;p&gt;One paper was accepted to &lt;em&gt;IEEE Access&lt;/em&gt;. Our paper presents a scale-out DNN inference accelerator architecture, called &lt;em&gt;SAVector&lt;/em&gt;, which equips vectored systolic arrays and two-level on-chip buffer architecture. SAVector can reduce energy-delay-product (EDP) by 52% while exhibiting similar performance compared to a scale-up accelerator architecture.&lt;/p&gt;
 </description>
     </item>
     
