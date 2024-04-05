@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jongmin Kim | Computer System Architecture Lab</title>
+    <link>https://ku-csarch.github.io/authors/jongmin-kim/</link>
+      <atom:link href="https://ku-csarch.github.io/authors/jongmin-kim/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jongmin Kim</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 25 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ku-csarch.github.io/media/icon_hufc4ea502f7977d2b250399d95297f953_357528_512x512_fill_lanczos_center_3.png</url>
+      <title>Jongmin Kim</title>
+      <link>https://ku-csarch.github.io/authors/jongmin-kim/</link>
+    </image>
+    
+    <item>
+      <title>SAVector: Vectored Systolic Arrays</title>
+      <link>https://ku-csarch.github.io/publication/dnn_accel_access24/</link>
+      <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/dnn_accel_access24/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jaebeom Jeon | Computer System Architecture Lab</title>
+    <link>https://ku-csarch.github.io/authors/jaebeom-jeon/</link>
+      <atom:link href="https://ku-csarch.github.io/authors/jaebeom-jeon/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jaebeom Jeon</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 09 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ku-csarch.github.io/media/icon_hufc4ea502f7977d2b250399d95297f953_357528_512x512_fill_lanczos_center_3.png</url>
+      <title>Jaebeom Jeon</title>
+      <link>https://ku-csarch.github.io/authors/jaebeom-jeon/</link>
+    </image>
+    
+    <item>
+      <title>Adaptive Kernel Merge and Fusion for Multi-Tenant Inference in Embedded GPUs</title>
+      <link>https://ku-csarch.github.io/publication/gpu_kernel_esl24/</link>
+      <pubDate>Tue, 09 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/gpu_kernel_esl24/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

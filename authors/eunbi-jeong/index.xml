@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eunbi Jeong | Computer System Architecture Lab</title>
+    <link>https://ku-csarch.github.io/authors/eunbi-jeong/</link>
+      <atom:link href="https://ku-csarch.github.io/authors/eunbi-jeong/index.xml" rel="self" type="application/rss+xml" />
+    <description>Eunbi Jeong</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 29 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ku-csarch.github.io/media/icon_hufc4ea502f7977d2b250399d95297f953_357528_512x512_fill_lanczos_center_3.png</url>
+      <title>Eunbi Jeong</title>
+      <link>https://ku-csarch.github.io/authors/eunbi-jeong/</link>
+    </image>
+    
+    <item>
+      <title>Conflict-Aware Compiler for Hierarchical Register File on GPUs</title>
+      <link>https://ku-csarch.github.io/publication/gpu_hirf_jsa24/</link>
+      <pubDate>Thu, 29 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/gpu_hirf_jsa24/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

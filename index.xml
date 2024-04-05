@@ -33,6 +33,14 @@
     </item>
     
     <item>
+      <title>SAVector: Vectored Systolic Arrays</title>
+      <link>https://ku-csarch.github.io/publication/dnn_accel_access24/</link>
+      <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/dnn_accel_access24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Prof. Gunjae Koo will be serving on the program committee for GLSVLSI 2024</title>
       <link>https://ku-csarch.github.io/post/committee-glsvsli24/</link>
       <pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate>
@@ -60,6 +68,14 @@
     </item>
     
     <item>
+      <title>Conflict-Aware Compiler for Hierarchical Register File on GPUs</title>
+      <link>https://ku-csarch.github.io/publication/gpu_hirf_jsa24/</link>
+      <pubDate>Thu, 29 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/gpu_hirf_jsa24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>One paper accepted to Journal of System Architecture (Journal, SCIE)</title>
       <link>https://ku-csarch.github.io/post/accepted-jsa24/</link>
       <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
@@ -84,6 +100,14 @@
       <guid>https://ku-csarch.github.io/post/attend-csc24/</guid>
       <description>&lt;p&gt;CSArch Lab members attended KIISE Computer System Society Conference 2024 (&lt;a href=&#34;http://css.or.kr/csc2024/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CSC 2024&lt;/a&gt;) held in Pyeongchang, Gangwon-do. Our lab members had a great time as the great researchers on computer system research fields presented keynotes and their research work during the conference. Prof. Gunjae Koo served on the organizing committee for CSC 2024.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Adaptive Kernel Merge and Fusion for Multi-Tenant Inference in Embedded GPUs</title>
+      <link>https://ku-csarch.github.io/publication/gpu_kernel_esl24/</link>
+      <pubDate>Tue, 09 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/gpu_kernel_esl24/</guid>
+      <description></description>
     </item>
     
     <item>

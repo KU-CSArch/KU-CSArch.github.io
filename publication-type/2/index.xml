@@ -5,12 +5,36 @@
     <link>https://ku-csarch.github.io/publication-type/2/</link>
       <atom:link href="https://ku-csarch.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 22 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 25 Mar 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ku-csarch.github.io/media/icon_hufc4ea502f7977d2b250399d95297f953_357528_512x512_fill_lanczos_center_3.png</url>
       <title>2</title>
       <link>https://ku-csarch.github.io/publication-type/2/</link>
     </image>
+    
+    <item>
+      <title>SAVector: Vectored Systolic Arrays</title>
+      <link>https://ku-csarch.github.io/publication/dnn_accel_access24/</link>
+      <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/dnn_accel_access24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conflict-Aware Compiler for Hierarchical Register File on GPUs</title>
+      <link>https://ku-csarch.github.io/publication/gpu_hirf_jsa24/</link>
+      <pubDate>Thu, 29 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/gpu_hirf_jsa24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive Kernel Merge and Fusion for Multi-Tenant Inference in Embedded GPUs</title>
+      <link>https://ku-csarch.github.io/publication/gpu_kernel_esl24/</link>
+      <pubDate>Tue, 09 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/gpu_kernel_esl24/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Vizard: Passing over Profiling-Based Detection by Manipulating Performance Counters</title>

@@ -10,7 +10,41 @@
   <url>
     <loc>https://ku-csarch.github.io/event/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ku-csarch.github.io/authors/</loc><lastmod>2024-03-12T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ku-csarch.github.io/publication-type/2/</loc><lastmod>2024-03-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ku-csarch.github.io/tag/accelerators/</loc><lastmod>2024-03-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ku-csarch.github.io/authors/</loc><lastmod>2024-03-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ku-csarch.github.io/tag/deep-neural-networks/</loc><lastmod>2024-03-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ku-csarch.github.io/authors/admin/</loc><lastmod>2024-03-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ku-csarch.github.io/authors/jaeyong-park/</loc><lastmod>2024-03-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ku-csarch.github.io/authors/jongmin-kim/</loc><lastmod>2024-03-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ku-csarch.github.io/authors/myung-kuk-yoon/</loc><lastmod>2024-03-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ku-csarch.github.io/publication_types/</loc><lastmod>2024-03-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ku-csarch.github.io/publication/</loc><lastmod>2024-03-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ku-csarch.github.io/authors/sangun-choi/</loc><lastmod>2024-03-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ku-csarch.github.io/publication/dnn_accel_access24/</loc><lastmod>2024-03-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ku-csarch.github.io/tag/scale-out-architecture/</loc><lastmod>2024-03-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ku-csarch.github.io/authors/seokin-hong/</loc><lastmod>2024-03-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ku-csarch.github.io/authors/seongjun-park/</loc><lastmod>2024-03-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ku-csarch.github.io/tag/systolic-arrays/</loc><lastmod>2024-03-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ku-csarch.github.io/tags/</loc><lastmod>2024-03-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ku-csarch.github.io/authors/yunho-oh/</loc><lastmod>2024-03-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ku-csarch.github.io/categories/</loc><lastmod>2024-03-12T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -18,15 +52,11 @@
   <url>
     <loc>https://ku-csarch.github.io/tag/conference/</loc><lastmod>2024-03-12T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ku-csarch.github.io/authors/admin/</loc><lastmod>2024-03-12T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://ku-csarch.github.io/post/</loc><lastmod>2024-03-12T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ku-csarch.github.io/post/committee-glsvsli24/</loc><lastmod>2024-03-12T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ku-csarch.github.io/category/service/</loc><lastmod>2024-03-12T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ku-csarch.github.io/tags/</loc><lastmod>2024-03-12T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ku-csarch.github.io/tag/accepted/</loc><lastmod>2024-03-11T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -51,6 +81,18 @@
     <loc>https://ku-csarch.github.io/authors/sanghyeon-park/</loc><lastmod>2024-03-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ku-csarch.github.io/authors/seongpil-yang/</loc><lastmod>2024-03-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ku-csarch.github.io/tag/compiler/</loc><lastmod>2024-02-29T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ku-csarch.github.io/publication/gpu_hirf_jsa24/</loc><lastmod>2024-02-29T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ku-csarch.github.io/authors/eun-seong-park/</loc><lastmod>2024-02-29T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ku-csarch.github.io/authors/eunbi-jeong/</loc><lastmod>2024-02-29T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ku-csarch.github.io/tag/gpu/</loc><lastmod>2024-02-29T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ku-csarch.github.io/tag/register-file/</loc><lastmod>2024-02-29T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ku-csarch.github.io/tag/jsa/</loc><lastmod>2024-02-28T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -82,6 +124,14 @@
   <url>
     <loc>https://ku-csarch.github.io/authors/yujin-kim/</loc><lastmod>2024-01-22T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://ku-csarch.github.io/publication/gpu_kernel_esl24/</loc><lastmod>2024-01-09T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ku-csarch.github.io/tag/embedded-systems/</loc><lastmod>2024-01-09T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ku-csarch.github.io/authors/jaebeom-jeon/</loc><lastmod>2024-01-09T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ku-csarch.github.io/tag/kernel-merge/</loc><lastmod>2024-01-09T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://ku-csarch.github.io/tag/ieee-esl/</loc><lastmod>2023-12-19T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ku-csarch.github.io/post/accepted-esl24/</loc><lastmod>2023-12-19T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
@@ -98,21 +148,11 @@
   <url>
     <loc>https://ku-csarch.github.io/publication-type/1/</loc><lastmod>2023-08-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ku-csarch.github.io/tag/gpu/</loc><lastmod>2023-08-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://ku-csarch.github.io/tag/memory-controller/</loc><lastmod>2023-08-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ku-csarch.github.io/tag/memory-systems/</loc><lastmod>2023-08-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ku-csarch.github.io/authors/myung-kuk-yoon/</loc><lastmod>2023-08-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ku-csarch.github.io/publication_types/</loc><lastmod>2023-08-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ku-csarch.github.io/publication/</loc><lastmod>2023-08-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://ku-csarch.github.io/publication/gpu_memc_icpp23/</loc><lastmod>2023-08-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ku-csarch.github.io/authors/yunho-oh/</loc><lastmod>2023-08-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ku-csarch.github.io/post/present-icpp23/</loc><lastmod>2023-08-09T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -161,8 +201,6 @@
     <loc>https://ku-csarch.github.io/post/career-inje23/</loc><lastmod>2023-04-15T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ku-csarch.github.io/authors/inje-kim/</loc><lastmod>2023-04-15T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ku-csarch.github.io/publication-type/2/</loc><lastmod>2023-03-22T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ku-csarch.github.io/tag/cache-side-channel-attack/</loc><lastmod>2023-03-22T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -393,8 +431,6 @@
     <loc>https://ku-csarch.github.io/publication/gpu_nvrf_access20/</loc><lastmod>2020-07-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ku-csarch.github.io/authors/jun-hyun-park/</loc><lastmod>2020-07-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ku-csarch.github.io/tag/register-file/</loc><lastmod>2020-07-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ku-csarch.github.io/tag/stt-mram/</loc><lastmod>2020-07-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
