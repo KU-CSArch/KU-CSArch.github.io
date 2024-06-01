@@ -5,12 +5,21 @@
     <link>https://ku-csarch.github.io/tag/conference/</link>
       <atom:link href="https://ku-csarch.github.io/tag/conference/index.xml" rel="self" type="application/rss+xml" />
     <description>Conference</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 12 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 31 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ku-csarch.github.io/media/icon_hufc4ea502f7977d2b250399d95297f953_357528_512x512_fill_lanczos_center_3.png</url>
       <title>Conference</title>
       <link>https://ku-csarch.github.io/tag/conference/</link>
     </image>
+    
+    <item>
+      <title>One paper accepted to NVMSA 2024</title>
+      <link>https://ku-csarch.github.io/post/accepted-nvmsa24/</link>
+      <pubDate>Fri, 31 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/accepted-nvmsa24/</guid>
+      <description>&lt;p&gt;One paper was accepted to the &lt;em&gt;the 13th IEEE Non-Volatile Memory Systems and Applications Symposium (NVMSA)&lt;/em&gt;. Our research work proposes an effieicnt garbage collection mechanism, called &lt;em&gt;ColdMap&lt;/em&gt;, which can extend the lifetime of SSD by exploiting multi-page mapping information.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Prof. Gunjae Koo will be serving on the program committee for GLSVLSI 2024</title>
@@ -71,7 +80,7 @@
       <link>https://ku-csarch.github.io/post/accepted-icpp23/</link>
       <pubDate>Fri, 16 Jun 2023 00:00:00 +0000</pubDate>
       <guid>https://ku-csarch.github.io/post/accepted-icpp23/</guid>
-      <description>&lt;p&gt;One paper was accepted to the &lt;em&gt;52nd International Conference on Parallel Processing (ICPP 2023)&lt;/em&gt;. Our research paper proposed &lt;em&gt;Warped-MC&lt;/em&gt;, an efficient memory controller scheme for modern GPUs. &lt;em&gt;Warped-MC&lt;/em&gt; mitigates the latency divergence observed in a warp that create multiple outstanding memory requests. Hence, &lt;em&gt;Warped-MC&lt;/em&gt; can effectively reduce a long-tail of load warp execution time to improve the overall GPU performance.&lt;/p&gt;
+      <description>&lt;p&gt;One paper was accepted to the &lt;em&gt;52nd International Conference on Parallel Processing (ICPP 2023)&lt;/em&gt;. Our research paper proposes &lt;em&gt;Warped-MC&lt;/em&gt;, an efficient memory controller scheme for modern GPUs. &lt;em&gt;Warped-MC&lt;/em&gt; mitigates the latency divergence observed in a warp that create multiple outstanding memory requests. Hence, &lt;em&gt;Warped-MC&lt;/em&gt; can effectively reduce a long-tail of load warp execution time to improve the overall GPU performance.&lt;/p&gt;
 </description>
     </item>
     
