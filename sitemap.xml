@@ -10,11 +10,25 @@
   <url>
     <loc>https://ku-csarch.github.io/event/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://ku-csarch.github.io/authors/</loc><lastmod>2024-06-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ku-csarch.github.io/categories/</loc><lastmod>2024-06-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ku-csarch.github.io/tag/defense/</loc><lastmod>2024-06-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ku-csarch.github.io/category/defense/</loc><lastmod>2024-06-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ku-csarch.github.io/authors/jaewon-seo/</loc><lastmod>2024-06-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ku-csarch.github.io/post/</loc><lastmod>2024-06-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ku-csarch.github.io/tags/</loc><lastmod>2024-06-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ku-csarch.github.io/post/defense-masters24/</loc><lastmod>2024-06-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ku-csarch.github.io/authors/yewon-hwang/</loc><lastmod>2024-06-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://ku-csarch.github.io/tag/accepted/</loc><lastmod>2024-05-31T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ku-csarch.github.io/authors/</loc><lastmod>2024-05-31T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ku-csarch.github.io/categories/</loc><lastmod>2024-05-31T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ku-csarch.github.io/tag/conference/</loc><lastmod>2024-05-31T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -22,15 +36,9 @@
   <url>
     <loc>https://ku-csarch.github.io/authors/admin/</loc><lastmod>2024-05-31T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ku-csarch.github.io/authors/jaewon-seo/</loc><lastmod>2024-05-31T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ku-csarch.github.io/post/</loc><lastmod>2024-05-31T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://ku-csarch.github.io/tag/nvmsa/</loc><lastmod>2024-05-31T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ku-csarch.github.io/post/accepted-nvmsa24/</loc><lastmod>2024-05-31T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ku-csarch.github.io/tags/</loc><lastmod>2024-05-31T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ku-csarch.github.io/post/training-germany24/</loc><lastmod>2024-04-29T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -130,8 +138,6 @@
   <url>
     <loc>https://ku-csarch.github.io/authors/jonghyun-jeong/</loc><lastmod>2024-01-22T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ku-csarch.github.io/authors/yewon-hwang/</loc><lastmod>2024-01-22T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://ku-csarch.github.io/publication/gpu_kernel_esl24/</loc><lastmod>2024-01-09T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ku-csarch.github.io/tag/embedded-systems/</loc><lastmod>2024-01-09T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
@@ -189,10 +195,6 @@
     <loc>https://ku-csarch.github.io/tag/icpp/</loc><lastmod>2023-06-16T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ku-csarch.github.io/post/accepted-icpp23/</loc><lastmod>2023-06-16T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ku-csarch.github.io/tag/defense/</loc><lastmod>2023-06-08T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ku-csarch.github.io/category/defense/</loc><lastmod>2023-06-08T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ku-csarch.github.io/authors/hunjong-lee/</loc><lastmod>2023-06-08T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>

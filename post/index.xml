@@ -5,12 +5,21 @@
     <link>https://ku-csarch.github.io/post/</link>
       <atom:link href="https://ku-csarch.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>News</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 31 May 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 05 Jun 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ku-csarch.github.io/media/icon_hufc4ea502f7977d2b250399d95297f953_357528_512x512_fill_lanczos_center_3.png</url>
       <title>News</title>
       <link>https://ku-csarch.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>Yewon and Jaewon defended</title>
+      <link>https://ku-csarch.github.io/post/defense-masters24/</link>
+      <pubDate>Wed, 05 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/defense-masters24/</guid>
+      <description>&lt;p&gt;Yewon and Jaewon successfully defended their Master&amp;rsquo;s theses. Congratulations!!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>One paper accepted to NVMSA 2024</title>
@@ -35,7 +44,7 @@
       <link>https://ku-csarch.github.io/post/committee-glsvsli24/</link>
       <pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate>
       <guid>https://ku-csarch.github.io/post/committee-glsvsli24/</guid>
-      <description>&lt;p&gt;Prof. Gunjae Koo will be serving as a member on the program committee for the 34th Great Lakes Symposium on VLSI (&lt;a href=&#34;https://www.glsvlsi.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GLSVLSI 2024&lt;/a&gt;. GLSVLSI 2024 will be held in Tempa Bay, FL, USA.&lt;/p&gt;
+      <description>&lt;p&gt;Prof. Gunjae Koo will be serving as a member on the program committee for the 34th Great Lakes Symposium on VLSI (&lt;a href=&#34;https://www.glsvlsi.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GLSVLSI 2024&lt;/a&gt;). GLSVLSI 2024 will be held in Tempa Bay, FL, USA.&lt;/p&gt;
 </description>
     </item>
     
