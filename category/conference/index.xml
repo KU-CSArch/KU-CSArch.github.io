@@ -5,12 +5,21 @@
     <link>https://ku-csarch.github.io/category/conference/</link>
       <atom:link href="https://ku-csarch.github.io/category/conference/index.xml" rel="self" type="application/rss+xml" />
     <description>Conference</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 31 May 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 11 Jun 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ku-csarch.github.io/media/icon_hufc4ea502f7977d2b250399d95297f953_357528_512x512_fill_lanczos_center_3.png</url>
       <title>Conference</title>
       <link>https://ku-csarch.github.io/category/conference/</link>
     </image>
+    
+    <item>
+      <title>One paper accepted to ICPP 2024</title>
+      <link>https://ku-csarch.github.io/post/accepted-icpp24/</link>
+      <pubDate>Tue, 11 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/accepted-icpp24/</guid>
+      <description>&lt;p&gt;One paper was accepted to the &lt;em&gt;53nd International Conference on Parallel Processing (ICPP 2024)&lt;/em&gt;. Our research paper proposes &lt;em&gt;VitBit&lt;/em&gt;, an efficient register operand packing scheme for embedded GPUs. &lt;em&gt;VitBit&lt;/em&gt; packs low-precision integer data for parallel computation of integer and floating-point engines. Hence, &lt;em&gt;VitBit&lt;/em&gt; can effectively increase the arithmetic density of GPU computations to improve the throughput of embedded GPUs.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>One paper accepted to NVMSA 2024</title>
