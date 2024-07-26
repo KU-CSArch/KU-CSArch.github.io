@@ -5,12 +5,21 @@
     <link>https://ku-csarch.github.io/tag/award/</link>
       <atom:link href="https://ku-csarch.github.io/tag/award/index.xml" rel="self" type="application/rss+xml" />
     <description>Award</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 08 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 27 Jun 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ku-csarch.github.io/media/icon_hufc4ea502f7977d2b250399d95297f953_357528_512x512_fill_lanczos_center_3.png</url>
       <title>Award</title>
       <link>https://ku-csarch.github.io/tag/award/</link>
     </image>
+    
+    <item>
+      <title>Two papers awarded the Outstanding Paper Award from KCC 2024</title>
+      <link>https://ku-csarch.github.io/post/award-kcc24/</link>
+      <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/award-kcc24/</guid>
+      <description>&lt;p&gt;Two papers from CSArch was awarded the &lt;strong&gt;Outstanding Paper Award&lt;/strong&gt; from the Korea Computer Congress (KCC) 2024. Big congrats, Yewon and Jiwon!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Warped-MC awarded the Best Paper Award from ICPP 2023</title>
@@ -22,11 +31,11 @@
     </item>
     
     <item>
-      <title>Jongmin received an excellent research paper award from Korea University</title>
+      <title>Jongmin received the Excellent Research Paper Award from Korea University</title>
       <link>https://ku-csarch.github.io/post/award-ku22/</link>
       <pubDate>Thu, 25 Aug 2022 00:00:00 +0000</pubDate>
       <guid>https://ku-csarch.github.io/post/award-ku22/</guid>
-      <description>&lt;p&gt;Jongmin received an excellet research paper award from Korea University for the research paper entitled &amp;ldquo;CacheRewinder: Revoking Speculative Cache Updates Exploiting Write-Back Buffer&amp;rdquo; published in the proceedings of 2022 Design, Automation &amp;amp; Test in Europe Conference &amp;amp; Exhibition (DATE). Congrats Jongmin!&lt;/p&gt;
+      <description>&lt;p&gt;Jongmin received the &lt;strong&gt;Excellet Research Paper Award&lt;/strong&gt; from Korea University for the research paper entitled &amp;ldquo;CacheRewinder: Revoking Speculative Cache Updates Exploiting Write-Back Buffer&amp;rdquo; published in the proceedings of 2022 Design, Automation &amp;amp; Test in Europe Conference &amp;amp; Exhibition (DATE). Congrats Jongmin!&lt;/p&gt;
 </description>
     </item>
     

@@ -5,12 +5,21 @@
     <link>https://ku-csarch.github.io/category/conference-korea/</link>
       <atom:link href="https://ku-csarch.github.io/category/conference-korea/index.xml" rel="self" type="application/rss+xml" />
     <description>Conference (Korea)</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 20 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 26 Jun 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ku-csarch.github.io/media/icon_hufc4ea502f7977d2b250399d95297f953_357528_512x512_fill_lanczos_center_3.png</url>
       <title>Conference (Korea)</title>
       <link>https://ku-csarch.github.io/category/conference-korea/</link>
     </image>
+    
+    <item>
+      <title>Yewon and Jiwon presented at KCC 2024</title>
+      <link>https://ku-csarch.github.io/post/present-kcc24/</link>
+      <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/present-kcc24/</guid>
+      <description>&lt;p&gt;Yewon and Jiwon presented their research work at Korea Computer Congress 2024 (&lt;a href=&#34;https://www.kiise.or.kr/conference/kcc/2024&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;KCC 2024&lt;/a&gt;) held in Seoguipo-si, Jeju-do. Yewon presented her research on security attacks on RISC-V SoC architecture. Jiwon presented her research on performance anlysis of GPU-PIM address mapping approaches. Good job, Yewon and Jiwon!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Hyunwoo presented at KCC 2023</title>

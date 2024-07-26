@@ -5,12 +5,30 @@
     <link>https://ku-csarch.github.io/authors/yewon-hwang/</link>
       <atom:link href="https://ku-csarch.github.io/authors/yewon-hwang/index.xml" rel="self" type="application/rss+xml" />
     <description>Yewon Hwang</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 05 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 27 Jun 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ku-csarch.github.io/authors/yewon-hwang/avatar_huac5c29a2f502a8f294b961698110832b_238912_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Yewon Hwang</title>
       <link>https://ku-csarch.github.io/authors/yewon-hwang/</link>
     </image>
+    
+    <item>
+      <title>Two papers awarded the Outstanding Paper Award from KCC 2024</title>
+      <link>https://ku-csarch.github.io/post/award-kcc24/</link>
+      <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/award-kcc24/</guid>
+      <description>&lt;p&gt;Two papers from CSArch was awarded the &lt;strong&gt;Outstanding Paper Award&lt;/strong&gt; from the Korea Computer Congress (KCC) 2024. Big congrats, Yewon and Jiwon!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Yewon and Jiwon presented at KCC 2024</title>
+      <link>https://ku-csarch.github.io/post/present-kcc24/</link>
+      <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/present-kcc24/</guid>
+      <description>&lt;p&gt;Yewon and Jiwon presented their research work at Korea Computer Congress 2024 (&lt;a href=&#34;https://www.kiise.or.kr/conference/kcc/2024&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;KCC 2024&lt;/a&gt;) held in Seoguipo-si, Jeju-do. Yewon presented her research on security attacks on RISC-V SoC architecture. Jiwon presented her research on performance anlysis of GPU-PIM address mapping approaches. Good job, Yewon and Jiwon!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Yewon and Jaewon defended</title>
