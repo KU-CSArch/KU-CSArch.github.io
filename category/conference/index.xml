@@ -5,12 +5,21 @@
     <link>https://ku-csarch.github.io/category/conference/</link>
       <atom:link href="https://ku-csarch.github.io/category/conference/index.xml" rel="self" type="application/rss+xml" />
     <description>Conference</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 11 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 21 Aug 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ku-csarch.github.io/media/icon_hufc4ea502f7977d2b250399d95297f953_357528_512x512_fill_lanczos_center_3.png</url>
       <title>Conference</title>
       <link>https://ku-csarch.github.io/category/conference/</link>
     </image>
+    
+    <item>
+      <title>Jaewon presented at NVMSA 2024</title>
+      <link>https://ku-csarch.github.io/post/present-nvmsa24/</link>
+      <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/present-nvmsa24/</guid>
+      <description>&lt;p&gt;Jaewon presented his research work regarding an efficient garbage collection scheme for remap-based SSDs at the 13th IEEE Non-Volatile Memory Systems and Applications (&lt;a href=&#34;https://nvmsa2024.github.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NVMSA 2024&lt;/a&gt;). Good job, Jaewon!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>One paper accepted to ICPP 2024</title>
