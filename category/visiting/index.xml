@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Visiting | Computer System Architecture Lab</title>
+    <link>https://ku-csarch.github.io/category/visiting/</link>
+      <atom:link href="https://ku-csarch.github.io/category/visiting/index.xml" rel="self" type="application/rss+xml" />
+    <description>Visiting</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 30 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ku-csarch.github.io/media/icon_hufc4ea502f7977d2b250399d95297f953_357528_512x512_fill_lanczos_center_3.png</url>
+      <title>Visiting</title>
+      <link>https://ku-csarch.github.io/category/visiting/</link>
+    </image>
+    
+    <item>
+      <title>Yujin selected as a visiting graduate student at UCI</title>
+      <link>https://ku-csarch.github.io/post/visiting-uci24/</link>
+      <pubDate>Fri, 30 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/visiting-uci24/</guid>
+      <description>&lt;p&gt;Yujin was selected as a recipient of a Global Innovation Talent Support Program (산업혁신인재성장지원사업 해외 파견 연구자) by KIAT. She will be working on efficient accelerator architectures as a visit graduate student at University of California, Irvine.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

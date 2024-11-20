@@ -33,6 +33,33 @@
     </item>
     
     <item>
+      <title>One paper accepted to DATE 2025</title>
+      <link>https://ku-csarch.github.io/post/accepted-date25/</link>
+      <pubDate>Tue, 19 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/accepted-date25/</guid>
+      <description>&lt;p&gt;One papers was accepted to the &lt;em&gt;Design, Automation and Test in Europe Conference (DATE) 2025&lt;/em&gt;. Our paper proposes &lt;em&gt;HyMM&lt;/em&gt;, an efficient sparse-dense matrix multiplication accelerator architecture for GCNs. &lt;em&gt;HyMM&lt;/em&gt; implements a hybrid sparse-dense matrix multiplication dataflow to exploit the data locality observed in graph structures in GCNs.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>One paper accepted to IEEE Embedded Systems Letters (Journal, SCIE)</title>
+      <link>https://ku-csarch.github.io/post/accepted-esl24_1/</link>
+      <pubDate>Mon, 21 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/accepted-esl24_1/</guid>
+      <description>&lt;p&gt;One paper was accepted to &lt;em&gt;IEEE Embedded Systems Letters&lt;/em&gt;. Our paper presents a software approach that can optimize thread allocation for merged and fused kernels in multi-tenant inference tasks in embedded GPU systems. Our proposed apporach identifies the best-performing thread counts based on the performance modeling to improve hardware utiliztion while ensuring QoS compilance.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Yujin selected as a visiting graduate student at UCI</title>
+      <link>https://ku-csarch.github.io/post/visiting-uci24/</link>
+      <pubDate>Fri, 30 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/visiting-uci24/</guid>
+      <description>&lt;p&gt;Yujin was selected as a recipient of a Global Innovation Talent Support Program (산업혁신인재성장지원사업 해외 파견 연구자) by KIAT. She will be working on efficient accelerator architectures as a visit graduate student at University of California, Irvine.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Jaewon presented at NVMSA 2024</title>
       <link>https://ku-csarch.github.io/post/present-nvmsa24/</link>
       <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>

@@ -5,12 +5,21 @@
     <link>https://ku-csarch.github.io/tag/date/</link>
       <atom:link href="https://ku-csarch.github.io/tag/date/index.xml" rel="self" type="application/rss+xml" />
     <description>DATE</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 11 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 19 Nov 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ku-csarch.github.io/media/icon_hufc4ea502f7977d2b250399d95297f953_357528_512x512_fill_lanczos_center_3.png</url>
       <title>DATE</title>
       <link>https://ku-csarch.github.io/tag/date/</link>
     </image>
+    
+    <item>
+      <title>One paper accepted to DATE 2025</title>
+      <link>https://ku-csarch.github.io/post/accepted-date25/</link>
+      <pubDate>Tue, 19 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/accepted-date25/</guid>
+      <description>&lt;p&gt;One papers was accepted to the &lt;em&gt;Design, Automation and Test in Europe Conference (DATE) 2025&lt;/em&gt;. Our paper proposes &lt;em&gt;HyMM&lt;/em&gt;, an efficient sparse-dense matrix multiplication accelerator architecture for GCNs. &lt;em&gt;HyMM&lt;/em&gt; implements a hybrid sparse-dense matrix multiplication dataflow to exploit the data locality observed in graph structures in GCNs.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Two papers accepted to DATE 2022</title>
