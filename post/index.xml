@@ -17,7 +17,7 @@
       <link>https://ku-csarch.github.io/post/visiting-ucmerced25/</link>
       <pubDate>Tue, 19 Nov 2024 00:00:00 +0000</pubDate>
       <guid>https://ku-csarch.github.io/post/visiting-ucmerced25/</guid>
-      <description>&lt;p&gt;Jonghyun was selected as a recipient of a Joint Research Program for Outstanding Graduate Students by BK21. He will be working on GPU architectures as a visit graduate student at University of California, Merced.&lt;/p&gt;
+      <description>&lt;p&gt;Jonghyun was selected as a recipient of a Joint Research Program for Outstanding Graduate Students (우수대학원생 국제공동연수) by BK21. He will be working on GPU architectures as a visit graduate student at University of California, Merced.&lt;/p&gt;
 </description>
     </item>
     
@@ -27,6 +27,15 @@
       <pubDate>Tue, 19 Nov 2024 00:00:00 +0000</pubDate>
       <guid>https://ku-csarch.github.io/post/accepted-date25/</guid>
       <description>&lt;p&gt;One papers was accepted to the &lt;em&gt;Design, Automation and Test in Europe Conference (DATE) 2025&lt;/em&gt;. Our paper proposes &lt;em&gt;HyMM&lt;/em&gt;, an efficient sparse-dense matrix multiplication accelerator architecture for GCNs. &lt;em&gt;HyMM&lt;/em&gt; implements a hybrid sparse-dense matrix multiplication dataflow to exploit the data locality observed in graph structures in GCNs.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Prof. Gunjae Koo presented at SK AI Summit 2024</title>
+      <link>https://ku-csarch.github.io/post/present-sksummit24/</link>
+      <pubDate>Tue, 05 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/present-sksummit24/</guid>
+      <description>&lt;p&gt;Prof. Gunjae Koo was invited to present for one of the AI Chip sessions at the &lt;a href=&#34;https://www.skaisummit.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SK AI Summit 2024&lt;/a&gt;. He made a talk regarding research trends in processor and memory systems. He presented the recent research trends in computer architecture as &amp;ldquo;DEcentralization&amp;rdquo;.&lt;/p&gt;
 </description>
     </item>
     
