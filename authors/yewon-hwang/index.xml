@@ -5,12 +5,20 @@
     <link>https://ku-csarch.github.io/authors/yewon-hwang/</link>
       <atom:link href="https://ku-csarch.github.io/authors/yewon-hwang/index.xml" rel="self" type="application/rss+xml" />
     <description>Yewon Hwang</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 27 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 28 Jun 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ku-csarch.github.io/authors/yewon-hwang/avatar_huac5c29a2f502a8f294b961698110832b_238912_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Yewon Hwang</title>
       <link>https://ku-csarch.github.io/authors/yewon-hwang/</link>
     </image>
+    
+    <item>
+      <title>Cache Side-Channel Attacks Exploiting RoCC Interface on RISC-V SoC Platform</title>
+      <link>https://ku-csarch.github.io/publication/sec_rocc_kcc24/</link>
+      <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/sec_rocc_kcc24/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Two papers awarded the Outstanding Paper Award from KCC 2024</title>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Garbage Collection | Computer System Architecture Lab</title>
+    <link>https://ku-csarch.github.io/tag/garbage-collection/</link>
+      <atom:link href="https://ku-csarch.github.io/tag/garbage-collection/index.xml" rel="self" type="application/rss+xml" />
+    <description>Garbage Collection</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 20 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ku-csarch.github.io/media/icon_hufc4ea502f7977d2b250399d95297f953_357528_512x512_fill_lanczos_center_3.png</url>
+      <title>Garbage Collection</title>
+      <link>https://ku-csarch.github.io/tag/garbage-collection/</link>
+    </image>
+    
+    <item>
+      <title>Coldmap: Extending SSD Lifetime Exploiting Multi-Page Mapping Information</title>
+      <link>https://ku-csarch.github.io/publication/ssd_gc_nvmsa24/</link>
+      <pubDate>Tue, 20 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/ssd_gc_nvmsa24/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

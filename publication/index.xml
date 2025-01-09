@@ -5,12 +5,44 @@
     <link>https://ku-csarch.github.io/publication/</link>
       <atom:link href="https://ku-csarch.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 25 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 20 Aug 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ku-csarch.github.io/media/icon_hufc4ea502f7977d2b250399d95297f953_357528_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://ku-csarch.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Coldmap: Extending SSD Lifetime Exploiting Multi-Page Mapping Information</title>
+      <link>https://ku-csarch.github.io/publication/ssd_gc_nvmsa24/</link>
+      <pubDate>Tue, 20 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/ssd_gc_nvmsa24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VitBit: Enhancing Embedded GPU Performance for AI Workloads through Register Operand Packing</title>
+      <link>https://ku-csarch.github.io/publication/gpu_numeric_icpp24/</link>
+      <pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/gpu_numeric_icpp24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cache Side-Channel Attacks Exploiting RoCC Interface on RISC-V SoC Platform</title>
+      <link>https://ku-csarch.github.io/publication/sec_rocc_kcc24/</link>
+      <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/sec_rocc_kcc24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Performance Analysis of GEMV Kernels by GPU and PIM Memory Address Mapping Approaches</title>
+      <link>https://ku-csarch.github.io/publication/pim_addr_kcc24/</link>
+      <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/pim_addr_kcc24/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>SAVector: Vectored Systolic Arrays</title>

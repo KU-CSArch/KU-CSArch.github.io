@@ -40,6 +40,38 @@
     </item>
     
     <item>
+      <title>Coldmap: Extending SSD Lifetime Exploiting Multi-Page Mapping Information</title>
+      <link>https://ku-csarch.github.io/publication/ssd_gc_nvmsa24/</link>
+      <pubDate>Tue, 20 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/ssd_gc_nvmsa24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VitBit: Enhancing Embedded GPU Performance for AI Workloads through Register Operand Packing</title>
+      <link>https://ku-csarch.github.io/publication/gpu_numeric_icpp24/</link>
+      <pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/gpu_numeric_icpp24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cache Side-Channel Attacks Exploiting RoCC Interface on RISC-V SoC Platform</title>
+      <link>https://ku-csarch.github.io/publication/sec_rocc_kcc24/</link>
+      <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/sec_rocc_kcc24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Performance Analysis of GEMV Kernels by GPU and PIM Memory Address Mapping Approaches</title>
+      <link>https://ku-csarch.github.io/publication/pim_addr_kcc24/</link>
+      <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/pim_addr_kcc24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Two papers awarded the Outstanding Paper Award from KCC 2024</title>
       <link>https://ku-csarch.github.io/post/award-kcc24/</link>
       <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>

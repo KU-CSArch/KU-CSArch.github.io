@@ -69,7 +69,7 @@
     </item>
     
     <item>
-      <title>Yujin selected as a visiting graduate student at UCI</title>
+      <title>Yujin selected as a visiting graduate student at UC Irvine</title>
       <link>https://ku-csarch.github.io/post/visiting-uci24/</link>
       <pubDate>Fri, 30 Aug 2024 00:00:00 +0000</pubDate>
       <guid>https://ku-csarch.github.io/post/visiting-uci24/</guid>
@@ -84,6 +84,38 @@
       <guid>https://ku-csarch.github.io/post/present-nvmsa24/</guid>
       <description>&lt;p&gt;Jaewon presented his research work regarding an efficient garbage collection scheme for remap-based SSDs at the 13th IEEE Non-Volatile Memory Systems and Applications (&lt;a href=&#34;https://nvmsa2024.github.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NVMSA 2024&lt;/a&gt;). Good job, Jaewon!&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Coldmap: Extending SSD Lifetime Exploiting Multi-Page Mapping Information</title>
+      <link>https://ku-csarch.github.io/publication/ssd_gc_nvmsa24/</link>
+      <pubDate>Tue, 20 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/ssd_gc_nvmsa24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VitBit: Enhancing Embedded GPU Performance for AI Workloads through Register Operand Packing</title>
+      <link>https://ku-csarch.github.io/publication/gpu_numeric_icpp24/</link>
+      <pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/gpu_numeric_icpp24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cache Side-Channel Attacks Exploiting RoCC Interface on RISC-V SoC Platform</title>
+      <link>https://ku-csarch.github.io/publication/sec_rocc_kcc24/</link>
+      <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/sec_rocc_kcc24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Performance Analysis of GEMV Kernels by GPU and PIM Memory Address Mapping Approaches</title>
+      <link>https://ku-csarch.github.io/publication/pim_addr_kcc24/</link>
+      <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/pim_addr_kcc24/</guid>
+      <description></description>
     </item>
     
     <item>

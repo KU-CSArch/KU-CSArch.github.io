@@ -5,12 +5,20 @@
     <link>https://ku-csarch.github.io/authors/jiwon-shin/</link>
       <atom:link href="https://ku-csarch.github.io/authors/jiwon-shin/index.xml" rel="self" type="application/rss+xml" />
     <description>Jiwon Shin</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 27 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 28 Jun 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ku-csarch.github.io/authors/jiwon-shin/avatar_hu54c997fb31c5c349fcc2e3354417d644_48662_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Jiwon Shin</title>
       <link>https://ku-csarch.github.io/authors/jiwon-shin/</link>
     </image>
+    
+    <item>
+      <title>Performance Analysis of GEMV Kernels by GPU and PIM Memory Address Mapping Approaches</title>
+      <link>https://ku-csarch.github.io/publication/pim_addr_kcc24/</link>
+      <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/pim_addr_kcc24/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Two papers awarded the Outstanding Paper Award from KCC 2024</title>

@@ -5,12 +5,20 @@
     <link>https://ku-csarch.github.io/tag/side-channel/</link>
       <atom:link href="https://ku-csarch.github.io/tag/side-channel/index.xml" rel="self" type="application/rss+xml" />
     <description>Side-Channel</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 20 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 28 Jun 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ku-csarch.github.io/media/icon_hufc4ea502f7977d2b250399d95297f953_357528_512x512_fill_lanczos_center_3.png</url>
       <title>Side-Channel</title>
       <link>https://ku-csarch.github.io/tag/side-channel/</link>
     </image>
+    
+    <item>
+      <title>Cache Side-Channel Attacks Exploiting RoCC Interface on RISC-V SoC Platform</title>
+      <link>https://ku-csarch.github.io/publication/sec_rocc_kcc24/</link>
+      <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/sec_rocc_kcc24/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Analyzing Characteristics of Memory Timing Side-Channels in GPU</title>

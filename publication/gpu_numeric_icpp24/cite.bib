@@ -1,0 +1,17 @@
+@inproceedings{10.1145/3673038.3673045,
+author = {Jeon, Jaebeom and Gil, Minseong and Kim, Junsu and Park, Jaeyong and Koo, Gunjae and Yoon, Myung Kuk and Oh, Yunho},
+title = {VitBit: Enhancing Embedded GPU Performance for AI Workloads through Register Operand Packing},
+year = {2024},
+isbn = {9798400717932},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3673038.3673045},
+doi = {10.1145/3673038.3673045},
+abstract = {The rapid advancement of Artificial Intelligence (AI) necessitates significant enhancements in the energy efficiency of Graphics Processing Units (GPUs) for Deep Neural Network (DNN) workloads. Such a challenge is particularly critical for embedded GPUs, which operate within stringent power constraints. Traditional GPU architectures, designed to support a limited set of numeric formats, face challenges in meeting the diverse requirements of modern AI applications. These applications demand support for various numeric formats to optimize computational speed and efficiency. This paper proposes VitBit, a novel software technique designed to overcome these limitations by enabling efficient processing of arbitrary integer format values, especially those 8 bits or fewer, which are increasingly prevalent in AI workloads. VitBit introduces two key innovations: the packing of arbitrary integer formats for parallel computation and the simultaneous execution of Tensor cores, INT and FP (Integer and Floating-Point) CUDA cores. This approach leverages the architectural features of modern GPUs, such as those based on NVIDIA Ampere architecture, which allows concurrent operation of FP32 and INT32 cores at full throughput. Our evaluation of VitBit on NVIDIA Jetson AGX Orin demonstrates substantial improvements in arithmetic density and peak throughput, achieving up to a 22\% reduction in execution time for benchmark AI workloads without compromising inference accuracy. VitBit effectively bridges the gap between current hardware capabilities and the computational demands of AI, offering a scalable and cost-effective method for enhancing GPU performance in AI applications.},
+booktitle = {Proceedings of the 53rd International Conference on Parallel Processing},
+pages = {1012–1021},
+numpages = {10},
+keywords = {Deep Neural Network, GPU},
+location = {Gotland, Sweden},
+series = {ICPP '24}
+}
