@@ -5,12 +5,30 @@
     <link>https://ku-csarch.github.io/authors/jihun-lee/</link>
       <atom:link href="https://ku-csarch.github.io/authors/jihun-lee/index.xml" rel="self" type="application/rss+xml" />
     <description>Jihun Lee</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 19 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ku-csarch.github.io/authors/jihun-lee/avatar_hu708c71e884d701a6fbf85aa5685aa8a9_161677_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Jihun Lee</title>
       <link>https://ku-csarch.github.io/authors/jihun-lee/</link>
     </image>
+    
+    <item>
+      <title>Jihun presented at DATE 2025</title>
+      <link>https://ku-csarch.github.io/post/present-date25/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/present-date25/</guid>
+      <description>&lt;p&gt;Jihun presented his research work regarding a hybrid GNN accelerator architecture at the Design, Automation and Test in Europe Conference 2025 (&lt;a href=&#34;https://www.date-conference.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DATE 2025&lt;/a&gt;). DATE is one of top-tier conferences on design automation, hardware design and architecture. Good job, Jihun!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CSArch Lab members attended CSC 2025</title>
+      <link>https://ku-csarch.github.io/post/attend-csc25/</link>
+      <pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/attend-csc25/</guid>
+      <description>&lt;p&gt;CSArch Lab members attended KIISE Computer System Society Conference 2025 (&lt;a href=&#34;http://css.or.kr/csc2025/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CSC 2025&lt;/a&gt;) held in Pyeongchang, Gangwon-do. Our lab members had a great time as the great researchers on computer system research fields presented keynotes and their research work during the conference. Prof. Gunjae Koo served as a program chair for CSC 2025.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>One paper accepted to DATE 2025</title>

@@ -5,12 +5,21 @@
     <link>https://ku-csarch.github.io/authors/seongpil-yang/</link>
       <atom:link href="https://ku-csarch.github.io/authors/seongpil-yang/index.xml" rel="self" type="application/rss+xml" />
     <description>Seongpil Yang</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 10 Feb 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ku-csarch.github.io/authors/seongpil-yang/avatar_huc7e071441f5b03fb49ecd87728e5ce8a_213235_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Seongpil Yang</title>
       <link>https://ku-csarch.github.io/authors/seongpil-yang/</link>
     </image>
+    
+    <item>
+      <title>CSArch Lab members attended CSC 2025</title>
+      <link>https://ku-csarch.github.io/post/attend-csc25/</link>
+      <pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/attend-csc25/</guid>
+      <description>&lt;p&gt;CSArch Lab members attended KIISE Computer System Society Conference 2025 (&lt;a href=&#34;http://css.or.kr/csc2025/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CSC 2025&lt;/a&gt;) held in Pyeongchang, Gangwon-do. Our lab members had a great time as the great researchers on computer system research fields presented keynotes and their research work during the conference. Prof. Gunjae Koo served as a program chair for CSC 2025.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Chanhun, Jihun, Sanghyeon, and Seongpil have joined CSArch Lab</title>

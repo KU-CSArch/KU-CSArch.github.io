@@ -5,12 +5,21 @@
     <link>https://ku-csarch.github.io/tag/journal/</link>
       <atom:link href="https://ku-csarch.github.io/tag/journal/index.xml" rel="self" type="application/rss+xml" />
     <description>Journal</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 21 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 15 Dec 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ku-csarch.github.io/media/icon_hufc4ea502f7977d2b250399d95297f953_357528_512x512_fill_lanczos_center_3.png</url>
       <title>Journal</title>
       <link>https://ku-csarch.github.io/tag/journal/</link>
     </image>
+    
+    <item>
+      <title>One paper accepted to Journal of System Architecture (Journal, SCIE)</title>
+      <link>https://ku-csarch.github.io/post/accepted-jsa24_1/</link>
+      <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/accepted-jsa24_1/</guid>
+      <description>&lt;p&gt;One paper was accepted to &lt;em&gt;Journal of System Architecture&lt;/em&gt;. Our paper presents an efficient prefetching approach for Transformer workload on GPU&amp;rsquo;s unified virtual memory (UVM). Our analysis results reveal the default tree-based neighborhood prefetcher in UVM cannot handle the data locality over one virtual address block (VABlock). By extending the range of prefetching to multiple VABlocks, our proposed approach can improve the performance of Transformer workload when GPU memory is oversubscribed.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>One paper accepted to IEEE Embedded Systems Letters (Journal, SCIE)</title>

@@ -5,12 +5,84 @@
     <link>https://ku-csarch.github.io/post/</link>
       <atom:link href="https://ku-csarch.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>News</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 19 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 12 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ku-csarch.github.io/media/icon_hufc4ea502f7977d2b250399d95297f953_357528_512x512_fill_lanczos_center_3.png</url>
       <title>News</title>
       <link>https://ku-csarch.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>One paper accepted to ICS 2025</title>
+      <link>https://ku-csarch.github.io/post/accepted-ics25/</link>
+      <pubDate>Sat, 12 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/accepted-ics25/</guid>
+      <description>&lt;p&gt;One papers was accepted to the &lt;em&gt;ACM International Conference on Supercomputing (ICS) 2025&lt;/em&gt;. Our paper proposes &lt;em&gt;SparsePIM&lt;/em&gt;, an efficient HBM-based PIM architecture for SpMV kernels. &lt;em&gt;SparsePIM&lt;/em&gt; includes an efficient hardware architecture for SpMV computations and a sparse data allocation scheme in DRAM row. &lt;em&gt;SparsePIM&lt;/em&gt; also employ software-base optimizations to balance computation burdens acress multiple bank groups. By combiging hardware and software approaches, &lt;em&gt;SparsePIM&lt;/em&gt; can improve SpMV computations dramatically on HBM-based PIM architecture.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Jihun presented at DATE 2025</title>
+      <link>https://ku-csarch.github.io/post/present-date25/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/present-date25/</guid>
+      <description>&lt;p&gt;Jihun presented his research work regarding a hybrid GNN accelerator architecture at the Design, Automation and Test in Europe Conference 2025 (&lt;a href=&#34;https://www.date-conference.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DATE 2025&lt;/a&gt;). DATE is one of top-tier conferences on design automation, hardware design and architecture. Good job, Jihun!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Prof. Gunjae Koo will be serving on the program committee for MICRO 2025</title>
+      <link>https://ku-csarch.github.io/post/committee-micro25/</link>
+      <pubDate>Wed, 19 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/committee-micro25/</guid>
+      <description>&lt;p&gt;Prof. Gunjae Koo will be serving as a regular member on the program committee for the 58th IEEE/ACM International Symposium on Microarchitecture (&lt;a href=&#34;https://microarch.org/micro58/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MICRO 2025&lt;/a&gt;. MICRO 2025 will be held in Seoul, South Korea. Please submit your best work!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>One paper accepted to ISPASS 2025</title>
+      <link>https://ku-csarch.github.io/post/accepted-ispass25/</link>
+      <pubDate>Tue, 04 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/accepted-ispass25/</guid>
+      <description>&lt;p&gt;One papers was accepted to the &lt;em&gt;2025 IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS)&lt;/em&gt;. Our paper proposes hierarchical traversal stack design approach using shared memory for GPU ray tracing.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Namhun has joined CSArch Lab</title>
+      <link>https://ku-csarch.github.io/post/join-lab25sp/</link>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/join-lab25sp/</guid>
+      <description>&lt;p&gt;Namhun has joined CSArch Lab since the Spring semester 2025. We hope he will enjoy adventures in computer architecture research. Welcome!!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CSArch Lab members attended CSC 2025</title>
+      <link>https://ku-csarch.github.io/post/attend-csc25/</link>
+      <pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/attend-csc25/</guid>
+      <description>&lt;p&gt;CSArch Lab members attended KIISE Computer System Society Conference 2025 (&lt;a href=&#34;http://css.or.kr/csc2025/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CSC 2025&lt;/a&gt;) held in Pyeongchang, Gangwon-do. Our lab members had a great time as the great researchers on computer system research fields presented keynotes and their research work during the conference. Prof. Gunjae Koo served as a program chair for CSC 2025.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>One paper accepted to Journal of System Architecture (Journal, SCIE)</title>
+      <link>https://ku-csarch.github.io/post/accepted-jsa24_1/</link>
+      <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/accepted-jsa24_1/</guid>
+      <description>&lt;p&gt;One paper was accepted to &lt;em&gt;Journal of System Architecture&lt;/em&gt;. Our paper presents an efficient prefetching approach for Transformer workload on GPU&amp;rsquo;s unified virtual memory (UVM). Our analysis results reveal the default tree-based neighborhood prefetcher in UVM cannot handle the data locality over one virtual address block (VABlock). By extending the range of prefetching to multiple VABlocks, our proposed approach can improve the performance of Transformer workload when GPU memory is oversubscribed.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Jiwon, Geonwoo and Dowon defended</title>
+      <link>https://ku-csarch.github.io/post/defense-masters24_1/</link>
+      <pubDate>Tue, 03 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/defense-masters24_1/</guid>
+      <description>&lt;p&gt;Jiwon, Geonwoo and Dowon successfully defended their Master&amp;rsquo;s theses. Congratulations!!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Jonghyun selected as a visiting graduate student at UC Merced</title>

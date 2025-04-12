@@ -5,12 +5,48 @@
     <link>https://ku-csarch.github.io/tag/conference/</link>
       <atom:link href="https://ku-csarch.github.io/tag/conference/index.xml" rel="self" type="application/rss+xml" />
     <description>Conference</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 19 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 12 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ku-csarch.github.io/media/icon_hufc4ea502f7977d2b250399d95297f953_357528_512x512_fill_lanczos_center_3.png</url>
       <title>Conference</title>
       <link>https://ku-csarch.github.io/tag/conference/</link>
     </image>
+    
+    <item>
+      <title>One paper accepted to ICS 2025</title>
+      <link>https://ku-csarch.github.io/post/accepted-ics25/</link>
+      <pubDate>Sat, 12 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/accepted-ics25/</guid>
+      <description>&lt;p&gt;One papers was accepted to the &lt;em&gt;ACM International Conference on Supercomputing (ICS) 2025&lt;/em&gt;. Our paper proposes &lt;em&gt;SparsePIM&lt;/em&gt;, an efficient HBM-based PIM architecture for SpMV kernels. &lt;em&gt;SparsePIM&lt;/em&gt; includes an efficient hardware architecture for SpMV computations and a sparse data allocation scheme in DRAM row. &lt;em&gt;SparsePIM&lt;/em&gt; also employ software-base optimizations to balance computation burdens acress multiple bank groups. By combiging hardware and software approaches, &lt;em&gt;SparsePIM&lt;/em&gt; can improve SpMV computations dramatically on HBM-based PIM architecture.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Jihun presented at DATE 2025</title>
+      <link>https://ku-csarch.github.io/post/present-date25/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/present-date25/</guid>
+      <description>&lt;p&gt;Jihun presented his research work regarding a hybrid GNN accelerator architecture at the Design, Automation and Test in Europe Conference 2025 (&lt;a href=&#34;https://www.date-conference.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DATE 2025&lt;/a&gt;). DATE is one of top-tier conferences on design automation, hardware design and architecture. Good job, Jihun!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Prof. Gunjae Koo will be serving on the program committee for MICRO 2025</title>
+      <link>https://ku-csarch.github.io/post/committee-micro25/</link>
+      <pubDate>Wed, 19 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/committee-micro25/</guid>
+      <description>&lt;p&gt;Prof. Gunjae Koo will be serving as a regular member on the program committee for the 58th IEEE/ACM International Symposium on Microarchitecture (&lt;a href=&#34;https://microarch.org/micro58/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MICRO 2025&lt;/a&gt;. MICRO 2025 will be held in Seoul, South Korea. Please submit your best work!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>One paper accepted to ISPASS 2025</title>
+      <link>https://ku-csarch.github.io/post/accepted-ispass25/</link>
+      <pubDate>Tue, 04 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/accepted-ispass25/</guid>
+      <description>&lt;p&gt;One papers was accepted to the &lt;em&gt;2025 IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS)&lt;/em&gt;. Our paper proposes hierarchical traversal stack design approach using shared memory for GPU ray tracing.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>One paper accepted to DATE 2025</title>

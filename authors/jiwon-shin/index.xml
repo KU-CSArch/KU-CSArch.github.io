@@ -5,12 +5,30 @@
     <link>https://ku-csarch.github.io/authors/jiwon-shin/</link>
       <atom:link href="https://ku-csarch.github.io/authors/jiwon-shin/index.xml" rel="self" type="application/rss+xml" />
     <description>Jiwon Shin</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 28 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 10 Feb 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ku-csarch.github.io/authors/jiwon-shin/avatar_hu54c997fb31c5c349fcc2e3354417d644_48662_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Jiwon Shin</title>
       <link>https://ku-csarch.github.io/authors/jiwon-shin/</link>
     </image>
+    
+    <item>
+      <title>CSArch Lab members attended CSC 2025</title>
+      <link>https://ku-csarch.github.io/post/attend-csc25/</link>
+      <pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/attend-csc25/</guid>
+      <description>&lt;p&gt;CSArch Lab members attended KIISE Computer System Society Conference 2025 (&lt;a href=&#34;http://css.or.kr/csc2025/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CSC 2025&lt;/a&gt;) held in Pyeongchang, Gangwon-do. Our lab members had a great time as the great researchers on computer system research fields presented keynotes and their research work during the conference. Prof. Gunjae Koo served as a program chair for CSC 2025.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Jiwon, Geonwoo and Dowon defended</title>
+      <link>https://ku-csarch.github.io/post/defense-masters24_1/</link>
+      <pubDate>Tue, 03 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/defense-masters24_1/</guid>
+      <description>&lt;p&gt;Jiwon, Geonwoo and Dowon successfully defended their Master&amp;rsquo;s theses. Congratulations!!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Performance Analysis of GEMV Kernels by GPU and PIM Memory Address Mapping Approaches</title>

@@ -5,12 +5,39 @@
     <link>https://ku-csarch.github.io/tag/accepted/</link>
       <atom:link href="https://ku-csarch.github.io/tag/accepted/index.xml" rel="self" type="application/rss+xml" />
     <description>Accepted</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 19 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 12 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ku-csarch.github.io/media/icon_hufc4ea502f7977d2b250399d95297f953_357528_512x512_fill_lanczos_center_3.png</url>
       <title>Accepted</title>
       <link>https://ku-csarch.github.io/tag/accepted/</link>
     </image>
+    
+    <item>
+      <title>One paper accepted to ICS 2025</title>
+      <link>https://ku-csarch.github.io/post/accepted-ics25/</link>
+      <pubDate>Sat, 12 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/accepted-ics25/</guid>
+      <description>&lt;p&gt;One papers was accepted to the &lt;em&gt;ACM International Conference on Supercomputing (ICS) 2025&lt;/em&gt;. Our paper proposes &lt;em&gt;SparsePIM&lt;/em&gt;, an efficient HBM-based PIM architecture for SpMV kernels. &lt;em&gt;SparsePIM&lt;/em&gt; includes an efficient hardware architecture for SpMV computations and a sparse data allocation scheme in DRAM row. &lt;em&gt;SparsePIM&lt;/em&gt; also employ software-base optimizations to balance computation burdens acress multiple bank groups. By combiging hardware and software approaches, &lt;em&gt;SparsePIM&lt;/em&gt; can improve SpMV computations dramatically on HBM-based PIM architecture.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>One paper accepted to ISPASS 2025</title>
+      <link>https://ku-csarch.github.io/post/accepted-ispass25/</link>
+      <pubDate>Tue, 04 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/accepted-ispass25/</guid>
+      <description>&lt;p&gt;One papers was accepted to the &lt;em&gt;2025 IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS)&lt;/em&gt;. Our paper proposes hierarchical traversal stack design approach using shared memory for GPU ray tracing.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>One paper accepted to Journal of System Architecture (Journal, SCIE)</title>
+      <link>https://ku-csarch.github.io/post/accepted-jsa24_1/</link>
+      <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/accepted-jsa24_1/</guid>
+      <description>&lt;p&gt;One paper was accepted to &lt;em&gt;Journal of System Architecture&lt;/em&gt;. Our paper presents an efficient prefetching approach for Transformer workload on GPU&amp;rsquo;s unified virtual memory (UVM). Our analysis results reveal the default tree-based neighborhood prefetcher in UVM cannot handle the data locality over one virtual address block (VABlock). By extending the range of prefetching to multiple VABlocks, our proposed approach can improve the performance of Transformer workload when GPU memory is oversubscribed.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>One paper accepted to DATE 2025</title>

@@ -5,12 +5,21 @@
     <link>https://ku-csarch.github.io/tag/committee/</link>
       <atom:link href="https://ku-csarch.github.io/tag/committee/index.xml" rel="self" type="application/rss+xml" />
     <description>Committee</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 12 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 19 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ku-csarch.github.io/media/icon_hufc4ea502f7977d2b250399d95297f953_357528_512x512_fill_lanczos_center_3.png</url>
       <title>Committee</title>
       <link>https://ku-csarch.github.io/tag/committee/</link>
     </image>
+    
+    <item>
+      <title>Prof. Gunjae Koo will be serving on the program committee for MICRO 2025</title>
+      <link>https://ku-csarch.github.io/post/committee-micro25/</link>
+      <pubDate>Wed, 19 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/committee-micro25/</guid>
+      <description>&lt;p&gt;Prof. Gunjae Koo will be serving as a regular member on the program committee for the 58th IEEE/ACM International Symposium on Microarchitecture (&lt;a href=&#34;https://microarch.org/micro58/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MICRO 2025&lt;/a&gt;. MICRO 2025 will be held in Seoul, South Korea. Please submit your best work!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Prof. Gunjae Koo will be serving on the program committee for GLSVLSI 2024</title>

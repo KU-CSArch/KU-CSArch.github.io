@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Namhun Kim | Computer System Architecture Lab</title>
+    <link>https://ku-csarch.github.io/authors/namhun-kim/</link>
+      <atom:link href="https://ku-csarch.github.io/authors/namhun-kim/index.xml" rel="self" type="application/rss+xml" />
+    <description>Namhun Kim</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ku-csarch.github.io/authors/namhun-kim/avatar_hudf270927ffcc3478a03f6a0cc4081e3f_58755_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Namhun Kim</title>
+      <link>https://ku-csarch.github.io/authors/namhun-kim/</link>
+    </image>
+    
+    <item>
+      <title>Namhun has joined CSArch Lab</title>
+      <link>https://ku-csarch.github.io/post/join-lab25sp/</link>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/join-lab25sp/</guid>
+      <description>&lt;p&gt;Namhun has joined CSArch Lab since the Spring semester 2025. We hope he will enjoy adventures in computer architecture research. Welcome!!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
