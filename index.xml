@@ -33,6 +33,24 @@
     </item>
     
     <item>
+      <title>Taewoon presented at ICS 2025</title>
+      <link>https://ku-csarch.github.io/post/present-ics25/</link>
+      <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/present-ics25/</guid>
+      <description>&lt;p&gt;Taewoon presented his research work regarding an HBM-based PIM architecture and software optimizations for SpMV kernels at the International Conference on Supercomputing 2025 (&lt;a href=&#34;https://hpcrl.github.io/ICS2025-webpage/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ICS 2025&lt;/a&gt;). ICS is one of premier conferences on high-performance computing systems. Good job, Taewoon!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>One paper accepted to LCTES 2025</title>
+      <link>https://ku-csarch.github.io/post/accepted-lctes25/</link>
+      <pubDate>Tue, 22 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/accepted-lctes25/</guid>
+      <description>&lt;p&gt;One papers was accepted to the &lt;em&gt;the ACM SIGPLAN/SIGBED International Conference on Languages, Compilers, and Tools for Embedded Systems (LCTES) 2025&lt;/em&gt;. Our paper proposes &lt;em&gt;SSFFT&lt;/em&gt;, an efficient and optimized fast Fourier transform (FFT) kernel design approach for embedded GPUs.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>One paper accepted to ICS 2025</title>
       <link>https://ku-csarch.github.io/post/accepted-ics25/</link>
       <pubDate>Sat, 12 Apr 2025 00:00:00 +0000</pubDate>
@@ -55,7 +73,7 @@
       <link>https://ku-csarch.github.io/post/committee-micro25/</link>
       <pubDate>Wed, 19 Mar 2025 00:00:00 +0000</pubDate>
       <guid>https://ku-csarch.github.io/post/committee-micro25/</guid>
-      <description>&lt;p&gt;Prof. Gunjae Koo will be serving as a regular member on the program committee for the 58th IEEE/ACM International Symposium on Microarchitecture (&lt;a href=&#34;https://microarch.org/micro58/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MICRO 2025&lt;/a&gt;. MICRO 2025 will be held in Seoul, South Korea. Please submit your best work!&lt;/p&gt;
+      <description>&lt;p&gt;Prof. Gunjae Koo will be serving as a regular member on the program committee for the 58th IEEE/ACM International Symposium on Microarchitecture (&lt;a href=&#34;https://microarch.org/micro58/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MICRO 2025&lt;/a&gt;). MICRO 2025 will be held in Seoul, South Korea. Please submit your best work!&lt;/p&gt;
 </description>
     </item>
     
