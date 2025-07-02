@@ -5,12 +5,21 @@
     <link>https://ku-csarch.github.io/category/funding/</link>
       <atom:link href="https://ku-csarch.github.io/category/funding/index.xml" rel="self" type="application/rss+xml" />
     <description>Funding</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 08 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ku-csarch.github.io/media/icon_hufc4ea502f7977d2b250399d95297f953_357528_512x512_fill_lanczos_center_3.png</url>
       <title>Funding</title>
       <link>https://ku-csarch.github.io/category/funding/</link>
     </image>
+    
+    <item>
+      <title>Selected as a recipient for the project support from IITP</title>
+      <link>https://ku-csarch.github.io/post/grant-iitp25/</link>
+      <pubDate>Tue, 08 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/grant-iitp25/</guid>
+      <description>&lt;p&gt;Computer System Architecture (CSArch) Lab received funding from Institute for Information &amp;amp; Communication Technology Planning &amp;amp; Evaluation (IITP) to support the research on development of chiplet-based hub SoC for on-device AI. Prof. Gunjae Koo will be working as a Co-PI of the research project. Thanks IITP!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Received the Korea University Insung Research Grant</title>
