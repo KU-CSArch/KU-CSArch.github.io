@@ -5,12 +5,21 @@
     <link>https://ku-csarch.github.io/category/service/</link>
       <atom:link href="https://ku-csarch.github.io/category/service/index.xml" rel="self" type="application/rss+xml" />
     <description>Service</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 19 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 07 Jul 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ku-csarch.github.io/media/icon_hufc4ea502f7977d2b250399d95297f953_357528_512x512_fill_lanczos_center_3.png</url>
       <title>Service</title>
       <link>https://ku-csarch.github.io/category/service/</link>
     </image>
+    
+    <item>
+      <title>Prof. Gunjae Koo will be serving on the program committee for HPCA 2026</title>
+      <link>https://ku-csarch.github.io/post/committee-hpca26/</link>
+      <pubDate>Mon, 07 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/committee-hpca26/</guid>
+      <description>&lt;p&gt;Prof. Gunjae Koo will be serving as a regular member on the program committee for the 32nd IEEE International Symposium on High-Performance Computer Architecture (&lt;a href=&#34;https://hpca-conf.org/2026/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HPCA 2026&lt;/a&gt;). HPCA 2026 will be held in Sydney, NSW, Australia. Please submit your best work!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Prof. Gunjae Koo will be serving on the program committee for MICRO 2025</title>
