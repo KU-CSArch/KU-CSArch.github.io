@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>SPMV | Computer System Architecture Lab</title>
+    <title>SpMV | Computer System Architecture Lab</title>
     <link>https://ku-csarch.github.io/tag/spmv/</link>
       <atom:link href="https://ku-csarch.github.io/tag/spmv/index.xml" rel="self" type="application/rss+xml" />
-    <description>SPMV</description>
+    <description>SpMV</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 10 Jun 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ku-csarch.github.io/media/icon_hufc4ea502f7977d2b250399d95297f953_357528_512x512_fill_lanczos_center_3.png</url>
-      <title>SPMV</title>
+      <title>SpMV</title>
       <link>https://ku-csarch.github.io/tag/spmv/</link>
     </image>
     

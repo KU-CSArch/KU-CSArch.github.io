@@ -5,12 +5,20 @@
     <link>https://ku-csarch.github.io/tag/gcn/</link>
       <atom:link href="https://ku-csarch.github.io/tag/gcn/index.xml" rel="self" type="application/rss+xml" />
     <description>GCN</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 21 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ku-csarch.github.io/media/icon_hufc4ea502f7977d2b250399d95297f953_357528_512x512_fill_lanczos_center_3.png</url>
       <title>GCN</title>
       <link>https://ku-csarch.github.io/tag/gcn/</link>
     </image>
+    
+    <item>
+      <title>HyMM: A Hybrid Sparse-Dense Matrix Multiplication Accelerator for GCNs</title>
+      <link>https://ku-csarch.github.io/publication/gcn_accel_date25/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/gcn_accel_date25/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Analyzing GCN Aggregation on GPU</title>

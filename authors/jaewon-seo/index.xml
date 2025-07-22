@@ -5,12 +5,20 @@
     <link>https://ku-csarch.github.io/authors/jaewon-seo/</link>
       <atom:link href="https://ku-csarch.github.io/authors/jaewon-seo/index.xml" rel="self" type="application/rss+xml" />
     <description>Jaewon Seo</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 19 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ku-csarch.github.io/authors/jaewon-seo/avatar_hu37fc6bcc0548e8b74195d6d995a772ff_116782_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Jaewon Seo</title>
       <link>https://ku-csarch.github.io/authors/jaewon-seo/</link>
     </image>
+    
+    <item>
+      <title>HyMM: A Hybrid Sparse-Dense Matrix Multiplication Accelerator for GCNs</title>
+      <link>https://ku-csarch.github.io/publication/gcn_accel_date25/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/gcn_accel_date25/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>One paper accepted to DATE 2025</title>
