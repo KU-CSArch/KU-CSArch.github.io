@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ICCD | Computer System Architecture Lab</title>
+    <link>https://ku-csarch.github.io/tag/iccd/</link>
+      <atom:link href="https://ku-csarch.github.io/tag/iccd/index.xml" rel="self" type="application/rss+xml" />
+    <description>ICCD</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ku-csarch.github.io/media/icon_hufc4ea502f7977d2b250399d95297f953_357528_512x512_fill_lanczos_center_3.png</url>
+      <title>ICCD</title>
+      <link>https://ku-csarch.github.io/tag/iccd/</link>
+    </image>
+    
+    <item>
+      <title>One paper accepted to ICCD 2025</title>
+      <link>https://ku-csarch.github.io/post/accept-iccd25/</link>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/accept-iccd25/</guid>
+      <description>&lt;p&gt;One papers was accepted to the &lt;em&gt;International Conference on Computer Design (ICCD) 2025&lt;/em&gt;. Our paper proposes &lt;em&gt;FINEA&lt;/em&gt;, an efficient neural network architecture exploiting factorized input features. &lt;em&gt;FINEA&lt;/em&gt; leverages factorized dot-product operations by exploiting weight redundancy in quantized neural network models. &lt;em&gt;FINEA&lt;/em&gt; employs a processing engine that can excutes both factorized and unfactorized dot-product operations. In order to implement efficient factorized and unfactorized dot-product computations, &lt;em&gt;FINEA&lt;/em&gt; utilizes filter indexes derived from preprocessed weight tables.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
