@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Narae Kim | Computer System Architecture Lab</title>
+    <link>https://ku-csarch.github.io/authors/narae-kim/</link>
+      <atom:link href="https://ku-csarch.github.io/authors/narae-kim/index.xml" rel="self" type="application/rss+xml" />
+    <description>Narae Kim</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://ku-csarch.github.io/authors/narae-kim/avatar_hufb0a8da4e1736c955222c13c1745d1c2_597640_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Narae Kim</title>
+      <link>https://ku-csarch.github.io/authors/narae-kim/</link>
+    </image>
+    
+  </channel>
+</rss>

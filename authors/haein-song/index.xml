@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Haein Song | Computer System Architecture Lab</title>
+    <link>https://ku-csarch.github.io/authors/haein-song/</link>
+      <atom:link href="https://ku-csarch.github.io/authors/haein-song/index.xml" rel="self" type="application/rss+xml" />
+    <description>Haein Song</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://ku-csarch.github.io/authors/haein-song/avatar_hu36bf3dc2390fcef722372e8fea29380c_32388_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Haein Song</title>
+      <link>https://ku-csarch.github.io/authors/haein-song/</link>
+    </image>
+    
+  </channel>
+</rss>
