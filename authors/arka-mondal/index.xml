@@ -5,12 +5,21 @@
     <link>https://ku-csarch.github.io/authors/arka-mondal/</link>
       <atom:link href="https://ku-csarch.github.io/authors/arka-mondal/index.xml" rel="self" type="application/rss+xml" />
     <description>Arka Mondal</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Sep 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ku-csarch.github.io/authors/arka-mondal/avatar_hufe59c94254cc5ab3b5f736c7642c26e1_131837_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Arka Mondal</title>
       <link>https://ku-csarch.github.io/authors/arka-mondal/</link>
     </image>
+    
+    <item>
+      <title>Narae and Arka have joined CSArch Lab</title>
+      <link>https://ku-csarch.github.io/post/join-lab25fa/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/join-lab25fa/</guid>
+      <description>&lt;p&gt;Narae and Arka have joined CSArch Lab since the Fall semester 2025. We hope they will enjoy adventures in computer architecture research. Welcome!!&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
