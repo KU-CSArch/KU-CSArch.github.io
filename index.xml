@@ -78,6 +78,22 @@
     </item>
     
     <item>
+      <title>MOST: Memory Oversubscription-Aware Scheduling for Tensor Migration on GPU Unified Storage</title>
+      <link>https://ku-csarch.github.io/publication/gpu_uvm_cal25/</link>
+      <pubDate>Tue, 17 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/gpu_uvm_cal25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SSFFT: Energy-Efficient Selective Scaling for Fast Fourier Transform in Embedded GPUs</title>
+      <link>https://ku-csarch.github.io/publication/gpu_fft_lctes25/</link>
+      <pubDate>Mon, 16 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/gpu_fft_lctes25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>SparsePIM: An Efficient HBM-Based PIM Architecture for Sparse Matrix-Vector Multiplications</title>
       <link>https://ku-csarch.github.io/publication/pim_spmv_ics25/</link>
       <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
@@ -101,6 +117,14 @@
       <guid>https://ku-csarch.github.io/post/committee-nvmsa25/</guid>
       <description>&lt;p&gt;Prof. Gunjae Koo will be serving on the program committee for the 14th IEEE Non-Volatile Memory Systems and Applications Symposium (&lt;a href=&#34;https://nvmsa2025.github.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NVMSA 2025&lt;/a&gt;). NVMSA 2025 will be held on August 20&amp;ndash;22 in Singapore. Please submit your best work!&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Hierarchical Traversal Stack Design Using Shared Memory for GPU Ray Tracing</title>
+      <link>https://ku-csarch.github.io/publication/gpu_ray_ispass25/</link>
+      <pubDate>Sun, 11 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/gpu_ray_ispass25/</guid>
+      <description></description>
     </item>
     
     <item>

@@ -5,12 +5,20 @@
     <link>https://ku-csarch.github.io/authors/jaeyong-park/</link>
       <atom:link href="https://ku-csarch.github.io/authors/jaeyong-park/index.xml" rel="self" type="application/rss+xml" />
     <description>Jaeyong Park</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 12 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 17 Jun 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ku-csarch.github.io/media/icon_hufc4ea502f7977d2b250399d95297f953_357528_512x512_fill_lanczos_center_3.png</url>
       <title>Jaeyong Park</title>
       <link>https://ku-csarch.github.io/authors/jaeyong-park/</link>
     </image>
+    
+    <item>
+      <title>MOST: Memory Oversubscription-Aware Scheduling for Tensor Migration on GPU Unified Storage</title>
+      <link>https://ku-csarch.github.io/publication/gpu_uvm_cal25/</link>
+      <pubDate>Tue, 17 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/gpu_uvm_cal25/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>VitBit: Enhancing Embedded GPU Performance for AI Workloads through Register Operand Packing</title>

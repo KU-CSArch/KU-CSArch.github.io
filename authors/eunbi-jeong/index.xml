@@ -5,12 +5,20 @@
     <link>https://ku-csarch.github.io/authors/eunbi-jeong/</link>
       <atom:link href="https://ku-csarch.github.io/authors/eunbi-jeong/index.xml" rel="self" type="application/rss+xml" />
     <description>Eunbi Jeong</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 29 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 11 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ku-csarch.github.io/media/icon_hufc4ea502f7977d2b250399d95297f953_357528_512x512_fill_lanczos_center_3.png</url>
       <title>Eunbi Jeong</title>
       <link>https://ku-csarch.github.io/authors/eunbi-jeong/</link>
     </image>
+    
+    <item>
+      <title>Hierarchical Traversal Stack Design Using Shared Memory for GPU Ray Tracing</title>
+      <link>https://ku-csarch.github.io/publication/gpu_ray_ispass25/</link>
+      <pubDate>Sun, 11 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/gpu_ray_ispass25/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Conflict-Aware Compiler for Hierarchical Register File on GPUs</title>

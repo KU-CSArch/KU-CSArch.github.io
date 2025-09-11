@@ -1,0 +1,17 @@
+@inproceedings{gpu_fft_lctes25,
+author = {Yang, Dongwon and Jeon, Jaebeom and Gil, Minseong and Kim, Junsu and Kim, Seondeok and Koo, Gunjae and Yoon, Myung Kuk and Oh, Yunho},
+title = {SSFFT: Energy-Efficient Selective Scaling for Fast Fourier Transform in Embedded GPUs},
+year = {2025},
+isbn = {9798400719219},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3735452.3735529},
+doi = {10.1145/3735452.3735529},
+abstract = {Fast Fourier Transform (FFT) is critical in applications such as signal processing, communications, and AI. Embedded GPUs are often used to accelerate FFT due to their computational efficiency, but energy efficiency remains a key challenge due to power constraints. Existing solutions, such as the cuFFT library provided by NVIDIA, employ static configurations for the number of thread blocks and threads per block. This static approach often results in ineffective threads that consume power without contributing to performance, particularly if the FFT length or batch size varies. Furthermore, for large FFT lengths, cuFFT internally splits the computation into multiple kernel invocations. This decomposition can lead to L2 cache thrashing, resulting in redundant global memory accesses and degraded efficiency. To address these challenges, this paper proposes SSFFT, a software technique for embedded GPUs. The key idea of SSFFT is to maximize the number of useful threads that contribute to performance while minimizing ineffective threads. SSFFT is implemented based on a novel theoretical model that determines how many thread blocks and threads per block are effective for a given FFT length, batch size, and hardware resource availability. SSFFT statically determines these configurations and adaptively launches either a GPU kernel for regular FFT operations or a newly implemented kernel that integrates multiple FFT steps. By tailoring thread allocation to workload characteristics and minimizing inter-kernel memory interference, SSFFT improves energy efficiency without compromising performance. In our evaluation, SSFFT achieves a 1.29\texttimes{} speedup and a 1.26\texttimes{} improvement in throughput per watt compared to cuFFT.},
+booktitle = {Proceedings of the 26th ACM SIGPLAN/SIGBED International Conference on Languages, Compilers, and Tools for Embedded Systems},
+pages = {85–96},
+numpages = {12},
+keywords = {Dynamic Thread Scaling, Energy Efficiency, FFT},
+location = {Seoul, Republic of Korea},
+series = {LCTES '25}
+}
