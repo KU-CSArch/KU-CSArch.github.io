@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Prefetch | Computer System Architecture Lab</title>
-    <link>https://ku-csarch.github.io/tag/prefetch/</link>
-      <atom:link href="https://ku-csarch.github.io/tag/prefetch/index.xml" rel="self" type="application/rss+xml" />
-    <description>Prefetch</description>
+    <title>Ikyoung Choi | Computer System Architecture Lab</title>
+    <link>https://ku-csarch.github.io/authors/ikyoung-choi/</link>
+      <atom:link href="https://ku-csarch.github.io/authors/ikyoung-choi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ikyoung Choi</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 04 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ku-csarch.github.io/media/icon_hufc4ea502f7977d2b250399d95297f953_357528_512x512_fill_lanczos_center_3.png</url>
-      <title>Prefetch</title>
-      <link>https://ku-csarch.github.io/tag/prefetch/</link>
+      <title>Ikyoung Choi</title>
+      <link>https://ku-csarch.github.io/authors/ikyoung-choi/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://ku-csarch.github.io/publication/gpu_uvm_jsa25/</link>
       <pubDate>Tue, 04 Mar 2025 00:00:00 +0000</pubDate>
       <guid>https://ku-csarch.github.io/publication/gpu_uvm_jsa25/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CTA-Aware Prefetching and Scheduling for GPU</title>
-      <link>https://ku-csarch.github.io/publication/gpu_caps_ipdps18/</link>
-      <pubDate>Fri, 25 May 2018 00:00:00 +0000</pubDate>
-      <guid>https://ku-csarch.github.io/publication/gpu_caps_ipdps18/</guid>
       <description></description>
     </item>
     

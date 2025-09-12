@@ -1,0 +1,13 @@
+@article{gpu_uvm_jsa25,
+title = {Beyond VABlock: Improving Transformer workloads through aggressive prefetching},
+journal = {Journal of Systems Architecture},
+volume = {162},
+pages = {103389},
+year = {2025},
+issn = {1383-7621},
+doi = {https://doi.org/10.1016/j.sysarc.2025.103389},
+url = {https://www.sciencedirect.com/science/article/pii/S138376212500061X},
+author = {Jane Rhee and Ikyoung Choi and Gunjae Koo and Yunho Oh and Myung Kuk Yoon},
+keywords = {Unified virtual memory, Memory oversubscription, Graphics processing units, Large language models, Demand paging, Prefetching, Real-time analysis},
+abstract = {The memory capacity constraint of GPUs is a major challenge in running large deep learning workloads with their ever increasing memory requirements. To run a large Transformer model with limited GPU memory, programmers need to manually allocate and copy data between CPU and GPUs. This programming burden is eased by Unified Virtual Memory (UVM), which automatically manages data transfer through its demand paging scheme. However, using UVM can cause performance degradation, especially under memory oversubscription. In this paper, we analyze the memory behavior of inference in large Transformer models using real hardware and the open-source NVIDIA UVM driver. The default Tree-Based Neighborhood (TBN) prefetcher in the UVM driver supports page prefetching within a 2MB virtual address block (VABlock), but it only detects locality within a VABlock, limiting its effectiveness for large models. Our analysis reveals that this locality extends beyond the VABlock, which the default prefetcher cannot exploit. To address this, we propose a block-aware prefetcher that prefetches multiple contiguous VABlocks with greater aggressiveness. Our evaluation shows that this approach delivers an average 2.7x performance improvement over the default TBN prefetcher when GPU memory is oversubscribed.}
+}

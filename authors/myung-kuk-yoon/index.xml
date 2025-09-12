@@ -45,6 +45,14 @@
     </item>
     
     <item>
+      <title>Beyond VABlock: Improving Transformer Workloads through Aggressive Prefetching</title>
+      <link>https://ku-csarch.github.io/publication/gpu_uvm_jsa25/</link>
+      <pubDate>Tue, 04 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/gpu_uvm_jsa25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>VitBit: Enhancing Embedded GPU Performance for AI Workloads through Register Operand Packing</title>
       <link>https://ku-csarch.github.io/publication/gpu_numeric_icpp24/</link>
       <pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
