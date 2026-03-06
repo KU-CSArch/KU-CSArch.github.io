@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>narae-lee | Computer System Architecture Lab</title>
+    <link>https://ku-csarch.github.io/authors/narae-lee/</link>
+      <atom:link href="https://ku-csarch.github.io/authors/narae-lee/index.xml" rel="self" type="application/rss+xml" />
+    <description>narae-lee</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 19 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ku-csarch.github.io/media/icon_hufc4ea502f7977d2b250399d95297f953_357528_512x512_fill_lanczos_center_3.png</url>
+      <title>narae-lee</title>
+      <link>https://ku-csarch.github.io/authors/narae-lee/</link>
+    </image>
+    
+    <item>
+      <title>CSArch Lab members attended CSC 2026</title>
+      <link>https://ku-csarch.github.io/post/attend-csc26/</link>
+      <pubDate>Mon, 19 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/attend-csc26/</guid>
+      <description>&lt;p&gt;CSArch Lab members attended KIISE Computer System Society Conference 2026 (&lt;a href=&#34;http://css.or.kr/csc2026/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CSC 2026&lt;/a&gt;) held in Pyeongchang, Gangwon-do. Our lab members had a great time as the great researchers on computer system research fields presented keynotes and their research work during the conference.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

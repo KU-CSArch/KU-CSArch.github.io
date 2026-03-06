@@ -5,12 +5,21 @@
     <link>https://ku-csarch.github.io/authors/namhun-kim/</link>
       <atom:link href="https://ku-csarch.github.io/authors/namhun-kim/index.xml" rel="self" type="application/rss+xml" />
     <description>Namhun Kim</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 02 Mar 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ku-csarch.github.io/authors/namhun-kim/avatar_hudf270927ffcc3478a03f6a0cc4081e3f_58755_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Namhun Kim</title>
       <link>https://ku-csarch.github.io/authors/namhun-kim/</link>
     </image>
+    
+    <item>
+      <title>Namhun has joined the CISPA Helmholtz Center for Information Security as a research intern</title>
+      <link>https://ku-csarch.github.io/post/visiting-cispa26/</link>
+      <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/visiting-cispa26/</guid>
+      <description>&lt;p&gt;Namhun has joined the &lt;a href=&#34;https://cispa.de/en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CISPA Helmholtz Center for Information Security&lt;/a&gt; as a research intern. He will be working on DRAM reliability and security research for one year.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Namhun has joined CSArch Lab</title>

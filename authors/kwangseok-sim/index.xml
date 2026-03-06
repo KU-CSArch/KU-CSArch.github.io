@@ -5,12 +5,21 @@
     <link>https://ku-csarch.github.io/authors/kwangseok-sim/</link>
       <atom:link href="https://ku-csarch.github.io/authors/kwangseok-sim/index.xml" rel="self" type="application/rss+xml" />
     <description>Kwangseok Sim</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 03 Mar 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ku-csarch.github.io/authors/kwangseok-sim/avatar_hu9ea5e5bfd429905bb655671932256db2_96922_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Kwangseok Sim</title>
       <link>https://ku-csarch.github.io/authors/kwangseok-sim/</link>
     </image>
+    
+    <item>
+      <title>Beomsik, Haein, and Kwangseok have joined CSArch Lab</title>
+      <link>https://ku-csarch.github.io/post/join-lab26sp/</link>
+      <pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/join-lab26sp/</guid>
+      <description>&lt;p&gt;Beomsik, Haein, and Kwangseok have joined CSArch Lab since the Spring semester 2026. We hope they will enjoy adventures in computer architecture research. Welcome!!&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

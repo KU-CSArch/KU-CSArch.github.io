@@ -33,6 +33,60 @@
     </item>
     
     <item>
+      <title>Beomsik, Haein, and Kwangseok have joined CSArch Lab</title>
+      <link>https://ku-csarch.github.io/post/join-lab26sp/</link>
+      <pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/join-lab26sp/</guid>
+      <description>&lt;p&gt;Beomsik, Haein, and Kwangseok have joined CSArch Lab since the Spring semester 2026. We hope they will enjoy adventures in computer architecture research. Welcome!!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Namhun has joined the CISPA Helmholtz Center for Information Security as a research intern</title>
+      <link>https://ku-csarch.github.io/post/visiting-cispa26/</link>
+      <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/visiting-cispa26/</guid>
+      <description>&lt;p&gt;Namhun has joined the &lt;a href=&#34;https://cispa.de/en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CISPA Helmholtz Center for Information Security&lt;/a&gt; as a research intern. He will be working on DRAM reliability and security research for one year.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>One paper accepted to IEEE Micro (Journal, SCIE)</title>
+      <link>https://ku-csarch.github.io/post/accepted_imicro26/</link>
+      <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/accepted_imicro26/</guid>
+      <description>&lt;p&gt;One paper was accepted to &lt;em&gt;IEEE Micro&lt;/em&gt;. Our paper presents an accelerator architecture using logarithmic number systems, called &lt;em&gt;LogFlex&lt;/em&gt;, which applies an adaptive log-domain quantization scheme based on data distributions to provide higher accuracy with low-precision quantized data formats. LogFlex enables near-FP16 accuracy while consuming 33% less energy than FP8-based accelerators.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Prof. Gunjae Koo will be serving on the organization committee for ISPASS 2026</title>
+      <link>https://ku-csarch.github.io/post/committee-ispass26/</link>
+      <pubDate>Tue, 10 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/committee-ispass26/</guid>
+      <description>&lt;p&gt;Prof. Gunjae Koo will be serving on the organization committee for the 2026 IEEE International Symposium on Performance Analysis of Systems and Software (&lt;a href=&#34;https://ispass.org/ispass2026/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ISPASS 2026&lt;/a&gt;). IISWC 2026 will be held on April 26&amp;ndash;28 in Seoul, South Korea. Please submit your best work!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CSArch Lab members attended CSC 2026</title>
+      <link>https://ku-csarch.github.io/post/attend-csc26/</link>
+      <pubDate>Mon, 19 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/attend-csc26/</guid>
+      <description>&lt;p&gt;CSArch Lab members attended KIISE Computer System Society Conference 2026 (&lt;a href=&#34;http://css.or.kr/csc2026/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CSC 2026&lt;/a&gt;) held in Pyeongchang, Gangwon-do. Our lab members had a great time as the great researchers on computer system research fields presented keynotes and their research work during the conference.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Chanhun, Sanghyeon and Seongpil defended</title>
+      <link>https://ku-csarch.github.io/post/defense-masters25/</link>
+      <pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/defense-masters25/</guid>
+      <description>&lt;p&gt;Chanhun, Sanghyeon and Seongpil successfully defended their Master&amp;rsquo;s theses. Congratulations!!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Prof. Gunjae Koo will be serving on the program committee for ISCA 2026</title>
       <link>https://ku-csarch.github.io/post/committee-isca26/</link>
       <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>

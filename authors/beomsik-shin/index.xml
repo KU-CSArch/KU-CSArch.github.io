@@ -5,12 +5,21 @@
     <link>https://ku-csarch.github.io/authors/beomsik-shin/</link>
       <atom:link href="https://ku-csarch.github.io/authors/beomsik-shin/index.xml" rel="self" type="application/rss+xml" />
     <description>Beomsik Shin</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 03 Mar 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ku-csarch.github.io/authors/beomsik-shin/avatar_hu267e0273c6e79af92e4c32c35b79117a_219841_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Beomsik Shin</title>
       <link>https://ku-csarch.github.io/authors/beomsik-shin/</link>
     </image>
+    
+    <item>
+      <title>Beomsik, Haein, and Kwangseok have joined CSArch Lab</title>
+      <link>https://ku-csarch.github.io/post/join-lab26sp/</link>
+      <pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/join-lab26sp/</guid>
+      <description>&lt;p&gt;Beomsik, Haein, and Kwangseok have joined CSArch Lab since the Spring semester 2026. We hope they will enjoy adventures in computer architecture research. Welcome!!&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
