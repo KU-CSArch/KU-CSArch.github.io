@@ -5,12 +5,21 @@
     <link>https://ku-csarch.github.io/category/conference/</link>
       <atom:link href="https://ku-csarch.github.io/category/conference/index.xml" rel="self" type="application/rss+xml" />
     <description>Conference</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 13 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 11 Nov 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ku-csarch.github.io/media/icon_hufc4ea502f7977d2b250399d95297f953_357528_512x512_fill_lanczos_center_3.png</url>
       <title>Conference</title>
       <link>https://ku-csarch.github.io/category/conference/</link>
     </image>
+    
+    <item>
+      <title>Yujin presented at ICCD 2025</title>
+      <link>https://ku-csarch.github.io/post/present-iccd25/</link>
+      <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/present-iccd25/</guid>
+      <description>&lt;p&gt;Yujin presented her research work regarding an efficinet neural network accelerator architecture exploiting factorized input features at the 43rd International Conference on Computer Design (&lt;a href=&#34;https://www.iccd-conf.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ICCD 2025&lt;/a&gt;). ICCD is one of premier conferences on computer system and hardware architecture design. Good job, Yujin!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>One paper accepted to IISWC 2025</title>

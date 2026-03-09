@@ -5,12 +5,21 @@
     <link>https://ku-csarch.github.io/authors/sunchae-kim/</link>
       <atom:link href="https://ku-csarch.github.io/authors/sunchae-kim/index.xml" rel="self" type="application/rss+xml" />
     <description>Sunchae Kim</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 20 Oct 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ku-csarch.github.io/authors/sunchae-kim/avatar_hu174ee1312a49a8882191f7da89a8d2d7_355583_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Sunchae Kim</title>
       <link>https://ku-csarch.github.io/authors/sunchae-kim/</link>
     </image>
+    
+    <item>
+      <title>CSArch Lab members attended MICRO 2025</title>
+      <link>https://ku-csarch.github.io/post/attend-micro25/</link>
+      <pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/attend-micro25/</guid>
+      <description>&lt;p&gt;CSArch Lab members attended the 58th IEEE/ACM International Symposium on Microarchitecture (&lt;a href=&#34;https://microarch.org/micro58/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MICRO 2025&lt;/a&gt;) held in Seoul, South Korea. Our lab members had a great time actively participating in research discussions and networking with researchers.&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
