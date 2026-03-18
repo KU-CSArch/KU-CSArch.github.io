@@ -5,12 +5,36 @@
     <link>https://ku-csarch.github.io/authors/myung-kuk-yoon/</link>
       <atom:link href="https://ku-csarch.github.io/authors/myung-kuk-yoon/index.xml" rel="self" type="application/rss+xml" />
     <description>Myung Kuk Yoon</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 17 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 11 Nov 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ku-csarch.github.io/media/icon_hufc4ea502f7977d2b250399d95297f953_357528_512x512_fill_lanczos_center_3.png</url>
       <title>Myung Kuk Yoon</title>
       <link>https://ku-csarch.github.io/authors/myung-kuk-yoon/</link>
     </image>
+    
+    <item>
+      <title>FINEA: An Efficient Neural Network Accelerator Exploiting Factorized Input Features</title>
+      <link>https://ku-csarch.github.io/publication/accel_cnn_iccd25/</link>
+      <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/accel_cnn_iccd25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TM-Training: An Energy-Efficient Tiered Memory System for Deep Learning Training in NPUs</title>
+      <link>https://ku-csarch.github.io/publication/npu_mem_tos25/</link>
+      <pubDate>Mon, 03 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/npu_mem_tos25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HALO: Hybrid Systolic Arrays via Logical Partitioning for Acceleration of Complex-Valued Neural Networks</title>
+      <link>https://ku-csarch.github.io/publication/accel_cvnn_iiswc25/</link>
+      <pubDate>Mon, 13 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/accel_cvnn_iiswc25/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>MOST: Memory Oversubscription-Aware Scheduling for Tensor Migration on GPU Unified Storage</title>

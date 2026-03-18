@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Characterization | Computer System Architecture Lab</title>
+    <link>https://ku-csarch.github.io/tag/characterization/</link>
+      <atom:link href="https://ku-csarch.github.io/tag/characterization/index.xml" rel="self" type="application/rss+xml" />
+    <description>Characterization</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ku-csarch.github.io/media/icon_hufc4ea502f7977d2b250399d95297f953_357528_512x512_fill_lanczos_center_3.png</url>
+      <title>Characterization</title>
+      <link>https://ku-csarch.github.io/tag/characterization/</link>
+    </image>
+    
+    <item>
+      <title>Performance and Cost Analysis of an Embedded Accelerator Platform for CNN Workloads</title>
+      <link>https://ku-csarch.github.io/publication/accel_embed_jok25/</link>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/accel_embed_jok25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Performance Analysis of a Per-Row Activation Counting Mechanism in DRAM</title>
+      <link>https://ku-csarch.github.io/publication/dram_prac_ieie25/</link>
+      <pubDate>Wed, 25 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/dram_prac_ieie25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis of GEMV Kernel Computations by Address Mapping Approaches Based on GPU and PIM Architectures</title>
+      <link>https://ku-csarch.github.io/publication/pim_addr_jok25/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/pim_addr_jok25/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

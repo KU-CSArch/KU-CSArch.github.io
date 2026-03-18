@@ -5,12 +5,76 @@
     <link>https://ku-csarch.github.io/publication/</link>
       <atom:link href="https://ku-csarch.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 17 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 27 Feb 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ku-csarch.github.io/media/icon_hufc4ea502f7977d2b250399d95297f953_357528_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://ku-csarch.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>LogFlex: Flexible-Bit Log Arithmetic Accelerator for Language Models on Edge</title>
+      <link>https://ku-csarch.github.io/publication/accel_lns_micro26/</link>
+      <pubDate>Fri, 27 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/accel_lns_micro26/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Efficient Row Buffer Policy Based on Per-Row Activation Counts</title>
+      <link>https://ku-csarch.github.io/publication/dram_prac_ksc25/</link>
+      <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/dram_prac_ksc25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Performance and Cost Analysis of an Embedded Accelerator Platform for CNN Workloads</title>
+      <link>https://ku-csarch.github.io/publication/accel_embed_jok25/</link>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/accel_embed_jok25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FINEA: An Efficient Neural Network Accelerator Exploiting Factorized Input Features</title>
+      <link>https://ku-csarch.github.io/publication/accel_cnn_iccd25/</link>
+      <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/accel_cnn_iccd25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Communication Optimizations on Large-Scale GPU Clusters Using Rail Optimized Networks and NCCL PXN</title>
+      <link>https://ku-csarch.github.io/publication/gpu_cluster_ack25/</link>
+      <pubDate>Thu, 06 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/gpu_cluster_ack25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TM-Training: An Energy-Efficient Tiered Memory System for Deep Learning Training in NPUs</title>
+      <link>https://ku-csarch.github.io/publication/npu_mem_tos25/</link>
+      <pubDate>Mon, 03 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/npu_mem_tos25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HALO: Hybrid Systolic Arrays via Logical Partitioning for Acceleration of Complex-Valued Neural Networks</title>
+      <link>https://ku-csarch.github.io/publication/accel_cvnn_iiswc25/</link>
+      <pubDate>Mon, 13 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/accel_cvnn_iiswc25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Performance Analysis of a Per-Row Activation Counting Mechanism in DRAM</title>
+      <link>https://ku-csarch.github.io/publication/dram_prac_ieie25/</link>
+      <pubDate>Wed, 25 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/dram_prac_ieie25/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>MOST: Memory Oversubscription-Aware Scheduling for Tensor Migration on GPU Unified Storage</title>
@@ -37,6 +101,14 @@
     </item>
     
     <item>
+      <title>Analysis of GEMV Kernel Computations by Address Mapping Approaches Based on GPU and PIM Architectures</title>
+      <link>https://ku-csarch.github.io/publication/pim_addr_jok25/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/pim_addr_jok25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Hierarchical Traversal Stack Design Using Shared Memory for GPU Ray Tracing</title>
       <link>https://ku-csarch.github.io/publication/gpu_ray_ispass25/</link>
       <pubDate>Sun, 11 May 2025 00:00:00 +0000</pubDate>
@@ -57,6 +129,14 @@
       <link>https://ku-csarch.github.io/publication/gpu_uvm_jsa25/</link>
       <pubDate>Tue, 04 Mar 2025 00:00:00 +0000</pubDate>
       <guid>https://ku-csarch.github.io/publication/gpu_uvm_jsa25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cache Side-Channel Attacks Exploiting the RISC-V Coprocessor Interface on an SoC Platform</title>
+      <link>https://ku-csarch.github.io/publication/sec_rocc_jok25/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/sec_rocc_jok25/</guid>
       <description></description>
     </item>
     

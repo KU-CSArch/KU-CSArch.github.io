@@ -5,12 +5,20 @@
     <link>https://ku-csarch.github.io/authors/jane-rhee/</link>
       <atom:link href="https://ku-csarch.github.io/authors/jane-rhee/index.xml" rel="self" type="application/rss+xml" />
     <description>Jane Rhee</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 04 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 13 Oct 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ku-csarch.github.io/media/icon_hufc4ea502f7977d2b250399d95297f953_357528_512x512_fill_lanczos_center_3.png</url>
       <title>Jane Rhee</title>
       <link>https://ku-csarch.github.io/authors/jane-rhee/</link>
     </image>
+    
+    <item>
+      <title>HALO: Hybrid Systolic Arrays via Logical Partitioning for Acceleration of Complex-Valued Neural Networks</title>
+      <link>https://ku-csarch.github.io/publication/accel_cvnn_iiswc25/</link>
+      <pubDate>Mon, 13 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/accel_cvnn_iiswc25/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Beyond VABlock: Improving Transformer Workloads through Aggressive Prefetching</title>

@@ -5,12 +5,28 @@
     <link>https://ku-csarch.github.io/publication-type/2/</link>
       <atom:link href="https://ku-csarch.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 17 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 27 Feb 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ku-csarch.github.io/media/icon_hufc4ea502f7977d2b250399d95297f953_357528_512x512_fill_lanczos_center_3.png</url>
       <title>2</title>
       <link>https://ku-csarch.github.io/publication-type/2/</link>
     </image>
+    
+    <item>
+      <title>LogFlex: Flexible-Bit Log Arithmetic Accelerator for Language Models on Edge</title>
+      <link>https://ku-csarch.github.io/publication/accel_lns_micro26/</link>
+      <pubDate>Fri, 27 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/accel_lns_micro26/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TM-Training: An Energy-Efficient Tiered Memory System for Deep Learning Training in NPUs</title>
+      <link>https://ku-csarch.github.io/publication/npu_mem_tos25/</link>
+      <pubDate>Mon, 03 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/npu_mem_tos25/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>MOST: Memory Oversubscription-Aware Scheduling for Tensor Migration on GPU Unified Storage</title>

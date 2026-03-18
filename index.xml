@@ -51,6 +51,14 @@
     </item>
     
     <item>
+      <title>LogFlex: Flexible-Bit Log Arithmetic Accelerator for Language Models on Edge</title>
+      <link>https://ku-csarch.github.io/publication/accel_lns_micro26/</link>
+      <pubDate>Fri, 27 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/accel_lns_micro26/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>One paper accepted to IEEE Micro (Journal, SCIE)</title>
       <link>https://ku-csarch.github.io/post/accepted_imicro26/</link>
       <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
@@ -78,6 +86,14 @@
     </item>
     
     <item>
+      <title>An Efficient Row Buffer Policy Based on Per-Row Activation Counts</title>
+      <link>https://ku-csarch.github.io/publication/dram_prac_ksc25/</link>
+      <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/dram_prac_ksc25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Chanhun, Sanghyeon and Seongpil defended</title>
       <link>https://ku-csarch.github.io/post/defense-masters25/</link>
       <pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate>
@@ -87,12 +103,28 @@
     </item>
     
     <item>
+      <title>Performance and Cost Analysis of an Embedded Accelerator Platform for CNN Workloads</title>
+      <link>https://ku-csarch.github.io/publication/accel_embed_jok25/</link>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/accel_embed_jok25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Prof. Gunjae Koo will be serving on the program committee for ISCA 2026</title>
       <link>https://ku-csarch.github.io/post/committee-isca26/</link>
       <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
       <guid>https://ku-csarch.github.io/post/committee-isca26/</guid>
       <description>&lt;p&gt;Prof. Gunjae Koo will be serving as a member on the program committee for the 53rd International Symposium on Computer Architecture (&lt;a href=&#34;https://iscaconf.org/isca2026/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ISCA 2026&lt;/a&gt;). ISCA 2026 will be held in Raleigh, NC, USA. Please submit your best work!&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>FINEA: An Efficient Neural Network Accelerator Exploiting Factorized Input Features</title>
+      <link>https://ku-csarch.github.io/publication/accel_cnn_iccd25/</link>
+      <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/accel_cnn_iccd25/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -114,12 +146,36 @@
     </item>
     
     <item>
+      <title>Communication Optimizations on Large-Scale GPU Clusters Using Rail Optimized Networks and NCCL PXN</title>
+      <link>https://ku-csarch.github.io/publication/gpu_cluster_ack25/</link>
+      <pubDate>Thu, 06 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/gpu_cluster_ack25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TM-Training: An Energy-Efficient Tiered Memory System for Deep Learning Training in NPUs</title>
+      <link>https://ku-csarch.github.io/publication/npu_mem_tos25/</link>
+      <pubDate>Mon, 03 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/npu_mem_tos25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>CSArch Lab members attended MICRO 2025</title>
       <link>https://ku-csarch.github.io/post/attend-micro25/</link>
       <pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
       <guid>https://ku-csarch.github.io/post/attend-micro25/</guid>
       <description>&lt;p&gt;CSArch Lab members attended the 58th IEEE/ACM International Symposium on Microarchitecture (&lt;a href=&#34;https://microarch.org/micro58/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MICRO 2025&lt;/a&gt;) held in Seoul, South Korea. Our lab members had a great time actively participating in research discussions and networking with researchers.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>HALO: Hybrid Systolic Arrays via Logical Partitioning for Acceleration of Complex-Valued Neural Networks</title>
+      <link>https://ku-csarch.github.io/publication/accel_cvnn_iiswc25/</link>
+      <pubDate>Mon, 13 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/accel_cvnn_iiswc25/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -156,6 +212,14 @@
       <guid>https://ku-csarch.github.io/post/committee-hpca26/</guid>
       <description>&lt;p&gt;Prof. Gunjae Koo will be serving as a regular member on the program committee for the 32nd IEEE International Symposium on High-Performance Computer Architecture (&lt;a href=&#34;https://hpca-conf.org/2026/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HPCA 2026&lt;/a&gt;). HPCA 2026 will be held in Sydney, NSW, Australia. Please submit your best work!&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Performance Analysis of a Per-Row Activation Counting Mechanism in DRAM</title>
+      <link>https://ku-csarch.github.io/publication/dram_prac_ieie25/</link>
+      <pubDate>Wed, 25 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/dram_prac_ieie25/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -198,6 +262,14 @@
       <guid>https://ku-csarch.github.io/post/present-ics25/</guid>
       <description>&lt;p&gt;Taewoon presented his research work regarding an HBM-based PIM architecture and software optimizations for SpMV kernels at the International Conference on Supercomputing 2025 (&lt;a href=&#34;https://hpcrl.github.io/ICS2025-webpage/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ICS 2025&lt;/a&gt;). ICS is one of premier conferences on high-performance computing systems. Good job, Taewoon!&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Analysis of GEMV Kernel Computations by Address Mapping Approaches Based on GPU and PIM Architectures</title>
+      <link>https://ku-csarch.github.io/publication/pim_addr_jok25/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/pim_addr_jok25/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -321,6 +393,14 @@
       <guid>https://ku-csarch.github.io/post/attend-csc25/</guid>
       <description>&lt;p&gt;CSArch Lab members attended KIISE Computer System Society Conference 2025 (&lt;a href=&#34;http://css.or.kr/csc2025/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CSC 2025&lt;/a&gt;) held in Pyeongchang, Gangwon-do. Our lab members had a great time as the great researchers on computer system research fields presented keynotes and their research work during the conference. Prof. Gunjae Koo served as a program chair for CSC 2025.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Cache Side-Channel Attacks Exploiting the RISC-V Coprocessor Interface on an SoC Platform</title>
+      <link>https://ku-csarch.github.io/publication/sec_rocc_jok25/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/sec_rocc_jok25/</guid>
+      <description></description>
     </item>
     
     <item>

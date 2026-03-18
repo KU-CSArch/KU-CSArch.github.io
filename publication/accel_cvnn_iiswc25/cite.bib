@@ -1,0 +1,13 @@
+@INPROCEEDINGS{11242075,
+  author={Yi, Ji Yeong and Jeong, Eunbi and Yum, SungHee and Rhee, Jane and Choi, Sangun and Koo, Gunjae and Oh, Yunho and Yoon, Myung Kuk},
+  booktitle={2025 IEEE International Symposium on Workload Characterization (IISWC)}, 
+  title={HALO: Hybrid Systolic Arrays via Logical Partitioning for Acceleration of Complex-Valued Neural Networks}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={206-218},
+  abstract={Complex-Valued Neural Networks (CVNNs) are an emerging class of deep learning models that process data with both real and imaginary components. By efficiently handling complex-valued representations, CVNNs have gained attention as a promising alternative to traditional Real-Valued Neural Networks (RVNNs), especially in domains such as signal processing and communications. A fundamental distinction between CVNNs and RVNNs lies in the use of Complex General Matrix-Matrix Multiplications (CGEMMs), each comprising four real-valued GEMMs along with additional operations. As such, CGEMMs impose substantial compute and memory burdens on CVNNs. Although modern systolic arrays have evolved to enhance GEMM performance with their high compute throughput, these architectures are suboptimal for CGEMMs due to two key limitations: (1) redundant data fetches and (2) underutilization of Processing Elements (PEs) within the array. To address these challenges, we propose HALO, a novel systolic array architecture that accelerates CGEMM execution through logical partitioning of the array. HALO divides a single array into logical sub-arrays, enabling concurrent execution of CGEMM sub-operations, thereby aggressively utilizing given PE resources with simple hardware modifications. We explore two execution modes of HALO: Half Mode and Quad Mode. Half Mode reduces duplicated data fetches and improves PE utilization, whereas Quad Mode offers even higher utilization but does not address the redundant memory access issue. To maximize performance across layers, HALO switches between the two modes on a per-layer basis, leveraging the proposed mode selection algorithm. Our evaluation demonstrates that HALO improves performance by 44.3% and achieves a 32.3% reduction in energy-delay product.},
+  keywords={Neural networks;Signal processing algorithms;Computer architecture;Signal processing;Throughput;Systolic arrays;Partitioning algorithms;Arrays;Logic;Logic arrays},
+  doi={10.1109/IISWC66894.2025.00026},
+  ISSN={2835-2238},
+  month={Oct},}

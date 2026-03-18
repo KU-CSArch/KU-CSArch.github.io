@@ -21,6 +21,14 @@
     </item>
     
     <item>
+      <title>Cache Side-Channel Attacks Exploiting the RISC-V Coprocessor Interface on an SoC Platform</title>
+      <link>https://ku-csarch.github.io/publication/sec_rocc_jok25/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/sec_rocc_jok25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Cache Side-Channel Attacks Exploiting RoCC Interface on RISC-V SoC Platform</title>
       <link>https://ku-csarch.github.io/publication/sec_rocc_kcc24/</link>
       <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
