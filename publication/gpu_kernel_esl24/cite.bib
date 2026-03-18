@@ -1,11 +1,13 @@
-@article{gpu_kernel_esl24,
+@ARTICLE{gpu_kernel_esl24,
   author={Jeon, Jaebeom and Koo, Gunjae and Yoon, Myung Kuk and Oh, Yunho},
-  journal={IEEE Embedded Systems Letters},
-  title={Adaptive Kernel Merge and Fusion for Multi-Tenant Inference in Embedded GPUs},
+  journal={IEEE Embedded Systems Letters}, 
+  title={Adaptive Kernel Merge and Fusion for Multi-Tenant Inference in Embedded GPUs}, 
   year={2024},
-  volume={},
-  number={},
-  pages={1-1},
-  keywords={Kernel;Throughput;Graphics processing units;Delays;Task analysis;Software;Switches;Embedded GPU;inference;multi-tenancy},
-  doi={10.1109/LES.2024.3351753}
-}
+  volume={16},
+  number={4},
+  pages={421-424},
+  abstract={This letter proposes a new scheme that improves throughput and reduces queuing delay while running multiple inferences in embedded graphics processing unit (GPU)-based systems. We observe that an embedded system runs inference with a fixed number of deep learning models and that inference requests often use the same model. Unlike prior work that proposed kernel fusion or scheduling techniques, this letter proposes a new software technique that merges and fuses kernels by monitoring the requests in a queue. The proposed technique first monitors a fixed number of requests and groups the requests running the same model. Then, it creates the kernels that iteratively process the grouped requests. We call such a technique kernel merging. After that, the proposed technique performs kernel fusion with merged kernels. Eventually, our idea minimizes the number of concurrent kernels, thus mitigating stalls caused by frequent context switching in a GPU. In our evaluation, the proposed kernel merge and fusion achieve  $2.7\times $  better throughput, 47% shorter average kernel execution time, and 63% shorter tail latency than prior work.},
+  keywords={Kernel;Throughput;Graphics processing units;Delays;Task analysis;Software;Switches;Embedded graphics processing unit (GPU);inference;multitenancy},
+  doi={10.1109/LES.2024.3351753},
+  ISSN={1943-0671},
+  month={Dec},}
