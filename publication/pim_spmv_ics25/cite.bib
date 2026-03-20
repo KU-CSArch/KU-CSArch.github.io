@@ -1,18 +1,18 @@
-@inproceedings{10.1145/3605573.3605645,
-author = {Jeong, Jong Hyun and Yoon, Myung Kuk and Oh, Yunho and Koo, Gunjae},
-title = {Warped-MC: An Efficient Memory Controller Scheme for Massively Parallel Processors},
-year = {2023},
-isbn = {9798400708435},
+@inproceedings{10.1145/3721145.3735111,
+author = {Kang, Taewoon and Choi, Geonwoo and Suh, Taeweon and Koo, Gunjae},
+title = {SparsePIM: An Efficient HBM-Based PIM Architecture for Sparse Matrix-Vector Multiplications},
+year = {2025},
+isbn = {9798400715372},
 publisher = {Association for Computing Machinery},
 address = {New York, NY, USA},
-url = {https://doi.org/10.1145/3605573.3605645},
-doi = {10.1145/3605573.3605645},
-booktitle = {Proceedings of the 52nd International Conference on Parallel Processing},
-pages = {546–555},
-numpages = {10},
-keywords = {GPU Architecture, Memory System, Memory Controller},
-location = {Salt Lake City, UT, USA},
-series = {ICPP '23}
+url = {https://doi.org/10.1145/3721145.3735111},
+doi = {10.1145/3721145.3735111},
+abstract = {Sparse matrix-vector multiplication (SpMV) is a fundamental operation across diverse domains, including scientific computing, machine learning, and graph processing. However, its irregular memory access patterns necessitate frequent data retrieval from external memory, leading to significant inefficiencies on conventional processors such as CPUs and GPUs. Processing-in-memory (PIM) presents a promising solution to address these performance bottlenecks observed in memory-intensive workloads. However, existing PIM architectures are primarily optimized for dense matrix operations since conventional memory cell structures struggle with the challenges of indirect indexing and unbalanced data distributions inherent in sparse computations.In order to address these challenges, we propose SparsePIM, a novel PIM architecture designed to accelerate SpMV computations efficiently. SparsePIM introduces a DRAM row-aligned format (DRAF) to optimize memory access patterns. SparsePIM exploits K-means-based column group partitioning to achieve a balanced load distribution across memory banks. Furthermore, SparsePIM includes bank group (BG) accumulators to mitigate the performance burdens of accumulating partial sums in SpMV operations. By aggregating partial results across multiple banks, SparsePIM can significantly improve the throughput of sparse matrix computations. Leveraging a combination of hardware and software optimizations, SparsePIM can achieve significant performance gains over cuSPARSE-based SpMV kernels on the GPU. Our evaluation demonstrates that SparsePIM achieves up to 5.61 \texttimes{} speedup over SpMV on GPUs.},
+booktitle = {Proceedings of the 39th ACM International Conference on Supercomputing},
+pages = {495–512},
+numpages = {18},
+keywords = {Processing-in-Memory, SpMV, Near-Data Processing},
+location = {
+},
+series = {ICS '25}
 }
-
-
