@@ -5,12 +5,21 @@
     <link>https://ku-csarch.github.io/tag/accepted/</link>
       <atom:link href="https://ku-csarch.github.io/tag/accepted/index.xml" rel="self" type="application/rss+xml" />
     <description>Accepted</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 11 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 04 Apr 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ku-csarch.github.io/media/icon_hufc4ea502f7977d2b250399d95297f953_357528_512x512_fill_lanczos_center_3.png</url>
       <title>Accepted</title>
       <link>https://ku-csarch.github.io/tag/accepted/</link>
     </image>
+    
+    <item>
+      <title>Two papers accepted to ICS 2026</title>
+      <link>https://ku-csarch.github.io/post/accepted-ics26/</link>
+      <pubDate>Sat, 04 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/accepted-ics26/</guid>
+      <description>&lt;p&gt;Two papers were accepted to the &lt;em&gt;ACM International Conference on Supercomputing (ICS) 2026&lt;/em&gt;. One paper proposed &lt;em&gt;SumcheckPIM&lt;/em&gt;, an efficient HBM-based PIM architecture for sumcheck-based ZKPs. &lt;em&gt;SumcheckPIM&lt;/em&gt; employs modular arithmetic units near banks and a Fiat-Shamir unit on a logic die. &lt;em&gt;SumcheckPIM&lt;/em&gt; also introduces an efficient DRAM-aware folding mechanism to minimize bank conflicts in PIM operations. &lt;em&gt;SumcheckPIM&lt;/em&gt; improves the performance of sumcheck protocols dramatically compared to GPU and CPU baselines. Another paper proposes &lt;em&gt;ACE&lt;/em&gt;, an accuracy-aware compute engine for ternary LLM inferences. &lt;em&gt;ACE&lt;/em&gt; integrates compact ternary decoding and scaling directly into the GEMM pipeline. An FPGA prototype of &lt;em&gt;ACE&lt;/em&gt; demonstrates significant accuracy-aware efficiency gains compared to A100 and H100 baselines.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>One paper accepted to IEEE Micro (Journal, SCIE)</title>

@@ -5,12 +5,21 @@
     <link>https://ku-csarch.github.io/authors/yujin-kim/</link>
       <atom:link href="https://ku-csarch.github.io/authors/yujin-kim/index.xml" rel="self" type="application/rss+xml" />
     <description>Yujin Kim</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 27 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 20 Mar 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ku-csarch.github.io/authors/yujin-kim/avatar_hu0f072a4989f6ebb2010c6bde293641e7_342354_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Yujin Kim</title>
       <link>https://ku-csarch.github.io/authors/yujin-kim/</link>
     </image>
+    
+    <item>
+      <title>Yujin has got addmission to UC Merced</title>
+      <link>https://ku-csarch.github.io/post/career-yujin26/</link>
+      <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/career-yujin26/</guid>
+      <description>&lt;p&gt;Yujin has got admission to several universities for doctoral programs. She decided to pursue her Ph.D. degree in the &lt;a href=&#34;https://engineering.ucmerced.edu/departments/computer-science-engineering-cse&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Computer Science &amp;amp; Engineering Department&lt;/a&gt; at the &lt;a href=&#34;https://www.ucmerced.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of California, Merced&lt;/a&gt;. Congratulations, Yujin!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>LogFlex: Flexible-Bit Log Arithmetic Accelerator for Language Models on Edge</title>

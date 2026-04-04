@@ -5,12 +5,30 @@
     <link>https://ku-csarch.github.io/tag/conference/</link>
       <atom:link href="https://ku-csarch.github.io/tag/conference/index.xml" rel="self" type="application/rss+xml" />
     <description>Conference</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 10 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 04 Apr 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ku-csarch.github.io/media/icon_hufc4ea502f7977d2b250399d95297f953_357528_512x512_fill_lanczos_center_3.png</url>
       <title>Conference</title>
       <link>https://ku-csarch.github.io/tag/conference/</link>
     </image>
+    
+    <item>
+      <title>Two papers accepted to ICS 2026</title>
+      <link>https://ku-csarch.github.io/post/accepted-ics26/</link>
+      <pubDate>Sat, 04 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/accepted-ics26/</guid>
+      <description>&lt;p&gt;Two papers were accepted to the &lt;em&gt;ACM International Conference on Supercomputing (ICS) 2026&lt;/em&gt;. One paper proposed &lt;em&gt;SumcheckPIM&lt;/em&gt;, an efficient HBM-based PIM architecture for sumcheck-based ZKPs. &lt;em&gt;SumcheckPIM&lt;/em&gt; employs modular arithmetic units near banks and a Fiat-Shamir unit on a logic die. &lt;em&gt;SumcheckPIM&lt;/em&gt; also introduces an efficient DRAM-aware folding mechanism to minimize bank conflicts in PIM operations. &lt;em&gt;SumcheckPIM&lt;/em&gt; improves the performance of sumcheck protocols dramatically compared to GPU and CPU baselines. Another paper proposes &lt;em&gt;ACE&lt;/em&gt;, an accuracy-aware compute engine for ternary LLM inferences. &lt;em&gt;ACE&lt;/em&gt; integrates compact ternary decoding and scaling directly into the GEMM pipeline. An FPGA prototype of &lt;em&gt;ACE&lt;/em&gt; demonstrates significant accuracy-aware efficiency gains compared to A100 and H100 baselines.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Prof. Gunjae Koo will be serving on the program committee for IISWC 2026</title>
+      <link>https://ku-csarch.github.io/post/committee-iiswc26/</link>
+      <pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/committee-iiswc26/</guid>
+      <description>&lt;p&gt;Prof. Gunjae Koo will be serving on the organization committee for the 2026 IEEE International Symposium on Workload Characterization (&lt;a href=&#34;https://iiswc.org/iiswc2026/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IISWC 2026&lt;/a&gt;). IISWC 2026 will be held on September 27&amp;ndash;29 in Boulder, CO, USA. Please submit your best work!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Prof. Gunjae Koo will be serving on the organization committee for ISPASS 2026</title>
