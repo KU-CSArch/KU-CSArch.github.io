@@ -17,7 +17,7 @@
       <link>https://ku-csarch.github.io/post/accepted-access24/</link>
       <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
       <guid>https://ku-csarch.github.io/post/accepted-access24/</guid>
-      <description>&lt;p&gt;One paper was accepted to &lt;em&gt;IEEE Access&lt;/em&gt;. Our paper presents a scale-out DNN inference accelerator architecture, called &lt;em&gt;SAVector&lt;/em&gt;, which equips vectored systolic arrays and two-level on-chip buffer architecture. SAVector can reduce energy-delay-product (EDP) by 52% while exhibiting similar performance compared to a scale-up accelerator architecture.&lt;/p&gt;
+      <description>&lt;p&gt;One paper has been accepted for publication in &lt;em&gt;IEEE Access&lt;/em&gt;. Our paper presents a scale-out DNN inference accelerator architecture, called &lt;em&gt;SAVector&lt;/em&gt;, which equips vectored systolic arrays and two-level on-chip buffer architecture. SAVector can reduce energy-delay-product (EDP) by 52% while exhibiting similar performance compared to a scale-up accelerator architecture.&lt;/p&gt;
 </description>
     </item>
     
@@ -26,7 +26,7 @@
       <link>https://ku-csarch.github.io/post/accepted-access23/</link>
       <pubDate>Mon, 13 Mar 2023 00:00:00 +0000</pubDate>
       <guid>https://ku-csarch.github.io/post/accepted-access23/</guid>
-      <description>&lt;p&gt;One paper was accepted to &lt;em&gt;IEEE Access&lt;/em&gt;. Our paper presents an attack scenario, called &lt;em&gt;Vizard&lt;/em&gt;, that can bypass the existing profiling-based detectors. The Vizard attack manipulate cache performance behaviors within the allowed attack windows to hide the unique performance behaviors of cache side-channel attacks.&lt;/p&gt;
+      <description>&lt;p&gt;One paper has been accepted for publication in &lt;em&gt;IEEE Access&lt;/em&gt;. Our paper presents an attack scenario, called &lt;em&gt;Vizard&lt;/em&gt;, that can bypass the existing profiling-based detectors. The Vizard attack manipulate cache performance behaviors within the allowed attack windows to hide the unique performance behaviors of cache side-channel attacks.&lt;/p&gt;
 </description>
     </item>
     
@@ -35,7 +35,7 @@
       <link>https://ku-csarch.github.io/post/accepted-access22/</link>
       <pubDate>Fri, 21 Oct 2022 00:00:00 +0000</pubDate>
       <guid>https://ku-csarch.github.io/post/accepted-access22/</guid>
-      <description>&lt;p&gt;Two papers were accepted to &lt;em&gt;IEEE Access&lt;/em&gt;. One paper proposes &lt;em&gt;GhostLeg&lt;/em&gt;, a low-overhead architectural defense approach against correlation-based GPU security attacks. &lt;em&gt;GhostLeg&lt;/em&gt; selectively applies secure executions for load warps to minimize performance overhead induced by concealing memory coalescing. Another paper presents detailed characteristics of GCN aggregation kernels on GPU via an in-depth analysis using real GPU hardware and a cycle-accurate GPU simulator.&lt;/p&gt;
+      <description>&lt;p&gt;Two papers have been accepted for publication in &lt;em&gt;IEEE Access&lt;/em&gt;. One paper proposes &lt;em&gt;GhostLeg&lt;/em&gt;, a low-overhead architectural defense approach against correlation-based GPU security attacks. &lt;em&gt;GhostLeg&lt;/em&gt; selectively applies secure executions for load warps to minimize performance overhead induced by concealing memory coalescing. Another paper presents detailed characteristics of GCN aggregation kernels on GPU via an in-depth analysis using real GPU hardware and a cycle-accurate GPU simulator.&lt;/p&gt;
 </description>
     </item>
     

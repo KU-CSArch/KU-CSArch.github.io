@@ -26,7 +26,7 @@
       <link>https://ku-csarch.github.io/post/visiting-ucmerced25/</link>
       <pubDate>Tue, 19 Nov 2024 00:00:00 +0000</pubDate>
       <guid>https://ku-csarch.github.io/post/visiting-ucmerced25/</guid>
-      <description>&lt;p&gt;Jonghyun was selected as a recipient of a Joint Research Program for Outstanding Graduate Students (우수대학원생 국제공동연수) by BK21. He will be working on GPU architectures as a visit graduate student at University of California, Merced.&lt;/p&gt;
+      <description>&lt;p&gt;Jonghyun has been selected as a recipient of the Joint Research Program for Outstanding Graduate Students (우수대학원생 국제공동연수) by BK21. He will be working on GPU architectures as a visit graduate student at University of California, Merced.&lt;/p&gt;
 </description>
     </item>
     
@@ -123,7 +123,7 @@
       <link>https://ku-csarch.github.io/post/accepted-access22/</link>
       <pubDate>Fri, 21 Oct 2022 00:00:00 +0000</pubDate>
       <guid>https://ku-csarch.github.io/post/accepted-access22/</guid>
-      <description>&lt;p&gt;Two papers were accepted to &lt;em&gt;IEEE Access&lt;/em&gt;. One paper proposes &lt;em&gt;GhostLeg&lt;/em&gt;, a low-overhead architectural defense approach against correlation-based GPU security attacks. &lt;em&gt;GhostLeg&lt;/em&gt; selectively applies secure executions for load warps to minimize performance overhead induced by concealing memory coalescing. Another paper presents detailed characteristics of GCN aggregation kernels on GPU via an in-depth analysis using real GPU hardware and a cycle-accurate GPU simulator.&lt;/p&gt;
+      <description>&lt;p&gt;Two papers have been accepted for publication in &lt;em&gt;IEEE Access&lt;/em&gt;. One paper proposes &lt;em&gt;GhostLeg&lt;/em&gt;, a low-overhead architectural defense approach against correlation-based GPU security attacks. &lt;em&gt;GhostLeg&lt;/em&gt; selectively applies secure executions for load warps to minimize performance overhead induced by concealing memory coalescing. Another paper presents detailed characteristics of GCN aggregation kernels on GPU via an in-depth analysis using real GPU hardware and a cycle-accurate GPU simulator.&lt;/p&gt;
 </description>
     </item>
     

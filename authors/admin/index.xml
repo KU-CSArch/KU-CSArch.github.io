@@ -17,7 +17,7 @@
       <link>https://ku-csarch.github.io/post/accepted-ics26/</link>
       <pubDate>Sat, 04 Apr 2026 00:00:00 +0000</pubDate>
       <guid>https://ku-csarch.github.io/post/accepted-ics26/</guid>
-      <description>&lt;p&gt;Two papers were accepted to the &lt;em&gt;ACM International Conference on Supercomputing (ICS) 2026&lt;/em&gt;. One paper proposed &lt;em&gt;SumcheckPIM&lt;/em&gt;, an efficient HBM-based PIM architecture for sumcheck-based ZKPs. &lt;em&gt;SumcheckPIM&lt;/em&gt; employs modular arithmetic units near banks and a Fiat-Shamir unit on a logic die. &lt;em&gt;SumcheckPIM&lt;/em&gt; also introduces an efficient DRAM-aware folding mechanism to minimize bank conflicts in PIM operations. &lt;em&gt;SumcheckPIM&lt;/em&gt; improves the performance of sumcheck protocols dramatically compared to GPU and CPU baselines. Another paper proposes &lt;em&gt;ACE&lt;/em&gt;, an accuracy-aware compute engine for ternary LLM inferences. &lt;em&gt;ACE&lt;/em&gt; integrates compact ternary decoding and scaling directly into the GEMM pipeline. An FPGA prototype of &lt;em&gt;ACE&lt;/em&gt; demonstrates significant accuracy-aware efficiency gains compared to A100 and H100 baselines.&lt;/p&gt;
+      <description>&lt;p&gt;Two papers have been accepted to the &lt;em&gt;ACM International Conference on Supercomputing (ICS) 2026&lt;/em&gt;. One paper proposed &lt;em&gt;SumcheckPIM&lt;/em&gt;, an efficient HBM-based PIM architecture for sumcheck-based ZKPs. &lt;em&gt;SumcheckPIM&lt;/em&gt; employs modular arithmetic units near banks and a Fiat-Shamir unit on a logic die. &lt;em&gt;SumcheckPIM&lt;/em&gt; also introduces an efficient DRAM-aware folding mechanism to minimize bank conflicts in PIM operations. &lt;em&gt;SumcheckPIM&lt;/em&gt; improves the performance of sumcheck protocols dramatically compared to GPU and CPU baselines. Another paper proposes &lt;em&gt;ACE&lt;/em&gt;, an accuracy-aware compute engine for ternary LLM inferences. &lt;em&gt;ACE&lt;/em&gt; integrates compact ternary decoding and scaling directly into the GEMM pipeline. An FPGA prototype of &lt;em&gt;ACE&lt;/em&gt; demonstrates significant accuracy-aware efficiency gains compared to A100 and H100 baselines.&lt;/p&gt;
 </description>
     </item>
     
@@ -436,7 +436,7 @@
       <link>https://ku-csarch.github.io/post/accepted-access24/</link>
       <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
       <guid>https://ku-csarch.github.io/post/accepted-access24/</guid>
-      <description>&lt;p&gt;One paper was accepted to &lt;em&gt;IEEE Access&lt;/em&gt;. Our paper presents a scale-out DNN inference accelerator architecture, called &lt;em&gt;SAVector&lt;/em&gt;, which equips vectored systolic arrays and two-level on-chip buffer architecture. SAVector can reduce energy-delay-product (EDP) by 52% while exhibiting similar performance compared to a scale-up accelerator architecture.&lt;/p&gt;
+      <description>&lt;p&gt;One paper has been accepted for publication in &lt;em&gt;IEEE Access&lt;/em&gt;. Our paper presents a scale-out DNN inference accelerator architecture, called &lt;em&gt;SAVector&lt;/em&gt;, which equips vectored systolic arrays and two-level on-chip buffer architecture. SAVector can reduce energy-delay-product (EDP) by 52% while exhibiting similar performance compared to a scale-up accelerator architecture.&lt;/p&gt;
 </description>
     </item>
     
@@ -566,7 +566,7 @@
       <link>https://ku-csarch.github.io/post/accepted-access23/</link>
       <pubDate>Mon, 13 Mar 2023 00:00:00 +0000</pubDate>
       <guid>https://ku-csarch.github.io/post/accepted-access23/</guid>
-      <description>&lt;p&gt;One paper was accepted to &lt;em&gt;IEEE Access&lt;/em&gt;. Our paper presents an attack scenario, called &lt;em&gt;Vizard&lt;/em&gt;, that can bypass the existing profiling-based detectors. The Vizard attack manipulate cache performance behaviors within the allowed attack windows to hide the unique performance behaviors of cache side-channel attacks.&lt;/p&gt;
+      <description>&lt;p&gt;One paper has been accepted for publication in &lt;em&gt;IEEE Access&lt;/em&gt;. Our paper presents an attack scenario, called &lt;em&gt;Vizard&lt;/em&gt;, that can bypass the existing profiling-based detectors. The Vizard attack manipulate cache performance behaviors within the allowed attack windows to hide the unique performance behaviors of cache side-channel attacks.&lt;/p&gt;
 </description>
     </item>
     
@@ -618,7 +618,7 @@
       <link>https://ku-csarch.github.io/post/accepted-access22/</link>
       <pubDate>Fri, 21 Oct 2022 00:00:00 +0000</pubDate>
       <guid>https://ku-csarch.github.io/post/accepted-access22/</guid>
-      <description>&lt;p&gt;Two papers were accepted to &lt;em&gt;IEEE Access&lt;/em&gt;. One paper proposes &lt;em&gt;GhostLeg&lt;/em&gt;, a low-overhead architectural defense approach against correlation-based GPU security attacks. &lt;em&gt;GhostLeg&lt;/em&gt; selectively applies secure executions for load warps to minimize performance overhead induced by concealing memory coalescing. Another paper presents detailed characteristics of GCN aggregation kernels on GPU via an in-depth analysis using real GPU hardware and a cycle-accurate GPU simulator.&lt;/p&gt;
+      <description>&lt;p&gt;Two papers have been accepted for publication in &lt;em&gt;IEEE Access&lt;/em&gt;. One paper proposes &lt;em&gt;GhostLeg&lt;/em&gt;, a low-overhead architectural defense approach against correlation-based GPU security attacks. &lt;em&gt;GhostLeg&lt;/em&gt; selectively applies secure executions for load warps to minimize performance overhead induced by concealing memory coalescing. Another paper presents detailed characteristics of GCN aggregation kernels on GPU via an in-depth analysis using real GPU hardware and a cycle-accurate GPU simulator.&lt;/p&gt;
 </description>
     </item>
     
