@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Euro-Par | Computer System Architecture Lab</title>
+    <link>https://ku-csarch.github.io/tag/euro-par/</link>
+      <atom:link href="https://ku-csarch.github.io/tag/euro-par/index.xml" rel="self" type="application/rss+xml" />
+    <description>Euro-Par</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 May 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ku-csarch.github.io/media/icon_hufc4ea502f7977d2b250399d95297f953_357528_512x512_fill_lanczos_center_3.png</url>
+      <title>Euro-Par</title>
+      <link>https://ku-csarch.github.io/tag/euro-par/</link>
+    </image>
+    
+    <item>
+      <title>One paper accepted to Euro-Par 2026</title>
+      <link>https://ku-csarch.github.io/post/accepted-europar26/</link>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/accepted-europar26/</guid>
+      <description>&lt;p&gt;One papers was accepted to the &lt;em&gt;The 32nd International European Conference on Parallel and Distributed Computing (Euro-Par)&lt;/em&gt;. Our paper presents characterization and optimization of LLM inferences on Tenstorrent AI accelerators.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
