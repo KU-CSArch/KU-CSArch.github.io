@@ -10,15 +10,99 @@
   <url>
     <loc>https://ku-csarch.github.io/event/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://ku-csarch.github.io/publication-type/2/</loc><lastmod>2026-10-21T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ku-csarch.github.io/tag/aggregation/</loc><lastmod>2026-10-21T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ku-csarch.github.io/authors/</loc><lastmod>2026-10-21T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ku-csarch.github.io/publication/gnn_kernel_access26/</loc><lastmod>2026-10-21T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ku-csarch.github.io/tag/characteristics/</loc><lastmod>2026-10-21T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ku-csarch.github.io/tag/gcn/</loc><lastmod>2026-10-21T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ku-csarch.github.io/authors/geonwoo-choi/</loc><lastmod>2026-10-21T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ku-csarch.github.io/tag/gpu/</loc><lastmod>2026-10-21T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ku-csarch.github.io/tag/graph-neural-networks/</loc><lastmod>2026-10-21T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ku-csarch.github.io/authors/admin/</loc><lastmod>2026-10-21T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ku-csarch.github.io/authors/inje-kim/</loc><lastmod>2026-10-21T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ku-csarch.github.io/authors/jihun-lee/</loc><lastmod>2026-10-21T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ku-csarch.github.io/authors/jonghyun-jeong/</loc><lastmod>2026-10-21T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ku-csarch.github.io/authors/myung-kuk-yoon/</loc><lastmod>2026-10-21T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ku-csarch.github.io/authors/namhun-kim/</loc><lastmod>2026-10-21T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ku-csarch.github.io/publication_types/</loc><lastmod>2026-10-21T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ku-csarch.github.io/publication/</loc><lastmod>2026-10-21T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ku-csarch.github.io/publication/pim_spmv_jsa26/</loc><lastmod>2026-10-21T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ku-csarch.github.io/authors/taeweon-suh/</loc><lastmod>2026-10-21T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ku-csarch.github.io/authors/taewoon-kang/</loc><lastmod>2026-10-21T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ku-csarch.github.io/tags/</loc><lastmod>2026-10-21T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ku-csarch.github.io/authors/yunho-oh/</loc><lastmod>2026-10-21T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ku-csarch.github.io/publication-type/1/</loc><lastmod>2026-08-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ku-csarch.github.io/tag/domain-specific-architecture/</loc><lastmod>2026-08-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ku-csarch.github.io/authors/dongin-shin/</loc><lastmod>2026-08-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ku-csarch.github.io/authors/jangho-lim/</loc><lastmod>2026-08-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ku-csarch.github.io/authors/jinhyeok-choi/</loc><lastmod>2026-08-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ku-csarch.github.io/authors/kyungmin-kim/</loc><lastmod>2026-08-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ku-csarch.github.io/tag/memory-systems/</loc><lastmod>2026-08-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ku-csarch.github.io/publication/npu_analysis_europar26/</loc><lastmod>2026-08-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ku-csarch.github.io/tag/processing-in-memory/</loc><lastmod>2026-08-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ku-csarch.github.io/authors/snagwon-shin/</loc><lastmod>2026-08-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ku-csarch.github.io/authors/snagwoo-park/</loc><lastmod>2026-08-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ku-csarch.github.io/tag/spmv/</loc><lastmod>2026-08-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ku-csarch.github.io/authors/uichan-kim/</loc><lastmod>2026-08-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ku-csarch.github.io/authors/hongjun-um/</loc><lastmod>2026-07-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ku-csarch.github.io/authors/junseok-kang/</loc><lastmod>2026-07-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ku-csarch.github.io/authors/sangwon-shin/</loc><lastmod>2026-07-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ku-csarch.github.io/authors/sangwoo-park/</loc><lastmod>2026-07-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ku-csarch.github.io/publication/npu_tllm_ics26/</loc><lastmod>2026-07-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ku-csarch.github.io/authors/wonseok-jung/</loc><lastmod>2026-07-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ku-csarch.github.io/authors/yongjun-park/</loc><lastmod>2026-07-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ku-csarch.github.io/publication/pim_sumcheck_ics26/</loc><lastmod>2026-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ku-csarch.github.io/authors/sunchae-kim/</loc><lastmod>2026-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ku-csarch.github.io/authors/yibin-yang/</loc><lastmod>2026-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://ku-csarch.github.io/tag/accepted/</loc><lastmod>2026-06-15T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ku-csarch.github.io/authors/</loc><lastmod>2026-06-15T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://ku-csarch.github.io/categories/</loc><lastmod>2026-06-15T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ku-csarch.github.io/authors/geonwoo-choi/</loc><lastmod>2026-06-15T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ku-csarch.github.io/authors/admin/</loc><lastmod>2026-06-15T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ku-csarch.github.io/tag/journal/</loc><lastmod>2026-06-15T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -26,23 +110,11 @@
   <url>
     <loc>https://ku-csarch.github.io/tag/jsa/</loc><lastmod>2026-06-15T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ku-csarch.github.io/authors/namhun-kim/</loc><lastmod>2026-06-15T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://ku-csarch.github.io/post/</loc><lastmod>2026-06-15T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ku-csarch.github.io/post/accepted-jsa26/</loc><lastmod>2026-06-15T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ku-csarch.github.io/authors/taewoon-kang/</loc><lastmod>2026-06-15T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ku-csarch.github.io/tags/</loc><lastmod>2026-06-15T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://ku-csarch.github.io/tag/ieee-access/</loc><lastmod>2026-06-12T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ku-csarch.github.io/authors/inje-kim/</loc><lastmod>2026-06-12T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ku-csarch.github.io/authors/jihun-lee/</loc><lastmod>2026-06-12T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ku-csarch.github.io/authors/jonghyun-jeong/</loc><lastmod>2026-06-12T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ku-csarch.github.io/post/accepted-access26/</loc><lastmod>2026-06-12T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -75,8 +147,6 @@
     <loc>https://ku-csarch.github.io/post/visiting-uiuc26/</loc><lastmod>2026-04-04T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ku-csarch.github.io/authors/narae-kim/</loc><lastmod>2026-04-04T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ku-csarch.github.io/authors/sunchae-kim/</loc><lastmod>2026-04-04T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ku-csarch.github.io/post/accepted-ics26/</loc><lastmod>2026-04-04T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -112,8 +182,6 @@
   <url>
     <loc>https://ku-csarch.github.io/post/visiting-cispa26/</loc><lastmod>2026-03-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ku-csarch.github.io/publication-type/2/</loc><lastmod>2026-02-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://ku-csarch.github.io/tag/accelerator/</loc><lastmod>2026-02-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ku-csarch.github.io/authors/faraz-tahmasebi/</loc><lastmod>2026-02-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
@@ -123,10 +191,6 @@
     <loc>https://ku-csarch.github.io/tag/lns/</loc><lastmod>2026-02-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ku-csarch.github.io/publication/accel_lns_micro26/</loc><lastmod>2026-02-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ku-csarch.github.io/publication_types/</loc><lastmod>2026-02-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ku-csarch.github.io/publication/</loc><lastmod>2026-02-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ku-csarch.github.io/tag/quantization/</loc><lastmod>2026-02-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -178,25 +242,17 @@
   <url>
     <loc>https://ku-csarch.github.io/post/committee-isca26/</loc><lastmod>2025-11-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ku-csarch.github.io/publication-type/1/</loc><lastmod>2025-11-11T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://ku-csarch.github.io/tag/cnn/</loc><lastmod>2025-11-11T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ku-csarch.github.io/publication/accel_cnn_iccd25/</loc><lastmod>2025-11-11T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ku-csarch.github.io/authors/myung-kuk-yoon/</loc><lastmod>2025-11-11T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://ku-csarch.github.io/post/present-iccd25/</loc><lastmod>2025-11-11T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ku-csarch.github.io/authors/yunho-oh/</loc><lastmod>2025-11-11T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ku-csarch.github.io/post/committee-dac26/</loc><lastmod>2025-11-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ku-csarch.github.io/tag/cluter/</loc><lastmod>2025-11-06T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ku-csarch.github.io/publication/gpu_cluster_ack25/</loc><lastmod>2025-11-06T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ku-csarch.github.io/tag/gpu/</loc><lastmod>2025-11-06T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ku-csarch.github.io/authors/hongil-shin/</loc><lastmod>2025-11-06T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -278,17 +334,7 @@
   <url>
     <loc>https://ku-csarch.github.io/publication/gpu_fft_lctes25/</loc><lastmod>2025-06-16T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ku-csarch.github.io/tag/domain-specific-architecture/</loc><lastmod>2025-06-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ku-csarch.github.io/tag/memory-systems/</loc><lastmod>2025-06-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ku-csarch.github.io/tag/processing-in-memory/</loc><lastmod>2025-06-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://ku-csarch.github.io/publication/pim_spmv_ics25/</loc><lastmod>2025-06-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ku-csarch.github.io/tag/spmv/</loc><lastmod>2025-06-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ku-csarch.github.io/authors/taeweon-suh/</loc><lastmod>2025-06-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ku-csarch.github.io/post/present-ics25/</loc><lastmod>2025-06-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -323,8 +369,6 @@
     <loc>https://ku-csarch.github.io/tag/grant/</loc><lastmod>2025-04-08T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ku-csarch.github.io/post/grant-iitp25/</loc><lastmod>2025-04-08T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ku-csarch.github.io/tag/gcn/</loc><lastmod>2025-04-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ku-csarch.github.io/authors/hunjong-lee/</loc><lastmod>2025-04-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -546,13 +590,7 @@
   <url>
     <loc>https://ku-csarch.github.io/post/training-germany22/</loc><lastmod>2022-11-03T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ku-csarch.github.io/tag/aggregation/</loc><lastmod>2022-10-21T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://ku-csarch.github.io/publication/gnn_load_access22/</loc><lastmod>2022-10-21T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ku-csarch.github.io/tag/characteristics/</loc><lastmod>2022-10-21T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ku-csarch.github.io/tag/graph-neural-networks/</loc><lastmod>2022-10-21T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ku-csarch.github.io/post/accepted-access22/</loc><lastmod>2022-10-21T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
