@@ -5,12 +5,21 @@
     <link>https://ku-csarch.github.io/authors/inje-kim/</link>
       <atom:link href="https://ku-csarch.github.io/authors/inje-kim/index.xml" rel="self" type="application/rss+xml" />
     <description>Inje Kim</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 15 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 12 Jun 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ku-csarch.github.io/authors/inje-kim/avatar_hu31766d6f393c75a1474c015f0387e1ed_210024_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Inje Kim</title>
       <link>https://ku-csarch.github.io/authors/inje-kim/</link>
     </image>
+    
+    <item>
+      <title>One paper accepted to IEEE Access (Journal, SCIE)</title>
+      <link>https://ku-csarch.github.io/post/accepted-access26/</link>
+      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/accepted-access26/</guid>
+      <description>&lt;p&gt;One paper has been accepted for publication in &lt;em&gt;IEEE Access&lt;/em&gt;. Our paper presents an efficient kernel design approach for large-scale GNNs on GPU, called &lt;em&gt;BiKD&lt;/em&gt;. BiKD applies CTA-level vertex mapping and bidirectional kernel decomposition approaches to address low hardware resource utilization and inefficient data reuse in L2 cache issues of large-scale GNN kernels on GPU.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Inje has got addmission to UCSC</title>

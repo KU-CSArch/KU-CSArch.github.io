@@ -5,12 +5,21 @@
     <link>https://ku-csarch.github.io/tag/talk/</link>
       <atom:link href="https://ku-csarch.github.io/tag/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Talk</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 11 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 21 May 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ku-csarch.github.io/media/icon_hufc4ea502f7977d2b250399d95297f953_357528_512x512_fill_lanczos_center_3.png</url>
       <title>Talk</title>
       <link>https://ku-csarch.github.io/tag/talk/</link>
     </image>
+    
+    <item>
+      <title>Prof. Gunjae Koo presented at AI Frontier Summit 2026</title>
+      <link>https://ku-csarch.github.io/post/present-aifs26/</link>
+      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/present-aifs26/</guid>
+      <description>&lt;p&gt;Prof. Gunjae Koo was invited to present for the AI infractructure session at the &lt;a href=&#34;https://aifrontiers.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AI Frontier Summit 2026&lt;/a&gt;. He made a talk regarding the computer architecture research trends in AI era. He presented the recent research trends on GPU and PIM .&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Yujin presented at ICCD 2025</title>
