@@ -64,7 +64,7 @@
   
     
   
-  <meta name="description" content="Sparse matrix-vector multiplication (SpMV) is a fundamental operation across diverse domains, including scientific computing, machine learning, and graph processing. However, its irregular memory access patterns necessitate frequent data retrieval from external memory, leading to significant inefficiencies on conventional processors such as CPUs and GPUs. Processing-in-memory (PIM) presents a promising solution to address these performance bottlenecks observed in memory-intensive workloads. However, existing PIM architectures are primarily optimized for dense matrix operations since conventional memory cell structures struggle with the challenges of indirect indexing and unbalanced data distributions inherent in sparse computations. In order to address these challenges, we propose SparsePIM, a novel PIM architecture designed to accelerate SpMV computations efficiently. SparsePIM introduces a DRAM row-aligned format (DRAF) to optimize memory access patterns. SparsePIM exploits K-means-based column group partitioning to achieve a balanced load distribution across memory banks. Furthermore, SparsePIM includes bank group (BG) accumulators to mitigate the performance burdens of accumulating partial sums in SpMV operations. By aggregating partial results across multiple banks, SparsePIM can significantly improve the throughput of sparse matrix computations. Leveraging a combination of hardware and software optimizations, SparsePIM can achieve significant performance gains over cuSPARSE-based SpMV kernels on the GPU. Our evaluation demonstrates that SparsePIM achieves up to 5.61x speedup over SpMV on GPUs." />
+  <meta name="description" content="Zero-knowledge proofs (ZKPs) are emerging as a core technology for privacy-preserving computation. Despite steady progress in protocol and algorithm design, generating these proofs remains computationally intensive, driving growing interest in hardware acceleration for kernels such as number-theoretic transform (NTT) and multi-scalar multiplication (MSM). Among them, the sumcheck protocol offers a compelling alternative with O(n) prover complexity compared to O(nlog n) for NTT-based approaches, yet our analysis reveals its execution is fundamentally memory-bound, with severely underutilized compute resources. This characteristic demands a memory-centric acceleration strategy, in contrast to compute-centric approaches of prior work. To this end, we propose SumcheckPIM, an HBM-based processing-in-memory architecture optimized for the sumcheck protocol. SumcheckPIM introduces 256-bit modular arithmetic units at the bank level to support real-world field sizes, a Fiat-Shamir unit on the logic die for global accumulation and challenge generation, and an inter-bank processing engine enabling protocol completion without host interaction. We also propose a DRAM-aware folding scheme that maximizes row buffer locality through row packing and bank ping-ponging. Our design achieves this while maintaining JEDEC compliance with minimal modifications to existing commercial HBM-PIM architectures. We demonstrate that SumcheckPIM delivers both high performance and efficiency, achieving 5.3× –13.3× and 334.2× –361.1× speedup over GPU and CPU baselines, respectively." />
 
   
   <link rel="alternate" hreflang="en-us" href="https://ku-csarch.github.io/publication/pim_sumcheck_ics26/" />
@@ -308,7 +308,7 @@
   <meta property="og:site_name" content="Computer System Architecture Lab" />
   <meta property="og:url" content="https://ku-csarch.github.io/publication/pim_sumcheck_ics26/" />
   <meta property="og:title" content="SumcheckPIM: An Efficient HBM-Based PIM Architecture for Linear Complexity Zero Knowledge Proofs | Computer System Architecture Lab" />
-  <meta property="og:description" content="Sparse matrix-vector multiplication (SpMV) is a fundamental operation across diverse domains, including scientific computing, machine learning, and graph processing. However, its irregular memory access patterns necessitate frequent data retrieval from external memory, leading to significant inefficiencies on conventional processors such as CPUs and GPUs. Processing-in-memory (PIM) presents a promising solution to address these performance bottlenecks observed in memory-intensive workloads. However, existing PIM architectures are primarily optimized for dense matrix operations since conventional memory cell structures struggle with the challenges of indirect indexing and unbalanced data distributions inherent in sparse computations. In order to address these challenges, we propose SparsePIM, a novel PIM architecture designed to accelerate SpMV computations efficiently. SparsePIM introduces a DRAM row-aligned format (DRAF) to optimize memory access patterns. SparsePIM exploits K-means-based column group partitioning to achieve a balanced load distribution across memory banks. Furthermore, SparsePIM includes bank group (BG) accumulators to mitigate the performance burdens of accumulating partial sums in SpMV operations. By aggregating partial results across multiple banks, SparsePIM can significantly improve the throughput of sparse matrix computations. Leveraging a combination of hardware and software optimizations, SparsePIM can achieve significant performance gains over cuSPARSE-based SpMV kernels on the GPU. Our evaluation demonstrates that SparsePIM achieves up to 5.61x speedup over SpMV on GPUs." /><meta property="og:image" content="https://ku-csarch.github.io/publication/pim_sumcheck_ics26/featured.png" />
+  <meta property="og:description" content="Zero-knowledge proofs (ZKPs) are emerging as a core technology for privacy-preserving computation. Despite steady progress in protocol and algorithm design, generating these proofs remains computationally intensive, driving growing interest in hardware acceleration for kernels such as number-theoretic transform (NTT) and multi-scalar multiplication (MSM). Among them, the sumcheck protocol offers a compelling alternative with O(n) prover complexity compared to O(nlog n) for NTT-based approaches, yet our analysis reveals its execution is fundamentally memory-bound, with severely underutilized compute resources. This characteristic demands a memory-centric acceleration strategy, in contrast to compute-centric approaches of prior work. To this end, we propose SumcheckPIM, an HBM-based processing-in-memory architecture optimized for the sumcheck protocol. SumcheckPIM introduces 256-bit modular arithmetic units at the bank level to support real-world field sizes, a Fiat-Shamir unit on the logic die for global accumulation and challenge generation, and an inter-bank processing engine enabling protocol completion without host interaction. We also propose a DRAM-aware folding scheme that maximizes row buffer locality through row packing and bank ping-ponging. Our design achieves this while maintaining JEDEC compliance with minimal modifications to existing commercial HBM-PIM architectures. We demonstrate that SumcheckPIM delivers both high performance and efficiency, achieving 5.3× –13.3× and 334.2× –361.1× speedup over GPU and CPU baselines, respectively." /><meta property="og:image" content="https://ku-csarch.github.io/publication/pim_sumcheck_ics26/featured.png" />
     <meta property="twitter:image" content="https://ku-csarch.github.io/publication/pim_sumcheck_ics26/featured.png" /><meta property="og:locale" content="en-us" />
   
     
@@ -317,7 +317,7 @@
         content="2026-04-04T00:00:00&#43;00:00"
       />
     
-    <meta property="article:modified_time" content="2026-07-01T00:00:00&#43;00:00">
+    <meta property="article:modified_time" content="2026-07-05T00:00:00&#43;00:00">
   
 
   
@@ -348,7 +348,7 @@
   ],
   
   "datePublished": "2026-04-04T00:00:00Z",
-  "dateModified": "2026-07-01T00:00:00Z",
+  "dateModified": "2026-07-05T00:00:00Z",
   
   "author": {
     "@type": "Person",
@@ -363,7 +363,7 @@
       "url": "https://ku-csarch.github.io/media/icon_hufc4ea502f7977d2b250399d95297f953_357528_192x192_fill_lanczos_center_3.png"
     }
   },
-  "description": "Sparse matrix-vector multiplication (SpMV) is a fundamental operation across diverse domains, including scientific computing, machine learning, and graph processing. However, its irregular memory access patterns necessitate frequent data retrieval from external memory, leading to significant inefficiencies on conventional processors such as CPUs and GPUs. Processing-in-memory (PIM) presents a promising solution to address these performance bottlenecks observed in memory-intensive workloads. However, existing PIM architectures are primarily optimized for dense matrix operations since conventional memory cell structures struggle with the challenges of indirect indexing and unbalanced data distributions inherent in sparse computations. In order to address these challenges, we propose SparsePIM, a novel PIM architecture designed to accelerate SpMV computations efficiently. SparsePIM introduces a DRAM row-aligned format (DRAF) to optimize memory access patterns. SparsePIM exploits K-means-based column group partitioning to achieve a balanced load distribution across memory banks. Furthermore, SparsePIM includes bank group (BG) accumulators to mitigate the performance burdens of accumulating partial sums in SpMV operations. By aggregating partial results across multiple banks, SparsePIM can significantly improve the throughput of sparse matrix computations. Leveraging a combination of hardware and software optimizations, SparsePIM can achieve significant performance gains over cuSPARSE-based SpMV kernels on the GPU. Our evaluation demonstrates that SparsePIM achieves up to 5.61x speedup over SpMV on GPUs."
+  "description": "Zero-knowledge proofs (ZKPs) are emerging as a core technology for privacy-preserving computation. Despite steady progress in protocol and algorithm design, generating these proofs remains computationally intensive, driving growing interest in hardware acceleration for kernels such as number-theoretic transform (NTT) and multi-scalar multiplication (MSM). Among them, the sumcheck protocol offers a compelling alternative with O(n) prover complexity compared to O(nlog n) for NTT-based approaches, yet our analysis reveals its execution is fundamentally memory-bound, with severely underutilized compute resources. This characteristic demands a memory-centric acceleration strategy, in contrast to compute-centric approaches of prior work. To this end, we propose SumcheckPIM, an HBM-based processing-in-memory architecture optimized for the sumcheck protocol. SumcheckPIM introduces 256-bit modular arithmetic units at the bank level to support real-world field sizes, a Fiat-Shamir unit on the logic die for global accumulation and challenge generation, and an inter-bank processing engine enabling protocol completion without host interaction. We also propose a DRAM-aware folding scheme that maximizes row buffer locality through row packing and bank ping-ponging. Our design achieves this while maintaining JEDEC compliance with minimal modifications to existing commercial HBM-PIM architectures. We demonstrate that SumcheckPIM delivers both high performance and efficiency, achieving 5.3× –13.3× and 334.2× –361.1× speedup over GPU and CPU baselines, respectively."
 }
 </script>
 
@@ -874,7 +874,7 @@
 
 
 
-<a class="btn btn-outline-primary btn-page-header" href="https://filedn.com/luEeJVCCazShDlU4ibloXvu/publication/pim_spmv_ics25/pim_spmv_ics25.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header" href="https://filedn.com/luEeJVCCazShDlU4ibloXvu/publication/pim_sumcheck_ics26/pim_sumcheck_ics26.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
@@ -903,7 +903,7 @@
   
     
   
-<a class="btn btn-outline-primary btn-page-header" href="https://filedn.com/luEeJVCCazShDlU4ibloXvu/publication/pim_spmv_ics25/pim_spmv_ics25_slides.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header" href="https://filedn.com/luEeJVCCazShDlU4ibloXvu/publication/pim_sumcheck_ics26/pim_sumcheck_ics26_slides.pdf" target="_blank" rel="noopener">
   Slides
 </a>
 
@@ -911,7 +911,7 @@
 
 
 
-<a class="btn btn-outline-primary btn-page-header" href="https://doi.org/10.1145/3721145.3735111" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header" href="https://doi.org/10.1145/3797905.3807843" target="_blank" rel="noopener">
   DOI
 </a>
 
@@ -927,7 +927,7 @@
   
     
   
-  <a class="btn btn-outline-primary btn-page-header" href="https://filedn.com/luEeJVCCazShDlU4ibloXvu/publication/pim_spmv_ics25/pim_spmv_ics25_slides.ppsx" target="_blank" rel="noopener">
+  <a class="btn btn-outline-primary btn-page-header" href="https://filedn.com/luEeJVCCazShDlU4ibloXvu/publication/pim_sumcheck_ics26/pim_sumcheck_ics26_slides.ppsx" target="_blank" rel="noopener">
     Slide Show</a>
 
 
@@ -937,10 +937,10 @@
 </div>
 
 
-<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 451px;">
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 670px; max-height: 349px;">
   <div style="position: relative">
-    <img src="/publication/pim_sumcheck_ics26/featured_hu7a953657bbd45bf5712c8354f27830cb_149975_720x2500_fit_q75_h2_lanczos_3.webp" width="720" height="451" alt="" class="featured-image">
-    <span class="article-header-caption">SparsePIM Architecture</span>
+    <img src="/publication/pim_sumcheck_ics26/featured_hu8b9b027fbb4d5fb05aa62a62f0f31420_56414_720x2500_fit_q75_h2_lanczos_3.webp" width="670" height="349" alt="" class="featured-image">
+    <span class="article-header-caption">SumcheckPIM Architecture</span>
   </div>
 </div>
 
@@ -950,7 +950,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract">Sparse matrix-vector multiplication (SpMV) is a fundamental operation across diverse domains, including scientific computing, machine learning, and graph processing. However, its irregular memory access patterns necessitate frequent data retrieval from external memory, leading to significant inefficiencies on conventional processors such as CPUs and GPUs. Processing-in-memory (PIM) presents a promising solution to address these performance bottlenecks observed in memory-intensive workloads. However, existing PIM architectures are primarily optimized for dense matrix operations since conventional memory cell structures struggle with the challenges of indirect indexing and unbalanced data distributions inherent in sparse computations. In order to address these challenges, we propose SparsePIM, a novel PIM architecture designed to accelerate SpMV computations efficiently. SparsePIM introduces a DRAM row-aligned format (DRAF) to optimize memory access patterns. SparsePIM exploits K-means-based column group partitioning to achieve a balanced load distribution across memory banks. Furthermore, SparsePIM includes bank group (BG) accumulators to mitigate the performance burdens of accumulating partial sums in SpMV operations. By aggregating partial results across multiple banks, SparsePIM can significantly improve the throughput of sparse matrix computations. Leveraging a combination of hardware and software optimizations, SparsePIM can achieve significant performance gains over cuSPARSE-based SpMV kernels on the GPU. Our evaluation demonstrates that SparsePIM achieves up to 5.61x speedup over SpMV on GPUs.</p>
+    <p class="pub-abstract">Zero-knowledge proofs (ZKPs) are emerging as a core technology for privacy-preserving computation. Despite steady progress in protocol and algorithm design, generating these proofs remains computationally intensive, driving growing interest in hardware acceleration for kernels such as number-theoretic transform (NTT) and multi-scalar multiplication (MSM). Among them, the sumcheck protocol offers a compelling alternative with O(n) prover complexity compared to O(nlog n) for NTT-based approaches, yet our analysis reveals its execution is fundamentally memory-bound, with severely underutilized compute resources. This characteristic demands a memory-centric acceleration strategy, in contrast to compute-centric approaches of prior work. To this end, we propose SumcheckPIM, an HBM-based processing-in-memory architecture optimized for the sumcheck protocol. SumcheckPIM introduces 256-bit modular arithmetic units at the bank level to support real-world field sizes, a Fiat-Shamir unit on the logic die for global accumulation and challenge generation, and an inter-bank processing engine enabling protocol completion without host interaction. We also propose a DRAM-aware folding scheme that maximizes row buffer locality through row packing and bank ping-ponging. Our design achieves this while maintaining JEDEC compliance with minimal modifications to existing commercial HBM-PIM architectures. We demonstrate that SumcheckPIM delivers both high performance and efficiency, achieving 5.3× –13.3× and 334.2× –361.1× speedup over GPU and CPU baselines, respectively.</p>
     
 
     
@@ -999,11 +999,9 @@
   
   <a class="badge badge-light" href="/tag/processing-in-memory/">Processing in Memory</a>
   
-  <a class="badge badge-light" href="/tag/spmv/">SpMV</a>
+  <a class="badge badge-light" href="/tag/zero-knowledge-proof/">Zero-Knowledge Proof</a>
   
-  <a class="badge badge-light" href="/tag/domain-specific-architecture/">Domain Specific Architecture</a>
-  
-  <a class="badge badge-light" href="/tag/memory-systems/">Memory Systems</a>
+  <a class="badge badge-light" href="/tag/sumcheck-protocol/">Sumcheck Protocol</a>
   
 </div>
 
@@ -1264,7 +1262,7 @@
       
     
     <li>
-      <a href="https://filedn.com/luEeJVCCazShDlU4ibloXvu/gunjae/Gunjae_CV.pdf" target="_blank" rel="noopener">
+      <a href="https://taewoon-kang.github.io/resume/" target="_blank" rel="noopener">
         <i class="ai ai-cv"></i>
       </a>
     </li>

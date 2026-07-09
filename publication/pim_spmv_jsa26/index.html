@@ -64,7 +64,7 @@
   
     
   
-  <meta name="description" content="Graph convolutional neural networks (GCNs) are emerging neural networks for graph structures that include large features associated with each vertex. The operations of GCN can be divided into two phases - aggregation and combination. While the combination just performs matrix multiplications using trained weights and aggregated features, the aggregation phase requires graph traversal to collect features from adjacent vertices. Even though neural network applications rely on GPU&#39;s massively parallel processing, GCN aggregation kernels exhibit rather low performance since graph processing using compressed graph structures provokes frequent irregular accesses in GPUs. In order to investigate the performance hurdles of GCN aggregation on GPU, we perform an in-depth analysis of the aggregation kernels using real GPU hardware and a cycle-accurate GPU simulator. We first analyze the characteristics of the popular graph datasets used for GCN studies. We reveal the fractions of non-zero elements in feature vectors are diverse among datasets. Based on the observation, we build two types of aggregation kernels that handle uncompressed and compressed feature vectors. Our evaluation exhibits the performance of aggregation can be significantly influenced by kernel design approaches and feature density. We also analyze the individual loads that access the data arrays of the aggregation kernels to specify critical loads. Our analysis reveals the performance of GPU memory hierarchy is influenced by access patterns and feature size of graph datasets. Based on our observations we discuss possible kernel design approaches and architectural ideas that can improve the performance of GCN aggregation." />
+  <meta name="description" content="Sparse matrix–vector multiplication (SpMV) is a fundamental kernel in many applications, yet its performance is severely limited by irregular memory accesses and the accumulation of partial results on conventional architectures. While processing-in-memory (PIM) architectures mitigate data-movement overhead using high internal bandwidth, efficiently handling sparse data layouts and reducing partial results across distributed memory banks remain key challenges. This paper proposes SparsePIM&#43;, an HBM-based PIM architecture that accelerates SpMV through software–hardware co-design. SparsePIM&#43; introduces a software optimization that clusters matrix columns based on row-index similarity while balancing non-zero element distribution across bank groups to improve accumulation parallelism. It also employs a DRAM row-aligned sparse format (DRAF) that aligns sparse operands with DRAM row-buffer granularity to reduce indirect memory accesses and redundant data movement. On the hardware side, SparsePIM&#43; integrates bank-group accumulators (BGAs) for local accumulation within each bank group, where a bank group consists of four banks, and a logic-die global accumulator (GA) that aggregates partial results across bank groups via a lightweight arbitrator. The accumulated results are stored in an on-die buffer accessible by host memory controllers, enabling concurrent PIM execution and accumulation. Experimental results show that SparsePIM&#43; significantly improves accumulation efficiency and achieves an average speedup of 1.38x over prior HBM-based PIM designs for SpMV and 6.16x over an NVIDIA RTX 3080 GPU baseline, with a maximum speedup of up to 15.48x." />
 
   
   <link rel="alternate" hreflang="en-us" href="https://ku-csarch.github.io/publication/pim_spmv_jsa26/" />
@@ -308,16 +308,16 @@
   <meta property="og:site_name" content="Computer System Architecture Lab" />
   <meta property="og:url" content="https://ku-csarch.github.io/publication/pim_spmv_jsa26/" />
   <meta property="og:title" content="SparsePIM&#43;: Accelerating SpMV on HBM-Based PIM via Logic-Die Accumulators with Opportunistic TSV Utilization | Computer System Architecture Lab" />
-  <meta property="og:description" content="Graph convolutional neural networks (GCNs) are emerging neural networks for graph structures that include large features associated with each vertex. The operations of GCN can be divided into two phases - aggregation and combination. While the combination just performs matrix multiplications using trained weights and aggregated features, the aggregation phase requires graph traversal to collect features from adjacent vertices. Even though neural network applications rely on GPU&#39;s massively parallel processing, GCN aggregation kernels exhibit rather low performance since graph processing using compressed graph structures provokes frequent irregular accesses in GPUs. In order to investigate the performance hurdles of GCN aggregation on GPU, we perform an in-depth analysis of the aggregation kernels using real GPU hardware and a cycle-accurate GPU simulator. We first analyze the characteristics of the popular graph datasets used for GCN studies. We reveal the fractions of non-zero elements in feature vectors are diverse among datasets. Based on the observation, we build two types of aggregation kernels that handle uncompressed and compressed feature vectors. Our evaluation exhibits the performance of aggregation can be significantly influenced by kernel design approaches and feature density. We also analyze the individual loads that access the data arrays of the aggregation kernels to specify critical loads. Our analysis reveals the performance of GPU memory hierarchy is influenced by access patterns and feature size of graph datasets. Based on our observations we discuss possible kernel design approaches and architectural ideas that can improve the performance of GCN aggregation." /><meta property="og:image" content="https://ku-csarch.github.io/publication/pim_spmv_jsa26/featured.png" />
+  <meta property="og:description" content="Sparse matrix–vector multiplication (SpMV) is a fundamental kernel in many applications, yet its performance is severely limited by irregular memory accesses and the accumulation of partial results on conventional architectures. While processing-in-memory (PIM) architectures mitigate data-movement overhead using high internal bandwidth, efficiently handling sparse data layouts and reducing partial results across distributed memory banks remain key challenges. This paper proposes SparsePIM&#43;, an HBM-based PIM architecture that accelerates SpMV through software–hardware co-design. SparsePIM&#43; introduces a software optimization that clusters matrix columns based on row-index similarity while balancing non-zero element distribution across bank groups to improve accumulation parallelism. It also employs a DRAM row-aligned sparse format (DRAF) that aligns sparse operands with DRAM row-buffer granularity to reduce indirect memory accesses and redundant data movement. On the hardware side, SparsePIM&#43; integrates bank-group accumulators (BGAs) for local accumulation within each bank group, where a bank group consists of four banks, and a logic-die global accumulator (GA) that aggregates partial results across bank groups via a lightweight arbitrator. The accumulated results are stored in an on-die buffer accessible by host memory controllers, enabling concurrent PIM execution and accumulation. Experimental results show that SparsePIM&#43; significantly improves accumulation efficiency and achieves an average speedup of 1.38x over prior HBM-based PIM designs for SpMV and 6.16x over an NVIDIA RTX 3080 GPU baseline, with a maximum speedup of up to 15.48x." /><meta property="og:image" content="https://ku-csarch.github.io/publication/pim_spmv_jsa26/featured.png" />
     <meta property="twitter:image" content="https://ku-csarch.github.io/publication/pim_spmv_jsa26/featured.png" /><meta property="og:locale" content="en-us" />
   
     
       <meta
         property="article:published_time"
-        content="2026-06-15T00:00:00&#43;00:00"
+        content="2026-06-19T00:00:00&#43;00:00"
       />
     
-    <meta property="article:modified_time" content="2026-10-21T00:00:00&#43;00:00">
+    <meta property="article:modified_time" content="2026-06-19T00:00:00&#43;00:00">
   
 
   
@@ -347,8 +347,8 @@
     "https://ku-csarch.github.io/publication/pim_spmv_jsa26/featured.png"
   ],
   
-  "datePublished": "2026-06-15T00:00:00Z",
-  "dateModified": "2026-10-21T00:00:00Z",
+  "datePublished": "2026-06-19T00:00:00Z",
+  "dateModified": "2026-06-19T00:00:00Z",
   
   "author": {
     "@type": "Person",
@@ -363,7 +363,7 @@
       "url": "https://ku-csarch.github.io/media/icon_hufc4ea502f7977d2b250399d95297f953_357528_192x192_fill_lanczos_center_3.png"
     }
   },
-  "description": "Graph convolutional neural networks (GCNs) are emerging neural networks for graph structures that include large features associated with each vertex. The operations of GCN can be divided into two phases - aggregation and combination. While the combination just performs matrix multiplications using trained weights and aggregated features, the aggregation phase requires graph traversal to collect features from adjacent vertices. Even though neural network applications rely on GPU's massively parallel processing, GCN aggregation kernels exhibit rather low performance since graph processing using compressed graph structures provokes frequent irregular accesses in GPUs. In order to investigate the performance hurdles of GCN aggregation on GPU, we perform an in-depth analysis of the aggregation kernels using real GPU hardware and a cycle-accurate GPU simulator. We first analyze the characteristics of the popular graph datasets used for GCN studies. We reveal the fractions of non-zero elements in feature vectors are diverse among datasets. Based on the observation, we build two types of aggregation kernels that handle uncompressed and compressed feature vectors. Our evaluation exhibits the performance of aggregation can be significantly influenced by kernel design approaches and feature density. We also analyze the individual loads that access the data arrays of the aggregation kernels to specify critical loads. Our analysis reveals the performance of GPU memory hierarchy is influenced by access patterns and feature size of graph datasets. Based on our observations we discuss possible kernel design approaches and architectural ideas that can improve the performance of GCN aggregation."
+  "description": "Sparse matrix–vector multiplication (SpMV) is a fundamental kernel in many applications, yet its performance is severely limited by irregular memory accesses and the accumulation of partial results on conventional architectures. While processing-in-memory (PIM) architectures mitigate data-movement overhead using high internal bandwidth, efficiently handling sparse data layouts and reducing partial results across distributed memory banks remain key challenges. This paper proposes SparsePIM+, an HBM-based PIM architecture that accelerates SpMV through software–hardware co-design. SparsePIM+ introduces a software optimization that clusters matrix columns based on row-index similarity while balancing non-zero element distribution across bank groups to improve accumulation parallelism. It also employs a DRAM row-aligned sparse format (DRAF) that aligns sparse operands with DRAM row-buffer granularity to reduce indirect memory accesses and redundant data movement. On the hardware side, SparsePIM+ integrates bank-group accumulators (BGAs) for local accumulation within each bank group, where a bank group consists of four banks, and a logic-die global accumulator (GA) that aggregates partial results across bank groups via a lightweight arbitrator. The accumulated results are stored in an on-die buffer accessible by host memory controllers, enabling concurrent PIM execution and accumulation. Experimental results show that SparsePIM+ significantly improves accumulation efficiency and achieves an average speedup of 1.38x over prior HBM-based PIM designs for SpMV and 6.16x over an NVIDIA RTX 3080 GPU baseline, with a maximum speedup of up to 15.48x."
 }
 </script>
 
@@ -833,7 +833,7 @@
     
       
     
-    October, 2026
+    June, 2026
   </span>
   
 
@@ -873,7 +873,7 @@
 
 
 
-<a class="btn btn-outline-primary btn-page-header" href="https://filedn.com/luEeJVCCazShDlU4ibloXvu/publication/gnn_load_access22/gnn_load_access22.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header" href="https://filedn.com/luEeJVCCazShDlU4ibloXvu/publication/pim_spmv_jsa26/pim_spmv_jsa26.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
@@ -889,13 +889,7 @@
 
 
   
-  <a class="btn btn-outline-primary btn-page-header" href="/project/dsa/">
-    Project
-  </a>
-  
-
-  
-  <a class="btn btn-outline-primary btn-page-header" href="/project/gpu/">
+  <a class="btn btn-outline-primary btn-page-header" href="/project/memory/">
     Project
   </a>
   
@@ -908,7 +902,7 @@
 
 
 
-<a class="btn btn-outline-primary btn-page-header" href="https://doi.org/10.1109/ACCESS.2022.3217222" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header" href="https://doi.org/10.1016/j.sysarc.2026.103896" target="_blank" rel="noopener">
   DOI
 </a>
 
@@ -920,9 +914,9 @@
 </div>
 
 
-<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 660px; max-height: 279px;">
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 635px; max-height: 339px;">
   <div style="position: relative">
-    <img src="/publication/pim_spmv_jsa26/featured_hue720b569bae93ee25f9f048bc57dd6e0_58890_720x2500_fit_q75_h2_lanczos_3.webp" width="660" height="279" alt="" class="featured-image">
+    <img src="/publication/pim_spmv_jsa26/featured_hu9522f80b3f17b3194e59a96ca6ab754a_84773_720x2500_fit_q75_h2_lanczos_3.webp" width="635" height="339" alt="" class="featured-image">
     
   </div>
 </div>
@@ -933,7 +927,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract">Graph convolutional neural networks (GCNs) are emerging neural networks for graph structures that include large features associated with each vertex. The operations of GCN can be divided into two phases - aggregation and combination. While the combination just performs matrix multiplications using trained weights and aggregated features, the aggregation phase requires graph traversal to collect features from adjacent vertices. Even though neural network applications rely on GPU&rsquo;s massively parallel processing, GCN aggregation kernels exhibit rather low performance since graph processing using compressed graph structures provokes frequent irregular accesses in GPUs. In order to investigate the performance hurdles of GCN aggregation on GPU, we perform an in-depth analysis of the aggregation kernels using real GPU hardware and a cycle-accurate GPU simulator. We first analyze the characteristics of the popular graph datasets used for GCN studies. We reveal the fractions of non-zero elements in feature vectors are diverse among datasets. Based on the observation, we build two types of aggregation kernels that handle uncompressed and compressed feature vectors. Our evaluation exhibits the performance of aggregation can be significantly influenced by kernel design approaches and feature density. We also analyze the individual loads that access the data arrays of the aggregation kernels to specify critical loads. Our analysis reveals the performance of GPU memory hierarchy is influenced by access patterns and feature size of graph datasets. Based on our observations we discuss possible kernel design approaches and architectural ideas that can improve the performance of GCN aggregation.</p>
+    <p class="pub-abstract">Sparse matrix–vector multiplication (SpMV) is a fundamental kernel in many applications, yet its performance is severely limited by irregular memory accesses and the accumulation of partial results on conventional architectures. While processing-in-memory (PIM) architectures mitigate data-movement overhead using high internal bandwidth, efficiently handling sparse data layouts and reducing partial results across distributed memory banks remain key challenges. This paper proposes SparsePIM+, an HBM-based PIM architecture that accelerates SpMV through software–hardware co-design. SparsePIM+ introduces a software optimization that clusters matrix columns based on row-index similarity while balancing non-zero element distribution across bank groups to improve accumulation parallelism. It also employs a DRAM row-aligned sparse format (DRAF) that aligns sparse operands with DRAM row-buffer granularity to reduce indirect memory accesses and redundant data movement. On the hardware side, SparsePIM+ integrates bank-group accumulators (BGAs) for local accumulation within each bank group, where a bank group consists of four banks, and a logic-die global accumulator (GA) that aggregates partial results across bank groups via a lightweight arbitrator. The accumulated results are stored in an on-die buffer accessible by host memory controllers, enabling concurrent PIM execution and accumulation. Experimental results show that SparsePIM+ significantly improves accumulation efficiency and achieves an average speedup of 1.38x over prior HBM-based PIM designs for SpMV and 6.16x over an NVIDIA RTX 3080 GPU baseline, with a maximum speedup of up to 15.48x.</p>
     
 
     
@@ -980,15 +974,13 @@
 
 <div class="article-tags">
   
-  <a class="badge badge-light" href="/tag/graph-neural-networks/">Graph Neural Networks</a>
+  <a class="badge badge-light" href="/tag/processing-in-memory/">Processing in Memory</a>
   
-  <a class="badge badge-light" href="/tag/gcn/">GCN</a>
+  <a class="badge badge-light" href="/tag/hbm-pim/">HBM-PIM</a>
   
-  <a class="badge badge-light" href="/tag/aggregation/">Aggregation</a>
+  <a class="badge badge-light" href="/tag/spmv/">SpMV</a>
   
-  <a class="badge badge-light" href="/tag/gpu/">GPU</a>
-  
-  <a class="badge badge-light" href="/tag/characteristics/">Characteristics</a>
+  <a class="badge badge-light" href="/tag/logic-die/">Logic-die</a>
   
 </div>
 
@@ -1170,7 +1162,7 @@
       
     
     <li>
-      <a href="https://filedn.com/luEeJVCCazShDlU4ibloXvu/gunjae/Gunjae_CV.pdf" target="_blank" rel="noopener">
+      <a href="https://taewoon-kang.github.io/resume/" target="_blank" rel="noopener">
         <i class="ai ai-cv"></i>
       </a>
     </li>

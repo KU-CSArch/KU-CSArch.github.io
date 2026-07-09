@@ -5,12 +5,21 @@
     <link>https://ku-csarch.github.io/post/</link>
       <atom:link href="https://ku-csarch.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>News</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 15 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 08 Jul 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ku-csarch.github.io/media/icon_hufc4ea502f7977d2b250399d95297f953_357528_512x512_fill_lanczos_center_3.png</url>
       <title>News</title>
       <link>https://ku-csarch.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>Two papers accepted to MICRO 2026</title>
+      <link>https://ku-csarch.github.io/post/accepted-micro26/</link>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/accepted-micro26/</guid>
+      <description>&lt;p&gt;Two papers were accepted to the &lt;em&gt;59th IEEE/ACM International Symposimum on Microarchitecture (MICRO) 2026&lt;/em&gt;. One paper proposes a fault entry merging mechanism for efficient batching in unified virtual memory (UVM) of GPU. Our proposed merging scheme enables direct fault entry merging on GPU without intervention from the host. Another paper presents &lt;em&gt;Complex Tensor Core&lt;/em&gt;, an efficient Tensor Core architecture for accelerating complex-valued neural networks (CVNNs) on GPU. &lt;em&gt;Complex Tensor Core&lt;/em&gt; combines real and imaginary part products into a single operation on Tensor Core.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>One paper accepted to Journal of Systems Architecture (Journal, SCIE)</title>
@@ -27,6 +36,15 @@
       <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
       <guid>https://ku-csarch.github.io/post/accepted-access26/</guid>
       <description>&lt;p&gt;One paper has been accepted for publication in &lt;em&gt;IEEE Access&lt;/em&gt;. Our paper presents an efficient kernel design approach for large-scale GNNs on GPU, called &lt;em&gt;BiKD&lt;/em&gt;. BiKD applies CTA-level vertex mapping and bidirectional kernel decomposition approaches to address low hardware resource utilization and inefficient data reuse in L2 cache issues of large-scale GNN kernels on GPU.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Prof. Gunjae Koo will be serving on the program committee for HPCA 2027</title>
+      <link>https://ku-csarch.github.io/post/committee-hpca27/</link>
+      <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/committee-hpca27/</guid>
+      <description>&lt;p&gt;Prof. Gunjae Koo will be serving as a regular member on the program committee for the 33rd IEEE International Symposium on High-Performance Computer Architecture (&lt;a href=&#34;https://hpca-conf.org/2027/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HPCA 2027&lt;/a&gt;). HPCA 2027 will be held in Salt Lake City, UT, USA. Please submit your best work!&lt;/p&gt;
 </description>
     </item>
     

@@ -5,7 +5,7 @@
     <link>https://ku-csarch.github.io/authors/geonwoo-choi/</link>
       <atom:link href="https://ku-csarch.github.io/authors/geonwoo-choi/index.xml" rel="self" type="application/rss+xml" />
     <description>Geonwoo Choi</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 21 Oct 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 22 Jun 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ku-csarch.github.io/authors/geonwoo-choi/avatar_hu992408b2759e6792b2b447c1cfdeead3_108375_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Geonwoo Choi</title>
@@ -15,7 +15,7 @@
     <item>
       <title>BiKD: Bidirectional Kernel Decomposition for Large-Scale GCNs on GPU</title>
       <link>https://ku-csarch.github.io/publication/gnn_kernel_access26/</link>
-      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
       <guid>https://ku-csarch.github.io/publication/gnn_kernel_access26/</guid>
       <description></description>
     </item>
@@ -23,7 +23,7 @@
     <item>
       <title>SparsePIM&#43;: Accelerating SpMV on HBM-Based PIM via Logic-Die Accumulators with Opportunistic TSV Utilization</title>
       <link>https://ku-csarch.github.io/publication/pim_spmv_jsa26/</link>
-      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 +0000</pubDate>
       <guid>https://ku-csarch.github.io/publication/pim_spmv_jsa26/</guid>
       <description></description>
     </item>

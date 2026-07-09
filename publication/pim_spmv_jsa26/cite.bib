@@ -1,10 +1,13 @@
-@article{gnn_load_access22,
-  author={Kim, Inje and Jeong, Jonghyun and Oh, Yunho and Yoon, Myung Kuk and Koo, Gunjae},
-  journal={IEEE Access},
-  title={Analyzing GCN Aggregation on GPU},
-  year={2022},
-  volume={10},
-  number={},
-  pages={113046-113060},
-  doi={10.1109/ACCESS.2022.3217222}
+@article{pim_spmv_jsa26,
+title = {SparsePIM+: Accelerating SpMV on HBM-based PIM via logic-die accumulators with opportunistic TSV utilization},
+journal = {Journal of Systems Architecture},
+volume = {178},
+pages = {103896},
+year = {2026},
+issn = {1383-7621},
+doi = {https://doi.org/10.1016/j.sysarc.2026.103896},
+url = {https://www.sciencedirect.com/science/article/pii/S1383762126002146},
+author = {Taewoon Kang and Namhun Kim and Geonwoo Choi and Taeweon Suh and Gunjae Koo},
+keywords = {HBM-PIM, SpMV, Sparse matrix, Processing in memory, Logic-die accumulator},
+abstract = {Sparse matrix–vector multiplication (SpMV) is a fundamental kernel in many applications, yet its performance is severely limited by irregular memory accesses and the accumulation of partial results on conventional architectures. While processing-in-memory (PIM) architectures mitigate data-movement overhead using high internal bandwidth, efficiently handling sparse data layouts and reducing partial results across distributed memory banks remain key challenges. This paper proposes SparsePIM+, an HBM-based PIM architecture that accelerates SpMV through software–hardware co-design. SparsePIM+ introduces a software optimization that clusters matrix columns based on row-index similarity while balancing non-zero element distribution across bank groups to improve accumulation parallelism. It also employs a DRAM row-aligned sparse format (DRAF) that aligns sparse operands with DRAM row-buffer granularity to reduce indirect memory accesses and redundant data movement. On the hardware side, SparsePIM+ integrates bank-group accumulators (BGAs) for local accumulation within each bank group, where a bank group consists of four banks, and a logic-die global accumulator (GA) that aggregates partial results across bank groups via a lightweight arbitrator. The accumulated results are stored in an on-die buffer accessible by host memory controllers, enabling concurrent PIM execution and accumulation. Experimental results show that SparsePIM+ significantly improves accumulation efficiency and achieves an average speedup of 1.38× over prior HBM-based PIM designs for SpMV and 6.16× over an NVIDIA RTX 3080 GPU baseline, with a maximum speedup of up to 15.48×.}
 }

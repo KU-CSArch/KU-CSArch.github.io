@@ -64,7 +64,7 @@
   
     
   
-  <meta name="description" content="Graph convolutional neural networks (GCNs) are emerging neural networks for graph structures that include large features associated with each vertex. The operations of GCN can be divided into two phases - aggregation and combination. While the combination just performs matrix multiplications using trained weights and aggregated features, the aggregation phase requires graph traversal to collect features from adjacent vertices. Even though neural network applications rely on GPU&#39;s massively parallel processing, GCN aggregation kernels exhibit rather low performance since graph processing using compressed graph structures provokes frequent irregular accesses in GPUs. In order to investigate the performance hurdles of GCN aggregation on GPU, we perform an in-depth analysis of the aggregation kernels using real GPU hardware and a cycle-accurate GPU simulator. We first analyze the characteristics of the popular graph datasets used for GCN studies. We reveal the fractions of non-zero elements in feature vectors are diverse among datasets. Based on the observation, we build two types of aggregation kernels that handle uncompressed and compressed feature vectors. Our evaluation exhibits the performance of aggregation can be significantly influenced by kernel design approaches and feature density. We also analyze the individual loads that access the data arrays of the aggregation kernels to specify critical loads. Our analysis reveals the performance of GPU memory hierarchy is influenced by access patterns and feature size of graph datasets. Based on our observations we discuss possible kernel design approaches and architectural ideas that can improve the performance of GCN aggregation." />
+  <meta name="description" content="Graph convolutional neural networks (GCNs) are representative graph neural network (GNN) models that can be used for analyzing and classifying nodes in graph structures. Since graph structures exhibit extremely sparse and irregular connections among many vertices, graph processing is not efficient on GPUs as GPUs are designed for accelerating regularly structured datasets. Since GCN kernels handle large feature data associated with vertices, GCN kernels exhibit extremely low efficiency on GPU. We analyze the behavior of the GCN aggregation kernel on GPU to reveal the performance hurdles of GCN kernels. In this paper, we propose an efficient GCN kernel design approach, called BiKD. We first propose a CTA-level vertex mapping approach to tackle the lower resource utilization in GPU. We reveal that the GPU’s kernel execution model is not efficient for handling unbalanced graph structures. By mapping vertices to multiple CTAs in GCN aggregation kernels, GPUs can instantly assign available resources to new CTAs without synchronization among multiple vertices. Then we propose kernel decomposition approaches to reduce the data structure size handled by a single GCN aggregation kernel. We observe GPU’s L2 cache cannot exploit inter-vertex locality since the size of feature data associated with vertices is significantly large compared to the L2 cache space. Our evaluation shows that the proposed kernel design improves GCN aggregation performance by 1.31× over GE-SpMM, 1.39× over DGL with METIS reordering (DGL-METIS), 2.11× over GNNAdvisor, and 2.22× over the baseline DGL implementation. We also observe that the proposed kernel design can improve the utilization of the GPU’s cache hierarchy dramatically." />
 
   
   <link rel="alternate" hreflang="en-us" href="https://ku-csarch.github.io/publication/gnn_kernel_access26/" />
@@ -308,16 +308,16 @@
   <meta property="og:site_name" content="Computer System Architecture Lab" />
   <meta property="og:url" content="https://ku-csarch.github.io/publication/gnn_kernel_access26/" />
   <meta property="og:title" content="BiKD: Bidirectional Kernel Decomposition for Large-Scale GCNs on GPU | Computer System Architecture Lab" />
-  <meta property="og:description" content="Graph convolutional neural networks (GCNs) are emerging neural networks for graph structures that include large features associated with each vertex. The operations of GCN can be divided into two phases - aggregation and combination. While the combination just performs matrix multiplications using trained weights and aggregated features, the aggregation phase requires graph traversal to collect features from adjacent vertices. Even though neural network applications rely on GPU&#39;s massively parallel processing, GCN aggregation kernels exhibit rather low performance since graph processing using compressed graph structures provokes frequent irregular accesses in GPUs. In order to investigate the performance hurdles of GCN aggregation on GPU, we perform an in-depth analysis of the aggregation kernels using real GPU hardware and a cycle-accurate GPU simulator. We first analyze the characteristics of the popular graph datasets used for GCN studies. We reveal the fractions of non-zero elements in feature vectors are diverse among datasets. Based on the observation, we build two types of aggregation kernels that handle uncompressed and compressed feature vectors. Our evaluation exhibits the performance of aggregation can be significantly influenced by kernel design approaches and feature density. We also analyze the individual loads that access the data arrays of the aggregation kernels to specify critical loads. Our analysis reveals the performance of GPU memory hierarchy is influenced by access patterns and feature size of graph datasets. Based on our observations we discuss possible kernel design approaches and architectural ideas that can improve the performance of GCN aggregation." /><meta property="og:image" content="https://ku-csarch.github.io/publication/gnn_kernel_access26/featured.png" />
+  <meta property="og:description" content="Graph convolutional neural networks (GCNs) are representative graph neural network (GNN) models that can be used for analyzing and classifying nodes in graph structures. Since graph structures exhibit extremely sparse and irregular connections among many vertices, graph processing is not efficient on GPUs as GPUs are designed for accelerating regularly structured datasets. Since GCN kernels handle large feature data associated with vertices, GCN kernels exhibit extremely low efficiency on GPU. We analyze the behavior of the GCN aggregation kernel on GPU to reveal the performance hurdles of GCN kernels. In this paper, we propose an efficient GCN kernel design approach, called BiKD. We first propose a CTA-level vertex mapping approach to tackle the lower resource utilization in GPU. We reveal that the GPU’s kernel execution model is not efficient for handling unbalanced graph structures. By mapping vertices to multiple CTAs in GCN aggregation kernels, GPUs can instantly assign available resources to new CTAs without synchronization among multiple vertices. Then we propose kernel decomposition approaches to reduce the data structure size handled by a single GCN aggregation kernel. We observe GPU’s L2 cache cannot exploit inter-vertex locality since the size of feature data associated with vertices is significantly large compared to the L2 cache space. Our evaluation shows that the proposed kernel design improves GCN aggregation performance by 1.31× over GE-SpMM, 1.39× over DGL with METIS reordering (DGL-METIS), 2.11× over GNNAdvisor, and 2.22× over the baseline DGL implementation. We also observe that the proposed kernel design can improve the utilization of the GPU’s cache hierarchy dramatically." /><meta property="og:image" content="https://ku-csarch.github.io/publication/gnn_kernel_access26/featured.png" />
     <meta property="twitter:image" content="https://ku-csarch.github.io/publication/gnn_kernel_access26/featured.png" /><meta property="og:locale" content="en-us" />
   
     
       <meta
         property="article:published_time"
-        content="2026-06-12T00:00:00&#43;00:00"
+        content="2026-06-22T00:00:00&#43;00:00"
       />
     
-    <meta property="article:modified_time" content="2026-10-21T00:00:00&#43;00:00">
+    <meta property="article:modified_time" content="2026-06-22T00:00:00&#43;00:00">
   
 
   
@@ -347,8 +347,8 @@
     "https://ku-csarch.github.io/publication/gnn_kernel_access26/featured.png"
   ],
   
-  "datePublished": "2026-06-12T00:00:00Z",
-  "dateModified": "2026-10-21T00:00:00Z",
+  "datePublished": "2026-06-22T00:00:00Z",
+  "dateModified": "2026-06-22T00:00:00Z",
   
   "author": {
     "@type": "Person",
@@ -363,7 +363,7 @@
       "url": "https://ku-csarch.github.io/media/icon_hufc4ea502f7977d2b250399d95297f953_357528_192x192_fill_lanczos_center_3.png"
     }
   },
-  "description": "Graph convolutional neural networks (GCNs) are emerging neural networks for graph structures that include large features associated with each vertex. The operations of GCN can be divided into two phases - aggregation and combination. While the combination just performs matrix multiplications using trained weights and aggregated features, the aggregation phase requires graph traversal to collect features from adjacent vertices. Even though neural network applications rely on GPU's massively parallel processing, GCN aggregation kernels exhibit rather low performance since graph processing using compressed graph structures provokes frequent irregular accesses in GPUs. In order to investigate the performance hurdles of GCN aggregation on GPU, we perform an in-depth analysis of the aggregation kernels using real GPU hardware and a cycle-accurate GPU simulator. We first analyze the characteristics of the popular graph datasets used for GCN studies. We reveal the fractions of non-zero elements in feature vectors are diverse among datasets. Based on the observation, we build two types of aggregation kernels that handle uncompressed and compressed feature vectors. Our evaluation exhibits the performance of aggregation can be significantly influenced by kernel design approaches and feature density. We also analyze the individual loads that access the data arrays of the aggregation kernels to specify critical loads. Our analysis reveals the performance of GPU memory hierarchy is influenced by access patterns and feature size of graph datasets. Based on our observations we discuss possible kernel design approaches and architectural ideas that can improve the performance of GCN aggregation."
+  "description": "Graph convolutional neural networks (GCNs) are representative graph neural network (GNN) models that can be used for analyzing and classifying nodes in graph structures. Since graph structures exhibit extremely sparse and irregular connections among many vertices, graph processing is not efficient on GPUs as GPUs are designed for accelerating regularly structured datasets. Since GCN kernels handle large feature data associated with vertices, GCN kernels exhibit extremely low efficiency on GPU. We analyze the behavior of the GCN aggregation kernel on GPU to reveal the performance hurdles of GCN kernels. In this paper, we propose an efficient GCN kernel design approach, called BiKD. We first propose a CTA-level vertex mapping approach to tackle the lower resource utilization in GPU. We reveal that the GPU’s kernel execution model is not efficient for handling unbalanced graph structures. By mapping vertices to multiple CTAs in GCN aggregation kernels, GPUs can instantly assign available resources to new CTAs without synchronization among multiple vertices. Then we propose kernel decomposition approaches to reduce the data structure size handled by a single GCN aggregation kernel. We observe GPU’s L2 cache cannot exploit inter-vertex locality since the size of feature data associated with vertices is significantly large compared to the L2 cache space. Our evaluation shows that the proposed kernel design improves GCN aggregation performance by 1.31× over GE-SpMM, 1.39× over DGL with METIS reordering (DGL-METIS), 2.11× over GNNAdvisor, and 2.22× over the baseline DGL implementation. We also observe that the proposed kernel design can improve the utilization of the GPU’s cache hierarchy dramatically."
 }
 </script>
 
@@ -835,7 +835,7 @@
     
       
     
-    October, 2026
+    June, 2026
   </span>
   
 
@@ -875,7 +875,7 @@
 
 
 
-<a class="btn btn-outline-primary btn-page-header" href="https://filedn.com/luEeJVCCazShDlU4ibloXvu/publication/gnn_load_access22/gnn_load_access22.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header" href="https://filedn.com/luEeJVCCazShDlU4ibloXvu/publication/gnn_kernel_access26/gnn_kernel_access26.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
@@ -891,12 +891,6 @@
 
 
   
-  <a class="btn btn-outline-primary btn-page-header" href="/project/dsa/">
-    Project
-  </a>
-  
-
-  
   <a class="btn btn-outline-primary btn-page-header" href="/project/gpu/">
     Project
   </a>
@@ -910,7 +904,7 @@
 
 
 
-<a class="btn btn-outline-primary btn-page-header" href="https://doi.org/10.1109/ACCESS.2022.3217222" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header" href="https://doi.org/10.1109/ACCESS.2026.3705782" target="_blank" rel="noopener">
   DOI
 </a>
 
@@ -922,9 +916,9 @@
 </div>
 
 
-<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 660px; max-height: 279px;">
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 568px; max-height: 285px;">
   <div style="position: relative">
-    <img src="/publication/gnn_kernel_access26/featured_hue720b569bae93ee25f9f048bc57dd6e0_58890_720x2500_fit_q75_h2_lanczos_3.webp" width="660" height="279" alt="" class="featured-image">
+    <img src="/publication/gnn_kernel_access26/featured_hu3d4a419423db504498aca0d85cff6602_55277_720x2500_fit_q75_h2_lanczos_3.webp" width="568" height="285" alt="" class="featured-image">
     
   </div>
 </div>
@@ -935,7 +929,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract">Graph convolutional neural networks (GCNs) are emerging neural networks for graph structures that include large features associated with each vertex. The operations of GCN can be divided into two phases - aggregation and combination. While the combination just performs matrix multiplications using trained weights and aggregated features, the aggregation phase requires graph traversal to collect features from adjacent vertices. Even though neural network applications rely on GPU&rsquo;s massively parallel processing, GCN aggregation kernels exhibit rather low performance since graph processing using compressed graph structures provokes frequent irregular accesses in GPUs. In order to investigate the performance hurdles of GCN aggregation on GPU, we perform an in-depth analysis of the aggregation kernels using real GPU hardware and a cycle-accurate GPU simulator. We first analyze the characteristics of the popular graph datasets used for GCN studies. We reveal the fractions of non-zero elements in feature vectors are diverse among datasets. Based on the observation, we build two types of aggregation kernels that handle uncompressed and compressed feature vectors. Our evaluation exhibits the performance of aggregation can be significantly influenced by kernel design approaches and feature density. We also analyze the individual loads that access the data arrays of the aggregation kernels to specify critical loads. Our analysis reveals the performance of GPU memory hierarchy is influenced by access patterns and feature size of graph datasets. Based on our observations we discuss possible kernel design approaches and architectural ideas that can improve the performance of GCN aggregation.</p>
+    <p class="pub-abstract">Graph convolutional neural networks (GCNs) are representative graph neural network (GNN) models that can be used for analyzing and classifying nodes in graph structures. Since graph structures exhibit extremely sparse and irregular connections among many vertices, graph processing is not efficient on GPUs as GPUs are designed for accelerating regularly structured datasets. Since GCN kernels handle large feature data associated with vertices, GCN kernels exhibit extremely low efficiency on GPU. We analyze the behavior of the GCN aggregation kernel on GPU to reveal the performance hurdles of GCN kernels. In this paper, we propose an efficient GCN kernel design approach, called BiKD. We first propose a CTA-level vertex mapping approach to tackle the lower resource utilization in GPU. We reveal that the GPU’s kernel execution model is not efficient for handling unbalanced graph structures. By mapping vertices to multiple CTAs in GCN aggregation kernels, GPUs can instantly assign available resources to new CTAs without synchronization among multiple vertices. Then we propose kernel decomposition approaches to reduce the data structure size handled by a single GCN aggregation kernel. We observe GPU’s L2 cache cannot exploit inter-vertex locality since the size of feature data associated with vertices is significantly large compared to the L2 cache space. Our evaluation shows that the proposed kernel design improves GCN aggregation performance by 1.31× over GE-SpMM, 1.39× over DGL with METIS reordering (DGL-METIS), 2.11× over GNNAdvisor, and 2.22× over the baseline DGL implementation. We also observe that the proposed kernel design can improve the utilization of the GPU’s cache hierarchy dramatically.</p>
     
 
     
@@ -984,13 +978,11 @@
   
   <a class="badge badge-light" href="/tag/graph-neural-networks/">Graph Neural Networks</a>
   
-  <a class="badge badge-light" href="/tag/gcn/">GCN</a>
-  
-  <a class="badge badge-light" href="/tag/aggregation/">Aggregation</a>
+  <a class="badge badge-light" href="/tag/kernel-optimization/">Kernel Optimization</a>
   
   <a class="badge badge-light" href="/tag/gpu/">GPU</a>
   
-  <a class="badge badge-light" href="/tag/characteristics/">Characteristics</a>
+  <a class="badge badge-light" href="/tag/preprocessing/">Preprocessing</a>
   
 </div>
 

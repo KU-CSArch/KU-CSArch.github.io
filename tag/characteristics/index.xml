@@ -5,28 +5,12 @@
     <link>https://ku-csarch.github.io/tag/characteristics/</link>
       <atom:link href="https://ku-csarch.github.io/tag/characteristics/index.xml" rel="self" type="application/rss+xml" />
     <description>Characteristics</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 21 Oct 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 21 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ku-csarch.github.io/media/icon_hufc4ea502f7977d2b250399d95297f953_357528_512x512_fill_lanczos_center_3.png</url>
       <title>Characteristics</title>
       <link>https://ku-csarch.github.io/tag/characteristics/</link>
     </image>
-    
-    <item>
-      <title>BiKD: Bidirectional Kernel Decomposition for Large-Scale GCNs on GPU</title>
-      <link>https://ku-csarch.github.io/publication/gnn_kernel_access26/</link>
-      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-      <guid>https://ku-csarch.github.io/publication/gnn_kernel_access26/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SparsePIM&#43;: Accelerating SpMV on HBM-Based PIM via Logic-Die Accumulators with Opportunistic TSV Utilization</title>
-      <link>https://ku-csarch.github.io/publication/pim_spmv_jsa26/</link>
-      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-      <guid>https://ku-csarch.github.io/publication/pim_spmv_jsa26/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Analyzing GCN Aggregation on GPU</title>

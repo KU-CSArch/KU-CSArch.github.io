@@ -21,18 +21,10 @@
     </item>
     
     <item>
-      <title>Three Birds, One Stone: Fast, Accurate-aware and Cost-Efficient Accelerator for Ternary LLM</title>
-      <link>https://ku-csarch.github.io/publication/npu_tllm_ics26/</link>
-      <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://ku-csarch.github.io/publication/npu_tllm_ics26/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SumcheckPIM: An Efficient HBM-Based PIM Architecture for Linear Complexity Zero Knowledge Proofs</title>
-      <link>https://ku-csarch.github.io/publication/pim_sumcheck_ics26/</link>
-      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://ku-csarch.github.io/publication/pim_sumcheck_ics26/</guid>
+      <title>SparsePIM&#43;: Accelerating SpMV on HBM-Based PIM via Logic-Die Accumulators with Opportunistic TSV Utilization</title>
+      <link>https://ku-csarch.github.io/publication/pim_spmv_jsa26/</link>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/pim_spmv_jsa26/</guid>
       <description></description>
     </item>
     

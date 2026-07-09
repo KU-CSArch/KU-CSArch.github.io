@@ -5,12 +5,20 @@
     <link>https://ku-csarch.github.io/authors/ji-yeong-yi/</link>
       <atom:link href="https://ku-csarch.github.io/authors/ji-yeong-yi/index.xml" rel="self" type="application/rss+xml" />
     <description>Ji Yeong Yi</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 13 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 14 Oct 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ku-csarch.github.io/media/icon_hufc4ea502f7977d2b250399d95297f953_357528_512x512_fill_lanczos_center_3.png</url>
       <title>Ji Yeong Yi</title>
       <link>https://ku-csarch.github.io/authors/ji-yeong-yi/</link>
     </image>
+    
+    <item>
+      <title>Complex Tensor Core: Software-Hardware Co-Design for Accelerating Complex-Valued Neural Networks on GPUs</title>
+      <link>https://ku-csarch.github.io/publication/gpu_cvnn_micro26/</link>
+      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/gpu_cvnn_micro26/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>HALO: Hybrid Systolic Arrays via Logical Partitioning for Acceleration of Complex-Valued Neural Networks</title>

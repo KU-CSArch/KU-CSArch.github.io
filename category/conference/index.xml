@@ -5,12 +5,21 @@
     <link>https://ku-csarch.github.io/category/conference/</link>
       <atom:link href="https://ku-csarch.github.io/category/conference/index.xml" rel="self" type="application/rss+xml" />
     <description>Conference</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 May 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 08 Jul 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ku-csarch.github.io/media/icon_hufc4ea502f7977d2b250399d95297f953_357528_512x512_fill_lanczos_center_3.png</url>
       <title>Conference</title>
       <link>https://ku-csarch.github.io/category/conference/</link>
     </image>
+    
+    <item>
+      <title>Two papers accepted to MICRO 2026</title>
+      <link>https://ku-csarch.github.io/post/accepted-micro26/</link>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/accepted-micro26/</guid>
+      <description>&lt;p&gt;Two papers were accepted to the &lt;em&gt;59th IEEE/ACM International Symposimum on Microarchitecture (MICRO) 2026&lt;/em&gt;. One paper proposes a fault entry merging mechanism for efficient batching in unified virtual memory (UVM) of GPU. Our proposed merging scheme enables direct fault entry merging on GPU without intervention from the host. Another paper presents &lt;em&gt;Complex Tensor Core&lt;/em&gt;, an efficient Tensor Core architecture for accelerating complex-valued neural networks (CVNNs) on GPU. &lt;em&gt;Complex Tensor Core&lt;/em&gt; combines real and imaginary part products into a single operation on Tensor Core.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>One paper accepted to Euro-Par 2026</title>

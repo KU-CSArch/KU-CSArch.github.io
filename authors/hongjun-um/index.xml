@@ -5,7 +5,7 @@
     <link>https://ku-csarch.github.io/authors/hongjun-um/</link>
       <atom:link href="https://ku-csarch.github.io/authors/hongjun-um/index.xml" rel="self" type="application/rss+xml" />
     <description>Hongjun Um</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 10 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 05 Jul 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ku-csarch.github.io/media/icon_hufc4ea502f7977d2b250399d95297f953_357528_512x512_fill_lanczos_center_3.png</url>
       <title>Hongjun Um</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Three Birds, One Stone: Fast, Accurate-aware and Cost-Efficient Accelerator for Ternary LLM</title>
       <link>https://ku-csarch.github.io/publication/npu_tllm_ics26/</link>
-      <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 05 Jul 2026 00:00:00 +0000</pubDate>
       <guid>https://ku-csarch.github.io/publication/npu_tllm_ics26/</guid>
       <description></description>
     </item>

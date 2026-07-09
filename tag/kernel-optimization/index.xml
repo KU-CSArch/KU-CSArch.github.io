@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kernel Optimization | Computer System Architecture Lab</title>
+    <link>https://ku-csarch.github.io/tag/kernel-optimization/</link>
+      <atom:link href="https://ku-csarch.github.io/tag/kernel-optimization/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kernel Optimization</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 22 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ku-csarch.github.io/media/icon_hufc4ea502f7977d2b250399d95297f953_357528_512x512_fill_lanczos_center_3.png</url>
+      <title>Kernel Optimization</title>
+      <link>https://ku-csarch.github.io/tag/kernel-optimization/</link>
+    </image>
+    
+    <item>
+      <title>BiKD: Bidirectional Kernel Decomposition for Large-Scale GCNs on GPU</title>
+      <link>https://ku-csarch.github.io/publication/gnn_kernel_access26/</link>
+      <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/gnn_kernel_access26/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

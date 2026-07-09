@@ -5,12 +5,21 @@
     <link>https://ku-csarch.github.io/category/service/</link>
       <atom:link href="https://ku-csarch.github.io/category/service/index.xml" rel="self" type="application/rss+xml" />
     <description>Service</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 17 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 29 May 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ku-csarch.github.io/media/icon_hufc4ea502f7977d2b250399d95297f953_357528_512x512_fill_lanczos_center_3.png</url>
       <title>Service</title>
       <link>https://ku-csarch.github.io/category/service/</link>
     </image>
+    
+    <item>
+      <title>Prof. Gunjae Koo will be serving on the program committee for HPCA 2027</title>
+      <link>https://ku-csarch.github.io/post/committee-hpca27/</link>
+      <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/committee-hpca27/</guid>
+      <description>&lt;p&gt;Prof. Gunjae Koo will be serving as a regular member on the program committee for the 33rd IEEE International Symposium on High-Performance Computer Architecture (&lt;a href=&#34;https://hpca-conf.org/2027/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HPCA 2027&lt;/a&gt;). HPCA 2027 will be held in Salt Lake City, UT, USA. Please submit your best work!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Prof. Gunjae Koo will be serving on the program committee for IISWC 2026</title>
