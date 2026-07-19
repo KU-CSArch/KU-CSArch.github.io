@@ -5,12 +5,20 @@
     <link>https://ku-csarch.github.io/publication/</link>
       <atom:link href="https://ku-csarch.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 14 Oct 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 18 Nov 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ku-csarch.github.io/media/icon_hufc4ea502f7977d2b250399d95297f953_357528_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://ku-csarch.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>SoftmaxPIM: An HBM-Based PIM Architecture for Accelerating GeMV--Softmax Execution Pipeline</title>
+      <link>https://ku-csarch.github.io/publication/pim_softmax_cal26/</link>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/pim_softmax_cal26/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Complex Tensor Core: Software-Hardware Co-Design for Accelerating Complex-Valued Neural Networks on GPUs</title>

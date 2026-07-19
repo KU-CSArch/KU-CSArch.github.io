@@ -5,12 +5,20 @@
     <link>https://ku-csarch.github.io/authors/admin/</link>
       <atom:link href="https://ku-csarch.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>Gunjae Koo</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 14 Oct 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 18 Nov 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ku-csarch.github.io/authors/admin/avatar_hu82dedd9a8cc969e0c17c0689e6c62001_573516_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Gunjae Koo</title>
       <link>https://ku-csarch.github.io/authors/admin/</link>
     </image>
+    
+    <item>
+      <title>SoftmaxPIM: An HBM-Based PIM Architecture for Accelerating GeMV--Softmax Execution Pipeline</title>
+      <link>https://ku-csarch.github.io/publication/pim_softmax_cal26/</link>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/pim_softmax_cal26/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Complex Tensor Core: Software-Hardware Co-Design for Accelerating Complex-Valued Neural Networks on GPUs</title>
@@ -34,6 +42,15 @@
       <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
       <guid>https://ku-csarch.github.io/publication/npu_analysis_europar26/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>One paper accepted to IEEE CAL (Journal, SCIE)</title>
+      <link>https://ku-csarch.github.io/post/accepted-cal26/</link>
+      <pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/accepted-cal26/</guid>
+      <description>&lt;p&gt;One paper has been accepted for publication in &lt;em&gt;IEEE Computer Architecture Letters&lt;/em&gt;. Our paper presents a processing-in-memory (PIM) architecture for accelerating GeMV-softmax compute pipeline, called &lt;em&gt;SoftmaxPIM&lt;/em&gt;. In order to accelerate GeMV-softmax compute pipeline, SoftmaxPIM integrates lightweight near-bank softmax units based on an approximation-based softmax formulation alongside with the SIMD units on PIM dies of an HBM stack.&lt;/p&gt;
+</description>
     </item>
     
     <item>

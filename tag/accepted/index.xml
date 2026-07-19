@@ -5,12 +5,21 @@
     <link>https://ku-csarch.github.io/tag/accepted/</link>
       <atom:link href="https://ku-csarch.github.io/tag/accepted/index.xml" rel="self" type="application/rss+xml" />
     <description>Accepted</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 08 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 18 Jul 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ku-csarch.github.io/media/icon_hufc4ea502f7977d2b250399d95297f953_357528_512x512_fill_lanczos_center_3.png</url>
       <title>Accepted</title>
       <link>https://ku-csarch.github.io/tag/accepted/</link>
     </image>
+    
+    <item>
+      <title>One paper accepted to IEEE CAL (Journal, SCIE)</title>
+      <link>https://ku-csarch.github.io/post/accepted-cal26/</link>
+      <pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/accepted-cal26/</guid>
+      <description>&lt;p&gt;One paper has been accepted for publication in &lt;em&gt;IEEE Computer Architecture Letters&lt;/em&gt;. Our paper presents a processing-in-memory (PIM) architecture for accelerating GeMV-softmax compute pipeline, called &lt;em&gt;SoftmaxPIM&lt;/em&gt;. In order to accelerate GeMV-softmax compute pipeline, SoftmaxPIM integrates lightweight near-bank softmax units based on an approximation-based softmax formulation alongside with the SIMD units on PIM dies of an HBM stack.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Two papers accepted to MICRO 2026</title>
