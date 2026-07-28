@@ -5,12 +5,21 @@
     <link>https://ku-csarch.github.io/authors/sunchae-kim/</link>
       <atom:link href="https://ku-csarch.github.io/authors/sunchae-kim/index.xml" rel="self" type="application/rss+xml" />
     <description>Sunchae Kim</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 05 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 09 Jul 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ku-csarch.github.io/authors/sunchae-kim/avatar_hu174ee1312a49a8882191f7da89a8d2d7_355583_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Sunchae Kim</title>
       <link>https://ku-csarch.github.io/authors/sunchae-kim/</link>
     </image>
+    
+    <item>
+      <title>Sunchae presented at ICS 2026</title>
+      <link>https://ku-csarch.github.io/post/present-ics26/</link>
+      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/present-ics26/</guid>
+      <description>&lt;p&gt;Sunchae presented his research work regarding an HBM-based PIM architecture for the sumcheck protocol at the International Conference on Supercomputing 2026 (&lt;a href=&#34;https://dipsa-qub.github.io/ICS2026-webpage/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ICS 2026&lt;/a&gt;). ICS is one of premier conferences on high-performance computing systems and architectures. Good job, Sunchae!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>SumcheckPIM: An Efficient HBM-Based PIM Architecture for Linear Complexity Zero Knowledge Proofs</title>
