@@ -5,12 +5,20 @@
     <link>https://ku-csarch.github.io/authors/hyeran-jeon/</link>
       <atom:link href="https://ku-csarch.github.io/authors/hyeran-jeon/index.xml" rel="self" type="application/rss+xml" />
     <description>Hyeran Jeon</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 25 May 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 30 Sep 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ku-csarch.github.io/media/icon_hufc4ea502f7977d2b250399d95297f953_357528_512x512_fill_lanczos_center_3.png</url>
       <title>Hyeran Jeon</title>
       <link>https://ku-csarch.github.io/authors/hyeran-jeon/</link>
     </image>
+    
+    <item>
+      <title>Characterizing Performance Bottleneck of Distributed Shared Memory in Modern GPUs</title>
+      <link>https://ku-csarch.github.io/publication/gpu_dsmem_iiswc26/</link>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/gpu_dsmem_iiswc26/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>CTA-Aware Prefetching and Scheduling for GPU</title>

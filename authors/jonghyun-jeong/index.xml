@@ -5,12 +5,29 @@
     <link>https://ku-csarch.github.io/authors/jonghyun-jeong/</link>
       <atom:link href="https://ku-csarch.github.io/authors/jonghyun-jeong/index.xml" rel="self" type="application/rss+xml" />
     <description>Jonghyun Jeong</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 22 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 30 Sep 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ku-csarch.github.io/authors/jonghyun-jeong/avatar_hue75a30926df1e81e0e89ac6f538ed5e2_185058_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Jonghyun Jeong</title>
       <link>https://ku-csarch.github.io/authors/jonghyun-jeong/</link>
     </image>
+    
+    <item>
+      <title>Characterizing Performance Bottleneck of Distributed Shared Memory in Modern GPUs</title>
+      <link>https://ku-csarch.github.io/publication/gpu_dsmem_iiswc26/</link>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/publication/gpu_dsmem_iiswc26/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>One paper accepted to IISWC 2026</title>
+      <link>https://ku-csarch.github.io/post/accepted-iiswc26/</link>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://ku-csarch.github.io/post/accepted-iiswc26/</guid>
+      <description>&lt;p&gt;One papers has been accepted to the &lt;em&gt;2026 IEEE International Symposium on Workload Characterization (IISWC)&lt;/em&gt;. Our paper characterizes the performance bottleneck of distributed shared memory (DSMEM) in modern GPU architectures by analyzing data access patterns across shared memory blocks within a GPU processing cluster.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>BiKD: Bidirectional Kernel Decomposition for Large-Scale GCNs on GPU</title>
